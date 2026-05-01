@@ -1,0 +1,1433 @@
+{
+  "restaurant_id": "catchtable_-ksGQU1j2tWdJe7UdmNxXQ",
+  "shop_ref": "-ksGQU1j2tWdJe7UdmNxXQ",
+  "crawled_at": "2026-04-25T01:29:12.542612+09:00",
+  "source_url": "https://app.catchtable.co.kr/ct/shop/-ksGQU1j2tWdJe7UdmNxXQ",
+  "basic_info": {
+    "name": "나기",
+    "name_en": "Nagi Dining",
+    "alias": "nagi_",
+    "category": "이자카야",
+    "area": "마곡",
+    "description": "일본감성 가득한 공간과 테이블 셋팅 및 그릇과 함께 맛보실 수 있는 식당",
+    "address": "서울특별시 강서구 공항대로 195 힐스테이트에코동익 상가1층 128호",
+    "address_old": "서울특별시 강서구 마곡동 773-3 힐스테이트에코동익 상가1층 128호",
+    "latitude": 37.559888,
+    "longitude": 126.8291698,
+    "phone": "050-71312-2999",
+    "price_range": "1만원 ~ 1만원",
+    "sns_url": "https://www.instagram.com/nagi_dining",
+    "images": [
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/ec34315c631e4ae4bdd66b551c7bcdf9",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/905e75b6bace4949b4b23600ae75c684",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/a6f5320b32514552a768e31e4cb08bc1",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/a7422fd42ffa49a89e43a4ceeb010839",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/81a00f9077444af786774e0c0f0c3557"
+    ],
+    "main_service": "DINING"
+  },
+  "schedule": [],
+  "facilities": [
+    "주차",
+    "자동결제",
+    "단체",
+    "대관",
+    "장애인 편의시설",
+    "무선인터넷"
+  ],
+  "can_reserve": false,
+  "tv_appearances": [],
+  "review_summary": {
+    "total_count": 5,
+    "rating": 5.0,
+    "food_score": 0.0,
+    "ambience_score": 0.0,
+    "service_score": 0.0
+  },
+  "save_count": null,
+  "menus": [
+    {
+      "category": "메인메뉴",
+      "name": "모듬 사시미 2인",
+      "price_min": 28000,
+      "price_max": null,
+      "description": "광어, 연어, 고등어초회, 삼치, 전복, 아카미, 토로 2점씩 총 14점",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/e11d8dfdf96a42c1b7ea08c50d875677",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인메뉴",
+      "name": "야키토리 4꼬치",
+      "price_min": 16000,
+      "price_max": null,
+      "description": " 9가지의 다양한 재료들 중 내 마음대로 골라먹는 비장탄에 구운 야키토리. ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/e6dae981c6944d4d895add37a1cc028e",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인메뉴",
+      "name": "마구로슈토 ",
+      "price_min": 21000,
+      "price_max": null,
+      "description": "참치 젓갈과 참치 그리고 아보카도. ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/11cabebf342048149798afccd66ffaa7",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인메뉴",
+      "name": "야키토리 6꼬치",
+      "price_min": 23000,
+      "price_max": null,
+      "description": "9가지의 다양한 재료들 중 내 마음대로 골라먹는 비장탄에 구운 야키토리.",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/ebbcc4d8467d4199bfb2394142946b22",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인메뉴",
+      "name": "항정살 유안미소 야키 ",
+      "price_min": 18000,
+      "price_max": null,
+      "description": "고소한 항정살을 일본 된장에 절여서 구운 요리. 새콤한 센마이쯔케와 함께. ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/9901fb284d3a470e9c56897055b6e441",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인메뉴",
+      "name": "카이센 토마토나베 ",
+      "price_min": 25000,
+      "price_max": null,
+      "description": "가리비와 홍합이 듬뿍 들어간 매콤한 토마토나베. 술 안주로도 좋아요. ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/b1aa0f21f3e74be1befad31f2244815a",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인메뉴",
+      "name": "후토마키 8피스",
+      "price_min": 24000,
+      "price_max": null,
+      "description": "여러 재료를 아끼지 않고 듬뿍 넣어 말아드립니다.",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/9a1017fa1ca148af8b08c7e40c2f7fec",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인메뉴",
+      "name": "수제오뎅나베 ",
+      "price_min": 25000,
+      "price_max": null,
+      "description": "직접 만든 치즈오뎅, 새우오뎅, 고추오뎅과 치쿠와 특제 겨자소스와 향긋한 파소스와 함께 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/a126805ad14640d089dcff1709f40fdf",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일품요리",
+      "name": "통도미조림 ",
+      "price_min": 22000,
+      "price_max": null,
+      "description": "도미 한마리를 통째로 달콤하게 졸인 요리. ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/59f570aff20943a199178fd58960fc81",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일품요리",
+      "name": "치킨카라아게",
+      "price_min": 16000,
+      "price_max": null,
+      "description": " 국내산 닭고기살로 만든 촉촉한 카라아게.",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/5e4d1e5c586e4189b2f5c913beed681a",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일품요리",
+      "name": "수제교자 ",
+      "price_min": 17000,
+      "price_max": null,
+      "description": "정성껏 빚은 육즙 팡팡 수제교자.",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/cf1d6fe3befb45699a9c92ad8cf784b9",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일품요리",
+      "name": "크림고로케 ",
+      "price_min": 13000,
+      "price_max": null,
+      "description": "홍게살이 들어있는 녹진한 크림고로케. ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/d31362cd864a47d98298755c38f8212c",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일품요리",
+      "name": "연어와 크림치즈 ",
+      "price_min": 14000,
+      "price_max": null,
+      "description": "연어를 크래커, 아보카도, 크림치즈소스와 함께 즐기는 핑거푸드. ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/696f835c328c41d38d32361934f4418e",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일품요리",
+      "name": "해산물 간장버터볶음 ",
+      "price_min": 19000,
+      "price_max": null,
+      "description": "전복, 오징어, 새우 등 해산물을 간장버터소스에 고소하게 볶은 요리. ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/bdc5726708d04a38b7a8064161ea2ddb",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "사이드",
+      "name": "고마도후 (사이드) ",
+      "price_min": 9000,
+      "price_max": null,
+      "description": "쫄깃 말랑한 일본식 깨두부. 특제 참깨소스로 고소함이 2배. ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/6942b7a4760844a0a3398fc1ae10099c",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "니혼슈(사케)",
+      "name": "닷사이 블루 타입23 720ml ",
+      "price_min": 300000,
+      "price_max": null,
+      "description": "닷사이 뉴욕 양조장에서 읿본산 야마다니시키를 가지고 허드슨 강의 경수를 이용하여 만든 사케",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/f997087d43b04acc871f8357bb2493f7",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "니혼슈(사케)",
+      "name": "비죠후 쥰마이다이긴죠 히나 720ml ",
+      "price_min": 130000,
+      "price_max": null,
+      "description": "볼륨감 있는 맛과 은은한 산미, 풍부한 풍미 뒤에 깔끔함의 밸런스가 일품인 사케",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/6b4d7cd742274040b5f69a5ca395a0b4",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "니혼슈(사케)",
+      "name": "하나가키 오우카세이카이 쥰마이다이긴죠",
+      "price_min": 120000,
+      "price_max": null,
+      "description": " 복숭아와 흩날리는 벚꽃을 연상케하는 산뜻함과 촉촉한 단맛이 특징인 사케 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/f5dd82271742420cbc59bd470781a6bc",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "니혼슈(사케)",
+      "name": "시치다 쥰마이 무로카 720ml ",
+      "price_min": 70000,
+      "price_max": null,
+      "description": "2023 Kura Master 금상 수상한 과일향과 바디감 감칠맛이 좋은 사케 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/9817b6c26fd94e31a5fea1d6f3dd1ba4",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "니혼슈(사케)",
+      "name": "이즈모후지 쥰마이 720ml ",
+      "price_min": 70000,
+      "price_max": null,
+      "description": "시마네현산 야마다니시키가 가진 부드럽고 청아한 특징의 쥰마이슈로 약간 드라이한 타입의 사케",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/fbe84c505d2043f0925ac58d0603f2b9",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "니혼슈(사케)",
+      "name": "핫카이산 에치고데소로 블루 300ml ",
+      "price_min": 40000,
+      "price_max": null,
+      "description": "1년에 한번 한정 생산하는 생원주로 19도로는 느껴지지 않는 부드러움과 생주의 신선한 사케 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/b8d84ec7d2104801900ab91abf32eb1c",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "니혼슈(사케)",
+      "name": "오니노시타부루이 300ml ",
+      "price_min": 30000,
+      "price_max": null,
+      "description": "상쾌한 목넘김과 맛을 겸비한 정통 초카라구치 사케 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/697c43eef03a4a7e88f66b750ec7d25d",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "니혼슈(사케)",
+      "name": "비죠후 유즈슈와 ",
+      "price_min": 40000,
+      "price_max": null,
+      "description": "상쾌한 목넘김의 발포성 유즈슈로 몽글몽글한 탄산감과 신선한 유자즙이 입안에서 퍼집니다 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/4ed51b15c7b94a4595a31ea89d52024e",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일본소주",
+      "name": "이치노죠 아사히 720ml",
+      "price_min": 120000,
+      "price_max": null,
+      "description": " 기존 아사히제품보다 2.5배의 흑당을 사용하고 산호초의 석탄층에서 나오는 물을 사용한 소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/f9355cc3595343fa932789ddcb8b59c8",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일본소주",
+      "name": "모구라 720ml",
+      "price_min": 110000,
+      "price_max": null,
+      "description": " 코가네센간의 특징을 최대한 살린 아라로카(거친여과) 방식의 향과 감칠맛이 뛰어난 고구마소주",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/970da916d67348cda5df92730fa5c6ce",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일본소주",
+      "name": "모구라 250ml ",
+      "price_min": 40000,
+      "price_max": null,
+      "description": "코가네센간의 특징을 최대한 살린 아라로카(거친여과) 방식의 향과 감칠맛이 뛰어난 고구마소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/afc103cca0554449b1e7495aae5a82b4",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일본소주",
+      "name": "카엔잔베니 900ml",
+      "price_min": 100000,
+      "price_max": null,
+      "description": " 단맛이 강한 베니사쯔마 증류원액과 베니사쯔마의 구운 고구마의 증류 원액을 블렌딩한 소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/28df8e5b66af4fff8d5ab4f672ba7490",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일본소주",
+      "name": "카엔잔베니 250ml ",
+      "price_min": 35000,
+      "price_max": null,
+      "description": "단맛이 강한 베니사쯔마 증류원액과 베니사쯔마의 구운 고구마의 증류 원액을 블렌딩한 소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/378b0715b20a4a64abc31f6adbcac2e3",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일본소주",
+      "name": "카츠 블루라벨 900ml ",
+      "price_min": 100000,
+      "price_max": null,
+      "description": "머스캣과 같은 상큼한 향기와 리치를 연상시키는 단맛의 새로운 발상의 신세대 고구마소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/edabdd8e19a14f8f8e98d5d7c223a13e",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일본소주",
+      "name": "카츠 블루라벨 250ml ",
+      "price_min": 35000,
+      "price_max": null,
+      "description": "머스캣과 같은 상큼한 향기와 리치를 연상시키는 단맛의 새로운 발상의 신세대 고구마소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/6da4fbb3cad54ad0b7ed25f266bccbda",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일본소주",
+      "name": "나카나카 720ml ",
+      "price_min": 85000,
+      "price_max": null,
+      "description": "큐슈현산 보리를 각각 감압증류, 상압증류하여 서로 다른 특징의 원주를 블렌딩한 보리소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/8061e2e8f27f42f881c3b0b3836e5c29",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일본소주",
+      "name": "나카나카 250ml ",
+      "price_min": 30000,
+      "price_max": null,
+      "description": "큐슈현산 보리를 각각 감압증류, 상압증류하여 서로 다른 특징의 원주를 블렌딩한 보리소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/c3fb89f6713c473cb1e456b3151788e3",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일본소주",
+      "name": "고쿠우 720ml ",
+      "price_min": 100000,
+      "price_max": null,
+      "description": "오크통에 4년이상 숙성하여 부드러운 목넘김과 은은하고 잔잔한 바닐라 향이 나는 보리소주",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/5a510631d1d74bd2ba8fdcf21da50a61",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일본소주",
+      "name": "고쿠우 250ml ",
+      "price_min": 35000,
+      "price_max": null,
+      "description": "오크통에 4년이상 숙성하여 부드러운 목넘김과 은은하고 잔잔한 바닐라 향이 나는 보리소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/201b102b5635464ba89e58eaa99cfacc",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일본소주",
+      "name": "긴자노스즈메 코하쿠 250ml ",
+      "price_min": 35000,
+      "price_max": null,
+      "description": "미국 켄터키주의 증류소에서 가져온 버번 위스키의 오크통에서 숙성한 부드러운 특징의 보리소주",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/e197f1a338e3436ba09348bd6ac6f11f",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일본소주",
+      "name": "긴자노스즈메 코하쿠 720ml",
+      "price_min": 100000,
+      "price_max": null,
+      "description": " 미국 켄터키주의 증류소에서 가져온 버번 위스키의 오크통에서 숙성한 부드러운 특징의 보리소주",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/cf59d0db34aa45ce8c85f06f183171ea",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일본소주",
+      "name": "다이시젠린 무기 720ml",
+      "price_min": 100000,
+      "price_max": null,
+      "description": " 수작업으로 만든 보리누룩(흑누룩)과 일본산 항아리에서 숙성하여 부드러운 향을 가진 보리소주",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/3e7e6608f78b4a1a9e20e7a1121a1ed8",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일본소주",
+      "name": "다이시젠린 무기 250ml ",
+      "price_min": 35000,
+      "price_max": null,
+      "description": "수작업으로 만든 보리누룩(흑누룩)과 일본산 항아리에서 숙성하여 부드러운 향을 가진 보리소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/0de306f5da5041a8afd62742183fdbfd",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일본소주",
+      "name": "코하쿠 무기시루 720ml ",
+      "price_min": 115000,
+      "price_max": null,
+      "description": "버진 셰리캐스크에서 숙성되어 부드러운 산미와 단맛, 고소한 보리의 향이 조화로운 보리소주",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/2c3a0217aabb456fb1c0cb3544e887d2",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일본소주",
+      "name": "코하쿠 무기시루 250ml ",
+      "price_min": 40000,
+      "price_max": null,
+      "description": "버진 셰리캐스크에서 숙성되어 부드러운 산미와 단맛, 고소한 보리의 향이 조화로운 보리소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/6db8240bac144a5991af2699fd7c3c61",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "음료&에이드",
+      "name": "그린 모히또 사와 ",
+      "price_min": 9000,
+      "price_max": null,
+      "description": "키위, 파인애플, 라임, 애플민트가 들어간 일본소주 베이스의 사와 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/8f4b7b4a365642649c10a88c2faca45a",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "음료&에이드",
+      "name": "핑크레몬사와 ",
+      "price_min": 9000,
+      "price_max": null,
+      "description": "레몬, 히비스커스, 라즈베리와 블루베리가 듬뿍 들어간 일본소주 베이스의 사와",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/f478f71567b941ccb34dc0cd516cf30e",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "맥주&하이볼",
+      "name": "조니워커 레드 하이볼 ",
+      "price_min": 9000,
+      "price_max": null,
+      "description": "조니워커 레드 위스키를 사용하여 클럽소다, 토닉워터, 진저에일 하이볼로 만들어드립니다. ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/0c42bd2f0d6544028dee74952b5e0eb5",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "맥주&하이볼",
+      "name": "페이머스그라우스 하이볼 ",
+      "price_min": 9000,
+      "price_max": null,
+      "description": "맥켈란 원액으로 만든 페이머스 그라우스 위스키를 사용하여 하이볼로 만들어드립니다.",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/25ba78ce0912467a93492431c2c9669e",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "맥주&하이볼",
+      "name": "라프로익 10년 하이볼 ",
+      "price_min": 17000,
+      "price_max": null,
+      "description": "아일라 섬의 대표적인 피트위스키인 라프로익 10년 위스키를 사용하여 하이볼로 만들어드립니다",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/f74d443e3a40431ca716e28aadd13963",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "맥주&하이볼",
+      "name": "글렌피딕 12년 하이볼 ",
+      "price_min": 17000,
+      "price_max": null,
+      "description": "글렌피딕12년 위스키와 클럽소다, 토닉워터, 진저에일을 사용하여 만들어드리는 향긋한 하이볼",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/bd526f485a2d4d108bcc844f6ff24467",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "토리요세나베 ",
+      "price_min": 25000,
+      "price_max": null,
+      "description": "향긋한 특제 유자폰즈소스와 함께 먹는 닭고기와 야채가 듬뿍 들어간 시원 칼칼한 나베 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/9a492158c76545d0af4495c2dc4b3f3d",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "삿뽀로 생맥주 ",
+      "price_min": 8000,
+      "price_max": null,
+      "description": "우스하리 글라스에 즐기는 시원한 삿뽀로 생맥주. ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/a8771c2ef9bd48358e009b55e3f3c469",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "감바레오우동상 ",
+      "price_min": 18000,
+      "price_max": null,
+      "description": "감바스에 빠진 우동, 신선한 야채와 해산물, 감칠맛 가득한 치즈가 듬뿍 뿌려진 볶음 우동",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/e65ad27af61144c292bc685ad6f107c3",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "차슈와 오이타타키 ",
+      "price_min": 20000,
+      "price_max": null,
+      "description": "달콤짭짤하게 졸인 한국인의 소울푸드 삼겹살과 일본 이자카야의 소울푸드인 오이타타키의 조합. ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/bd0c715ce5d04a6cb92058079e8e2ebc",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "토마토 바질페스트 (사이드) ",
+      "price_min": 9000,
+      "price_max": null,
+      "description": "토마토, 바질의 이탈리안에 일본(간장) 한숟갈. ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/e695a4f1f83c4185b153467fadec1b44",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "슬램덩크 정대만 나마자케 720ml ",
+      "price_min": 90000,
+      "price_max": null,
+      "description": "열처리를 생략한 나마자케로 기존의 드라이함에 프레시함이 더해져 산뜻함도 즐길 수 있는 사케 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/cc8a1e000afe4caebc126c979e895068",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "슬램덩크 정대만 사케 720ml ",
+      "price_min": 90000,
+      "price_max": null,
+      "description": "드라이함과 감칠맛이 특징인 카라구치 타입의 사케 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/54ede3a01d224205a964ca30aa27c60e",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "미요시키쿠 이치 무로카겐슈 ",
+      "price_min": 70000,
+      "price_max": null,
+      "description": "패션후르츠, 파인애플과 같은 새콤달콤한 향기와 고급스러운 단맛, 화이트와인같은 산미가 특징",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/b64306bec13b4f5fb5a4a2c0bd778cbb",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "니혼사카리 다이긴죠 720ml ",
+      "price_min": 60000,
+      "price_max": null,
+      "description": "깔끔하고 담백한 카라구치 이면서 풍부하고 화려한 긴죠향까지 갖추고 있는 가성비 사케 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/6a349c7d60524705a7a2d6f7ce850e6b",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "치요무스비쥰마이무로카나마겐슈720ml ",
+      "price_min": 70000,
+      "price_max": null,
+      "description": "쥰마이 무로카겐슈의 원주 출하 한정주로 생주 다운 신선함과 과일향이 특징인 사케 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/9651285de9ee441db5e84ccd6439783e",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "죠키겐 혼죠조 쇼죠 720ml ",
+      "price_min": 60000,
+      "price_max": null,
+      "description": "혼죠조에 긴죠슈를 블렌딩한 사케 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/55b28aa89bcd48ae8336f4465c4ae0ec",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "아타고노마츠 센레츠카라구치 720ml ",
+      "price_min": 60000,
+      "price_max": null,
+      "description": "끝맛이 깔끔한 카라구치 계열의 사케로 다양한 온도대에서 즐기기 좋은 사케 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/54ac5d3412bf4b1cba17612740a778d1",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "키쿠마사무네 죠센 혼죠조 250ml",
+      "price_min": 20000,
+      "price_max": null,
+      "description": " 전통적인 키모토 츠쿠리 방식으로 만들어진 사케로 잡미가 없고 깔끔한 맛과 목넘김이 특징 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/2f6c79e1f7e84507961a12c6c93fa54d",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "안동소주 일품 21도 ",
+      "price_min": 13000,
+      "price_max": null,
+      "description": "국산 증류식 소주 중 부드러움의 끝판왕! 일반 소주보다 부드러운 소주를 찾으시는 분께 추천",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/d425a2edd8c948ccb6ee334f5f365ba0",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "안동소주 일품 17도 ",
+      "price_min": 11000,
+      "price_max": null,
+      "description": "국산 증류식 소주 중 부드러움의 끝판왕! 일반 소주보다 부드러운 소주를 찾으시는 분께 추천 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/aaaac27b282c48df9006dc4784630026",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "참이슬 ",
+      "price_min": 5000,
+      "price_max": null,
+      "description": "참이슬 후레쉬",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/91bf46c6da2c43569f29c4147eb109b6",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "새로 ",
+      "price_min": 5000,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/8ac3c2ec0712482cb7971bb65f2e210d",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "텡구자쿠라 카이콘바타케 250ml ",
+      "price_min": 40000,
+      "price_max": null,
+      "description": "무농약, 무비료의 유기농 고구마를 수확 후 1개월 숙성 후에 만든 고구마소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/2ceacab6c1c64591b8c697445aec8bbd",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "다이야메 900ml",
+      "price_min": 100000,
+      "price_max": null,
+      "description": " 리치를 연상시키는 화사한 향기와 달콤하고 부드러운 맛, 깔끔한 뒷맛이 특징인 고구마소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/2189c4b26af84088a887d674ad6663e5",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "다이야메 250ml ",
+      "price_min": 35000,
+      "price_max": null,
+      "description": "리치를 연상시키는 화사한 향기와 달콤하고 부드러운 맛, 깔끔한 뒷맛이 특징인 고구마소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/6d4dfb9758ee4ae597fd443256d7defe",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "카츠 레드라벨 900ml",
+      "price_min": 100000,
+      "price_max": null,
+      "description": " 전통적인 항아리에서 빚고 증류 후 목통에서 숙성한 바디감과 부드러운 목넘김이 특징인 소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/855ef4da673e46c8a2b8544c35481f16",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "카츠 레드라벨 250ml",
+      "price_min": 35000,
+      "price_max": null,
+      "description": " 전통적인 항아리에서 빚고 증류 후 목통에서 숙성한 바디감과 부드러운 목넘김이 특징인 소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/06f6fc78850043a5a8c1f6a6a44caabe",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "사쯔마무소 무라사키 900ml ",
+      "price_min": 90000,
+      "price_max": null,
+      "description": "쿠마모토 국세청 주류감평회 우등상 수상한 자색 고구마의 매력을 충분히 끌어낸 고구마소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/41a350f1ba0f444dab8166d39c67b71d",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "사쯔마무소 무라사키 250ml ",
+      "price_min": 30000,
+      "price_max": null,
+      "description": "쿠마모토 국세청 주류감평회 우등상 수상한 자색 고구마의 매력을 충분히 끌어낸 고구마소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/5bfa96dbcc3b476da71f2f597e0d1efc",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "사쯔마무소 쿠로 900ml ",
+      "price_min": 90000,
+      "price_max": null,
+      "description": "가고시마 소주 감평회 7년연속 우등상 수상한 단맛, 감칠맛, 깨끗함의 밸런스가 뛰어난 소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/ac5aa44fbd824dc5add1aba275c58ee2",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "사쯔마무소 쿠로 250ml ",
+      "price_min": 30000,
+      "price_max": null,
+      "description": "가고시마 소주 감평회 7년연속 우등상 수상한 단맛, 감칠맛, 깨끗함의 밸런스가 뛰어난 소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/4e3464a2328b48fbb0ae16621fd8ddce",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "아라와자 사쿠라지마 900ml ",
+      "price_min": 85000,
+      "price_max": null,
+      "description": "미가키 증류라는 독자기술로 고구마소주 특유의 감칠맛과 향기를 부드럽고 경쾌하게 만든 소주",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/420327bf4a2a4c5dbc984dc5302da05b",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "아라와자 사쿠라지마 250ml",
+      "price_min": 25000,
+      "price_max": null,
+      "description": " 미가키 증류라는 독자기술로 고구마소주 특유의 감칠맛과 향기를 부드럽고 경쾌하게 만든 소주",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/22fb0341f6404b23bed3f7a968edc96f",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "나나쿠보 250ml ",
+      "price_min": 40000,
+      "price_max": null,
+      "description": "프루티하고 물과 같은 감각의 깔끔한 맛의 고구마소주로 고구마소주 명인 마에무라씨의 자신작 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/fbcca3ee55f7413cb5a28cada3f14504",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "무카시무카시 코슈 250ml ",
+      "price_min": 35000,
+      "price_max": null,
+      "description": "코가네센간을 사용해 전통적인 항아리에서 저장한 원주를 3년이상 숙성한 고구마소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/97cc787bb25543bfa2db4f1171f61efa",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "마루니시 베니하루카 250ml ",
+      "price_min": 35000,
+      "price_max": null,
+      "description": "베니하루카 품종과 흑국을 이용해 상압 증류한 달달하고 풍부한 향의 고구마 소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/a45470fdab034302ad62b7293a4eff30",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "텐마노시즈쿠 250ml ",
+      "price_min": 35000,
+      "price_max": null,
+      "description": "코가네센간과 흑국균을 사용해 제조한 고구마소주로 깊은 감칠맛이 특징 입니다 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/36b6029786e844c4af07048e2dba78f7",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "토미노호우잔 250ml ",
+      "price_min": 40000,
+      "price_max": null,
+      "description": "황국을 사용하여 만든 고구마소주로 향은 가볍지만 입안에 머금었을때는 감칠맛은 깊은 소주 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/404da18b61874b619987ca11877db717",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "줄리엣 빅토르 봄볼리 드라이 푸르민트",
+      "price_min": 100000,
+      "price_max": null,
+      "description": " 토카이 지역 봄볼리 포도밭에서만 생산된 푸르민트 품종의 포도로만 한정생산된 싱글빈야드 와인",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/666a84b8a14e4c0db371b3148446e97d",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "줄리엣 빅토르 에스테이트 푸르민트 ",
+      "price_min": 70000,
+      "price_max": null,
+      "description": "헝가리 토카이 지역의 화산성 테루아에서 나온 미네랄리티가 뚜렷한 드라이 화이트와인 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/3f02afd05c1a44309fc03f9890cde377",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "줄리엣 빅토르 브륏 나튀르 2021 ",
+      "price_min": 80000,
+      "price_max": null,
+      "description": "20개월 쉬르 리, 데고르주망 과정에서 당분을 첨가하지 않은 제로 도자쥬 스파클링 와인 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/904270bcf22440bb9a12aec417def332",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "샤토 카보스 2023",
+      "price_min": 60000,
+      "price_max": null,
+      "description": " 과실향이 풍부하고 부드러운 탄닌감이 조화로운 균형감이 뛰어난 와인 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/9dc96d8836ae4c839defb67c69635df0",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    }
+  ],
+  "menu_boards": [
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/e34b65a2904b46b587e7b58297eb7e7c",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/bac3704ee172497c999593728689038c",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/dda9829e0d8e4672a0c2839cef05cfff",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/c3ff9261e4694daead9cbd2c403511e2",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/a3f067a920a34b4da6606fe24e1a5388",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/5834a2fa65a44fe6934af92762821dba",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/d66c0799d80643cdbdf372902f46766f",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/39341ddbda0f407188f84b533ee3ce39",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/e7a3878c09304992b719a5e7d909af41",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/d209b55cb3994ae6a27a67582b1466bc"
+  ],
+  "menu_detail_info": {
+    "is_kids_menu": null,
+    "is_vegan": null,
+    "is_allergy_substitute": null,
+    "alcohol_required": null,
+    "corkage_guide": "콜키지 가능(유료) : 매장으로 문의 부탁드립니다.",
+    "last_updated": "2025-12-25"
+  },
+  "visit_purpose_summary": [
+    {
+      "purpose": "친목",
+      "code": "SOCIAL_GATHERING",
+      "count": 3
+    },
+    {
+      "purpose": "회식",
+      "code": "COMPANY_OUTING",
+      "count": 1
+    },
+    {
+      "purpose": "데이트",
+      "code": "DATE",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "5935631",
+      "review_seq": 5935631,
+      "article_seq": 5935861,
+      "is_editable": false,
+      "reg_date_raw": 1773653686000,
+      "created_at": "2026-03-16T18:34:46+09:00",
+      "writer": {
+        "user_identifier": "kOobo0gnDmKibut3wYUVOw",
+        "display_name": "도도한 식도락가_46782",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "도도한 식도락가_46782",
+      "author_id": "kOobo0gnDmKibut3wYUVOw",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "마곡 이자카야 끝판왕",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "d80b779d32a349c79b19235d20772d80",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/d80b779d32a349c79b19235d20772d80",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 1
+        },
+        {
+          "file_id": "8abe97dfb5a24d138d463b3a05062d88",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/8abe97dfb5a24d138d463b3a05062d88",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 2
+        },
+        {
+          "file_id": "2f9247166f4740cf95bd75682b83e1bb",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/2f9247166f4740cf95bd75682b83e1bb",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 3
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/d80b779d32a349c79b19235d20772d80",
+        "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/8abe97dfb5a24d138d463b3a05062d88",
+        "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/2f9247166f4740cf95bd75682b83e1bb"
+      ]
+    },
+    {
+      "review_id": "5799965",
+      "review_seq": 5799965,
+      "article_seq": 5800195,
+      "is_editable": false,
+      "reg_date_raw": 1771673331000,
+      "created_at": "2026-02-21T20:28:51+09:00",
+      "writer": {
+        "user_identifier": "L8lw2oyWNmhE9XxzkeA7Gw",
+        "display_name": "호기심 많은 마스터_50635",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "호기심 많은 마스터_50635",
+      "author_id": "L8lw2oyWNmhE9XxzkeA7Gw",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "처음 왔는데 음식 퀄리티와 분위기 모두 상상이상으로 만족했습니다! 재방문 의사가 커서 다음에 또 올 예정입니다! ",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "f0d958d205da4862857a43b25b6ee425",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/f0d958d205da4862857a43b25b6ee425",
+          "width": 640,
+          "height": 480,
+          "ordering": 1
+        },
+        {
+          "file_id": "f8711c784b4a4c04ab062256df8957ee",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/f8711c784b4a4c04ab062256df8957ee",
+          "width": 640,
+          "height": 480,
+          "ordering": 2
+        },
+        {
+          "file_id": "198cbb2d21ab4995910280b9b33bd962",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/198cbb2d21ab4995910280b9b33bd962",
+          "width": 640,
+          "height": 480,
+          "ordering": 3
+        },
+        {
+          "file_id": "efe1a3c8df394605a81192af7af1d9d8",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/efe1a3c8df394605a81192af7af1d9d8",
+          "width": 640,
+          "height": 480,
+          "ordering": 4
+        },
+        {
+          "file_id": "8ee16311979648e486487a69202fdec0",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/8ee16311979648e486487a69202fdec0",
+          "width": 480,
+          "height": 640,
+          "ordering": 5
+        },
+        {
+          "file_id": "bf677bd40a064de5886b09d7c1f47dfe",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/bf677bd40a064de5886b09d7c1f47dfe",
+          "width": 640,
+          "height": 480,
+          "ordering": 6
+        },
+        {
+          "file_id": "9c36e88aa4ae496790fb100164ed4bf8",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/9c36e88aa4ae496790fb100164ed4bf8",
+          "width": 640,
+          "height": 480,
+          "ordering": 7
+        },
+        {
+          "file_id": "dcfc979b55a3491fbf496c8e947ed0e6",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/dcfc979b55a3491fbf496c8e947ed0e6",
+          "width": 480,
+          "height": 640,
+          "ordering": 8
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/f0d958d205da4862857a43b25b6ee425",
+        "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/f8711c784b4a4c04ab062256df8957ee",
+        "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/198cbb2d21ab4995910280b9b33bd962",
+        "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/efe1a3c8df394605a81192af7af1d9d8",
+        "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/8ee16311979648e486487a69202fdec0",
+        "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/bf677bd40a064de5886b09d7c1f47dfe",
+        "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/9c36e88aa4ae496790fb100164ed4bf8",
+        "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/dcfc979b55a3491fbf496c8e947ed0e6"
+      ]
+    },
+    {
+      "review_id": "5210729",
+      "review_seq": 5210729,
+      "article_seq": 5210959,
+      "is_editable": false,
+      "reg_date_raw": 1764495726000,
+      "created_at": "2025-11-30T18:42:06+09:00",
+      "writer": {
+        "user_identifier": "CA4ZquqzsQPVlaJi-8eXIA",
+        "display_name": "심태도",
+        "profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2025/05/15076200b0434d2aa9fc97a99125dc81?userProfileThumb",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "심태도",
+      "author_id": "CA4ZquqzsQPVlaJi-8eXIA",
+      "author_profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2025/05/15076200b0434d2aa9fc97a99125dc81?userProfileThumb",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "사장님이 음식에 진심이십니다 자세한 설명에 최고의 맛까지\n우연히 발견하고 빙문했는데 최고였어요!!\n또 방문하겠습니다",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "COMPANY_OUTING",
+          "label": "회식"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "83bf105e62064fdd9419b90c1c7238d3",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/83bf105e62064fdd9419b90c1c7238d3",
+          "width": 1013,
+          "height": 1507,
+          "ordering": 1
+        },
+        {
+          "file_id": "1c4fac55836f4321a4c38e55293a1f1d",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/1c4fac55836f4321a4c38e55293a1f1d",
+          "width": 1600,
+          "height": 901,
+          "ordering": 2
+        },
+        {
+          "file_id": "35f4be256d9740b4af7cc728c33e0e75",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/35f4be256d9740b4af7cc728c33e0e75",
+          "width": 1600,
+          "height": 901,
+          "ordering": 3
+        },
+        {
+          "file_id": "61418c1f984741aebfc2e7382e208842",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/61418c1f984741aebfc2e7382e208842",
+          "width": 1399,
+          "height": 900,
+          "ordering": 4
+        },
+        {
+          "file_id": "fb7d905606324facb9509905c807eb53",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/fb7d905606324facb9509905c807eb53",
+          "width": 1536,
+          "height": 864,
+          "ordering": 5
+        },
+        {
+          "file_id": "650f60c34dde4d7f9c5dff6a5808ebbf",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/650f60c34dde4d7f9c5dff6a5808ebbf",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 6
+        },
+        {
+          "file_id": "129d12da46c9436c8fd9c94f92d405a6",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/129d12da46c9436c8fd9c94f92d405a6",
+          "width": 1600,
+          "height": 901,
+          "ordering": 7
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/83bf105e62064fdd9419b90c1c7238d3",
+        "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/1c4fac55836f4321a4c38e55293a1f1d",
+        "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/35f4be256d9740b4af7cc728c33e0e75",
+        "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/61418c1f984741aebfc2e7382e208842",
+        "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/fb7d905606324facb9509905c807eb53",
+        "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/650f60c34dde4d7f9c5dff6a5808ebbf",
+        "https://ugc-images.catchtable.co.kr/rv/s-ksGQU1j2tWdJe7UdmNxXQ/129d12da46c9436c8fd9c94f92d405a6"
+      ]
+    },
+    {
+      "review_id": "5416760",
+      "review_seq": 5416760,
+      "article_seq": 5416990,
+      "is_editable": false,
+      "reg_date_raw": 1766916493000,
+      "created_at": "2025-12-28T19:08:13+09:00",
+      "writer": {
+        "user_identifier": "YdhzTMKJ28q37sBZJDbzPg",
+        "display_name": "지누배",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "지누배",
+      "author_id": "YdhzTMKJ28q37sBZJDbzPg",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "음식도 맛있고 분위기도 좋아요 :)\n\n찐 후기입니다!",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5393772",
+      "review_seq": 5393772,
+      "article_seq": 5394002,
+      "is_editable": false,
+      "reg_date_raw": 1766755261000,
+      "created_at": "2025-12-26T22:21:01+09:00",
+      "writer": {
+        "user_identifier": "rBQgK_Fzj8kckytWefjcDw",
+        "display_name": "라하스",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "라하스",
+      "author_id": "rBQgK_Fzj8kckytWefjcDw",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    }
+  ],
+  "summary": {
+    "total_reviews_collected": 5,
+    "reviews_with_visit_purpose": 5,
+    "reviews_with_meal_time": 5,
+    "crawl_duration_seconds": 0.3
+  }
+}

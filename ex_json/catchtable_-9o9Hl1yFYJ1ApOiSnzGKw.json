@@ -1,0 +1,553 @@
+{
+  "restaurant_id": "catchtable_-9o9Hl1yFYJ1ApOiSnzGKw",
+  "shop_ref": "-9o9Hl1yFYJ1ApOiSnzGKw",
+  "crawled_at": "2026-04-25T01:28:53.144045+09:00",
+  "source_url": "https://app.catchtable.co.kr/ct/shop/-9o9Hl1yFYJ1ApOiSnzGKw",
+  "basic_info": {
+    "name": "선유이층",
+    "name_en": "Seonyu.2f",
+    "alias": "seonyu2f",
+    "category": "요리주점",
+    "area": "선유도",
+    "description": "회사 단체 대관 회식하기 좋은 선유도역 50평 프리미엄 요리 주점",
+    "address": "서울특별시 영등포구 양평로20길 17 송전빌딩 2층 201호",
+    "address_old": "서울특별시 영등포구 양평동4가 233-3 송전빌딩 2층 201호",
+    "latitude": 37.5385745,
+    "longitude": 126.8961159,
+    "phone": "070-8891-2747",
+    "price_range": "1만원 ~ 3만원",
+    "sns_url": "https://www.instagram.com/seonyu.2f",
+    "images": [
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/a3df8ebe0f174dbd9a542c442866c168",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/d23e0a5c0a474b2daa262f585c8daf0d",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/dea1a7d49f5b4312aef26269a07de457",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/c585531bd7034d67a9146df2c83cc829",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/d387937b72964bda84847b5c79057b12"
+    ],
+    "main_service": "DINING"
+  },
+  "schedule": [],
+  "facilities": [
+    "주차",
+    "발렛",
+    "웰컴키즈존",
+    "아기의자",
+    "자동결제",
+    "단체",
+    "대관",
+    "장애인 편의시설",
+    "무선인터넷"
+  ],
+  "can_reserve": false,
+  "tv_appearances": [],
+  "review_summary": {
+    "total_count": 4,
+    "rating": 5.0,
+    "food_score": 0.0,
+    "ambience_score": 0.0,
+    "service_score": 0.0
+  },
+  "save_count": null,
+  "menus": [
+    {
+      "category": "기본",
+      "name": "광어&연어 사시미",
+      "price_min": 47000,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/9ff63ff886684c36a71ddcd946a920b3",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "물회+소면",
+      "price_min": 39000,
+      "price_max": null,
+      "description": "속초 앞바다의 풍미를 느낄 수 있는 시그니처 물회",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/3cfa6b01eb54467a9bef1985fe27e685",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "뇨끼",
+      "price_min": 17900,
+      "price_max": null,
+      "description": "짜지않고 담백한 맛의 트러플 크림소스",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/ab2744fcd77e4601afb431b34b984d18",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "모듬수제튀김",
+      "price_min": 19900,
+      "price_max": null,
+      "description": "새우살과 돼지고기를 버무려 만든 수제튀김",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/428aee218e0d46b8b222f3b78ac043c1",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "가라아게",
+      "price_min": 18900,
+      "price_max": null,
+      "description": "24시간 양념에 숙성시킨 순살닭다리살",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/e4da653dd9614fafa1439638821d1704",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "연어사시미",
+      "price_min": 23000,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/e059a0e0826d4d83963f4f1992789d63",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "한우육회",
+      "price_min": 26000,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/a5a92ea3b4034782b221c9b758776384",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "비스크소스 크림파스타",
+      "price_min": 21000,
+      "price_max": null,
+      "description": "새우껍질로 만든 특제 크림소스",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/113ce35902ac4da39e0b33707b073ce8",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "야끼소바",
+      "price_min": 17900,
+      "price_max": null,
+      "description": "일본 현지의 맛을 경험할 수 있는 야끼소바",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/c0909781250f482fac12d31ab9b569fa",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "반반전 (해물파전+김피전)",
+      "price_min": 19900,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/6ebff8fbaa244ebeb63d946e3db3bb5b",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "해물파전",
+      "price_min": 18900,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/ddc80122016b41dab30a9366be71d999",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "김치(프리미엄피자)전",
+      "price_min": 18900,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/620b322b4de940f0ba4439bf300643f4",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "백합술찜",
+      "price_min": 19900,
+      "price_max": null,
+      "description": "칼칼함과 버터의 풍미를 느낄수 있는 조개찜",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/fdae07cf8e914edebda754b502ea5210",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "오뎅탕",
+      "price_min": 17900,
+      "price_max": null,
+      "description": "8가지의 다채로운 모듬어묵",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/20cdd90c181a4a7ea5cc8c440ec7e9c9",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "토마토해장라면",
+      "price_min": 12900,
+      "price_max": null,
+      "description": "몸에 좋은 토마토를 이용한 중독성 있는 국물",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/e28e3677e8f54158b7403adaf7769758",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "타코와사비",
+      "price_min": 12000,
+      "price_max": null,
+      "description": "아귀간으로 특별한 맛을 더한 타코와사비",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/ccb9c772d165499e8bf425541eb817a6",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "대파크림치즈",
+      "price_min": 12000,
+      "price_max": null,
+      "description": "베이컨칩과 크림치즈의 조합",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/84d3dfd9f9e244368530a5cdf41f4b47",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "허브 아이스크림",
+      "price_min": 6000,
+      "price_max": null,
+      "description": "허브오일로 아이스크림 풍미를 UP~!",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/186f43221fc2436788134a4d534c4606",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "나쵸",
+      "price_min": 9000,
+      "price_max": null,
+      "description": "토마토살사소스가 곁들여진 핑거푸드\n",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "이베리코 베요타 100%하몽 30g",
+      "price_min": null,
+      "price_max": null,
+      "description": "변동 / 스페인에서 3년 숙성시킨 최고급 하몽\n",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "이베리코 베요타 100%하몽 50g",
+      "price_min": null,
+      "price_max": null,
+      "description": "변동 / 스페인에서 3년 숙성시킨 최고급 하몽\n",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "주류콜키지(병당)",
+      "price_min": 20000,
+      "price_max": null,
+      "description": null,
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    }
+  ],
+  "menu_boards": [],
+  "menu_detail_info": {
+    "is_kids_menu": null,
+    "is_vegan": null,
+    "is_allergy_substitute": null,
+    "alcohol_required": null,
+    "corkage_guide": "콜키지 가능",
+    "last_updated": "2025-08-22"
+  },
+  "visit_purpose_summary": [
+    {
+      "purpose": "회식",
+      "code": "COMPANY_OUTING",
+      "count": 2
+    },
+    {
+      "purpose": "친목",
+      "code": "SOCIAL_GATHERING",
+      "count": 2
+    },
+    {
+      "purpose": "데이트",
+      "code": "DATE",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "5692603",
+      "review_seq": 5692603,
+      "article_seq": 5692833,
+      "is_editable": false,
+      "reg_date_raw": 1770291045000,
+      "created_at": "2026-02-05T20:30:45+09:00",
+      "writer": {
+        "user_identifier": "spkHtrxtWJxharIlwYwRLw",
+        "display_name": "Stefanie Kim",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "Stefanie Kim",
+      "author_id": "spkHtrxtWJxharIlwYwRLw",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "센스 넘치시게 룸은 아니었지만 룸같은 공간 주셔서 감사했고 \n모든 메뉴가 하나같이 다 맛있었습니다!",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "COMPANY_OUTING",
+          "label": "회식"
+        },
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5513571",
+      "review_seq": 5513571,
+      "article_seq": 5513801,
+      "is_editable": false,
+      "reg_date_raw": 1768009027000,
+      "created_at": "2026-01-10T10:37:07+09:00",
+      "writer": {
+        "user_identifier": "oq1fu7Y8Kq9UEECOQc1FlA",
+        "display_name": "jjh1223",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "jjh1223",
+      "author_id": "oq1fu7Y8Kq9UEECOQc1FlA",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5489710",
+      "review_seq": 5489710,
+      "article_seq": 5489940,
+      "is_editable": false,
+      "reg_date_raw": 1767625043000,
+      "created_at": "2026-01-05T23:57:23+09:00",
+      "writer": {
+        "user_identifier": "_vuoC24a1kJkaQX65JJz1g",
+        "display_name": "유명한 식도락가_63722",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/b3E4Fc/btruh7Edk8F/xQ5s6rly6TLr8Paby1CExK/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "유명한 식도락가_63722",
+      "author_id": "_vuoC24a1kJkaQX65JJz1g",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/b3E4Fc/btruh7Edk8F/xQ5s6rly6TLr8Paby1CExK/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5055718",
+      "review_seq": 5055718,
+      "article_seq": 5055948,
+      "is_editable": false,
+      "reg_date_raw": 1761989243000,
+      "created_at": "2025-11-01T18:27:23+09:00",
+      "writer": {
+        "user_identifier": "6nx_ly2gIVnt9OTtrvYjBw",
+        "display_name": "외로운 셀럽_87079",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/yMYDB/btsOBEgsp0t/7mqyUKMkXnEt30KDOmGLX0/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "외로운 셀럽_87079",
+      "author_id": "6nx_ly2gIVnt9OTtrvYjBw",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/yMYDB/btsOBEgsp0t/7mqyUKMkXnEt30KDOmGLX0/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "술맛나는 분위기와 친절한 서버분들이 계셔서 좋습니다. 다양한 요리와 모든 종류의 주류를 갖추고 있어서 회식하기에는 가장 좋은 곳입니다. 많은 인원 보다는 오붓하게 소수인원으로 즐기기 좋습니다.",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "COMPANY_OUTING",
+          "label": "회식"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    }
+  ],
+  "summary": {
+    "total_reviews_collected": 4,
+    "reviews_with_visit_purpose": 4,
+    "reviews_with_meal_time": 4,
+    "crawl_duration_seconds": 0.3
+  }
+}

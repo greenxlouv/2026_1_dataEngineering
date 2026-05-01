@@ -1,0 +1,4321 @@
+{
+  "restaurant_id": "catchtable_-0ZXnGa9hjZxgFrvsr1Tmg",
+  "shop_ref": "-0ZXnGa9hjZxgFrvsr1Tmg",
+  "crawled_at": "2026-04-25T01:29:16.878594+09:00",
+  "source_url": "https://app.catchtable.co.kr/ct/shop/-0ZXnGa9hjZxgFrvsr1Tmg",
+  "basic_info": {
+    "name": "스시이안앤 홈플러스 영등포점",
+    "name_en": "Sushiian Yeongdeungpo",
+    "alias": "sushiian_yp",
+    "category": "스시,초밥",
+    "area": "영등포",
+    "description": "합리적인 가격으로 다양하게 즐기는 프리미엄 회전초밥",
+    "address": "서울특별시 영등포구 당산로 42 홈플러스 2층 X6, YD호",
+    "address_old": "서울특별시 영등포구 문래동3가 55-3 홈플러스 2층 X6, YD호",
+    "latitude": 37.5182376,
+    "longitude": 126.8958979,
+    "phone": "050-71360-0591",
+    "price_range": "1만원 미만",
+    "sns_url": "",
+    "images": [
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/ca035c52898c45e78d054be9e7468ffa",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/e9fd3043d1d740eeb3eb8aefb34afe1d",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/ca67a92990a44349b1616c39561beefb",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/a7e8999c26ac48d1a337125ddd0fa38a",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/8b2d2e8c41cc41799440884177c857eb"
+    ],
+    "main_service": "DINING"
+  },
+  "schedule": [],
+  "facilities": [
+    "주차",
+    "무선인터넷",
+    "대기공간"
+  ],
+  "can_reserve": false,
+  "tv_appearances": [],
+  "review_summary": {
+    "total_count": 60,
+    "rating": 4.3,
+    "food_score": 0.0,
+    "ambience_score": 0.0,
+    "service_score": 0.0
+  },
+  "save_count": null,
+  "menus": [
+    {
+      "category": "점심특선",
+      "name": "초밥 10pc+반우동",
+      "price_min": 9903,
+      "price_max": null,
+      "description": null,
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "점심특선",
+      "name": "초밥 10pc+냉모밀",
+      "price_min": 10900,
+      "price_max": null,
+      "description": null,
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "점심특선",
+      "name": "초밥 10pc+들기름막국수",
+      "price_min": 11900,
+      "price_max": null,
+      "description": null,
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "점심특선",
+      "name": "포장 메뉴",
+      "price_min": 9900,
+      "price_max": null,
+      "description": "초밥 10pc+와사비, 간장",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "접시당 균일가",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/1b0a92b5fff245ffb5bf436e8e079f8d",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "광어",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/67b8be5ffa6f405badfc2d247bab5885",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "연어",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "신선한 노르웨이산 연어를 숙성시켜 쫄깃하고 탱글한 연어초밥\n",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/139c6fdffa304a6c81c1a210fa00882f",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "참치등살(아까미)",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/2f7dd5cf3382471791df272875646b6d",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "메카도로",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "황새치의 뱃살로 만들었으며 기름기가 풍부하고 고소한 맛을 내는 초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/629ee4bbac234dafa4e5b0ea3ad4740e",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "참돔뱃살",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "탱탱하고 탄력이 넘치면서도 야들야들한 질감이 특징인 참돔뱃살 초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/92077437f7d1425f915ad5aaa74a7555",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "참돔마스카와",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "껍질을 그대로 사용하여 독특한 식감과 맛을 내는 이색적인 초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/5c568a670eee493bac28c5b8d4ed3a78",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "광어지느러미(엔가와)",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "국내산 광어의 지느러미를 길게 잘라 오독한 식감이 일품인 매니아층이 많은 초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/011bb39ad72e4262a178a37d31e5e601",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "전복",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "초를 한 밥과 전복을 함께 먹는 고급스러운 전복초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/2e6246ab5281443cae82d64a44c1f00e",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "연어양파",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "신선한 노르웨이산 연어를 얇게 썬 양파를 곁들여 사과양파 소스를 올린 풍미 깊은 초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/b0bb92b99c154757bfa08ca22d76ebd4",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "육회",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "신선한 육회를 올린 육회초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/0a102c6ad2834ce2863b11802d5f2481",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "육회타다끼",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "신선한 육회를 살짝 구워내어 특제소스를 뿌려 제공되는 스시이안앤의 베스트초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/3a402b6d1f1a4937a3075013e7cac34a",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "와규타다끼",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "마블링이 환상적인 소고기를 겉을 토치로 살짝 구워 부드러우면서도 신선한 와규타다끼초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/96da2eb3a8864863bbbcca6e70856a0d",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "연어육회말이",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/6894b150d9dd42c79954982097b674fd",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "연어육회타다키말이",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/e41d678408d549409e63eeba13ba8e7e",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "활어묵은지",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "잘 익은 묵은지를 양념하여 만든 활어초밥 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/d1e3e28f3708414985b73b7416c48672",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "황새치묵은지",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "황새치와 양념한 묵은지를 올려 함께 먹는 초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/10f5a9c5b5794a0bb4202461ade02185",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "감태단새우우니",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "감태에 단새우와 우니를 감싸 바다의 풍부한 맛을 자랑하는 메뉴",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/ebb70b6c1e3d424299e457d69ea0bab3",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "감태단새우안키모",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/c4539d7f202c49b5922ae392b0be8bbd",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "성게알(우니)",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "김 위에 초를 친 밥을 올려 신선한 우니를 듬뿍 올린 성게알(우니)초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/4af5cb35a8474b9f9c23079b1490c39c",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "대하구이",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/1f20ebe96937470ca02d61d315235374",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "민물장어",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "민물장어에 양념을 더한 초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/135db407b45a42ad89a4a307deff13ab",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "초새우",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/430a2d5c2c4c465c9efde7f0b17b7f11",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "생새우",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "간장에만 찍어 먹어도 맛있는 생새우 초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/29bc16e5fa7e40bcaecee6f115e6096b",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "간장새우",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "간장에 절여 쫀득한 식감이 일품인 간장새우로 만든 초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/ca5758af745645bd99424c1d5dd84d08",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "양념새우",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/bd919a1a45274fa7a4227c65b24ff876",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "관자마끼",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "신선한 관자에 안키모크림을 얹어 담백한 풍미를 더한 High quality 신메뉴입니다.",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/d41b3eeb47ea482d8b6852a446796ef7",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "연어타코말이",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/192131864e4746b597701df2b6ba06ad",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "타코와사비군함말이",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "신선한 문어의 쫄깃한 식감과 알싸한 와사비의 맛이 조화롭게 어우러진 초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/fb482052bef14d0fbfae7f8506b55152",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "연어군함말이",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "초를 한 밥을 김에 말아 연어와 얇게 썬 양파를 올린 기본적인 연어군함말이",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/7902ff98413442569c471d7ead186b76",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "네기도로군함",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "신선한 참치와 아삭한 파의 조화! 부드러운 식감이 일품! 한 입의 행복을 즐겨보세요!",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/bf1193460e47434fb8ad2542a4bfc0c7",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "안키모김마끼",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "바다의 푸아그라, 안키모로 만든 마끼! 부드럽고 진한 안키모의 풍미가 입 안에서 사르르~",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/a4fe52d9838148669967061521b65a38",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "캘리포니아롤",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/8e66e4a745154cd6b04cf305d3033261",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "육회롤",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/51b0c86aca694646826926f81edd469c",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "연어김마끼롤",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/5fc4b88591174bf8bd969c8adff89c34",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "덴가스롤",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/05e62a3c80cf49b0819113937b43d69f",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "계란새우",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "부드럽게 만든 계란 위에 새우를 올려 토치로 살짝 구운 계란새우초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/062afad9b2ef4eb39bdca8394acfe7e3",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "와규스테이크",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/919166c6c02c4ce0aba0928e10e839f1",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "소고기스테이크",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "소고기를 구워 얇게 썬 양파를 올린 소고기초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/236b3a1e125a48fba2a67367cf1c4514",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "황새치갈릭스테이크",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "풍미가 깊은 갈릭소스와 살짝 구운 황새치가 만나 부드러운 조합",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/6fd3521d93cd4d438acfe2ebf3ce82a1",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "연어스테이크",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "연어를 토치로 살짝 구워 불맛이 나며 부드러운 연어스테이크초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/b1a7fe79f47d4fce9d6f10cf17f3af77",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "연어불닭스테이크",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/545b22d2cb9a45b5912883caad950dfd",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "생새우갈릭스테이크",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "생새우를 살짝 구워 갈릭소스를 올린 조화로운 맛이 일품인 초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/973ac586419f4719a02225da32e52842",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "베이컨새우",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "베이컨에 새우를 말아 치즈 가루를 뿌린 짭조롬하고 감칠맛나는 베이컨새우초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/f1b0591f721f4ac58acce6557dca07f4",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "구운새우",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/5235972388c84a6dabfee72d6c9da716",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "마늘가리비",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/bea6fd43123d4f71886be13195984fa7",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "치즈소라",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "소라 위에 치즈를 올려 풍미를 한층 더 깊어진 치즈소라초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/f8b20b1c8bed47bd8c70f9a61606e0f4",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "문어",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/1e855e3379994aa8b74c264e58a932c2",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "한치",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "쫄깃한 식감이 일품인 한치초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/adaab948cec14c01b4c9d64d002bff10",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "가리비",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/6c8080038d5c4ab4a0b976d553147a89",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "소라",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/4920abd3211c4d25b035e5e994c07e7a",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "관자",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/6a0f7af4a6994de186c40f45fa05d588",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "도미양념뱃살",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/62b108e37012432197424a484e416e52",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "계란",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/a220823d1a9b435d8cf75de76e04136e",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "유부초밥",
+      "price_min": 1990,
+      "price_max": null,
+      "description": "아이들도 맛있게 먹는 유부초밥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/124ea4fce31040a5aa0af7231ace312e",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "푸딩",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/b5da8a9c737a4e1c8ef3a4662673e8be",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "타코야끼",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/4a6512486dde4bb9911ccbce6b1cd045",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "새우튀김 2개",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/626911dff077403aaf249877b178569d",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "왕새우튀김",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/6fbb5c86c3244a56afc818f890391b0e",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "바닐라아이스크림",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/236dc42a4b4f47faa69532d53930df64",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "초코아이스크림",
+      "price_min": 1990,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/ff29153cf177437c8185fbc504061aa3",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "냉모밀",
+      "price_min": 7900,
+      "price_max": null,
+      "description": "계절메뉴",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/c4f6963b083a46b39c868622d3d7a57e",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "우동",
+      "price_min": 6900,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/264ca7fe231a45ba9b985b40356ccced",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    }
+  ],
+  "menu_boards": [
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/d592a585bef349188eb0318bf2534b8a",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/f3f27acf3b504af688ebd7073818122c"
+  ],
+  "menu_detail_info": {
+    "is_kids_menu": null,
+    "is_vegan": null,
+    "is_allergy_substitute": null,
+    "alcohol_required": null,
+    "corkage_guide": null,
+    "last_updated": "2026-04-07"
+  },
+  "visit_purpose_summary": [
+    {
+      "purpose": "가족식사",
+      "code": "FAMILY_MEAL",
+      "count": 29
+    },
+    {
+      "purpose": "데이트",
+      "code": "DATE",
+      "count": 10
+    },
+    {
+      "purpose": "혼밥",
+      "code": "EAT_ALONE",
+      "count": 10
+    },
+    {
+      "purpose": "친목",
+      "code": "SOCIAL_GATHERING",
+      "count": 8
+    },
+    {
+      "purpose": "혼술",
+      "code": "DRINK_ALONE",
+      "count": 2
+    },
+    {
+      "purpose": "단체모임",
+      "code": "GROUP_MEETING",
+      "count": 2
+    },
+    {
+      "purpose": "회식",
+      "code": "COMPANY_OUTING",
+      "count": 1
+    },
+    {
+      "purpose": "여행",
+      "code": "TRAVEL",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "5933630",
+      "review_seq": 5933630,
+      "article_seq": 5933860,
+      "is_editable": false,
+      "reg_date_raw": 1773636695000,
+      "created_at": "2026-03-16T13:51:35+09:00",
+      "writer": {
+        "user_identifier": "HYf_0gKPi2j3AMZ8GSnNLw",
+        "display_name": "밍밍수운",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "밍밍수운",
+      "author_id": "HYf_0gKPi2j3AMZ8GSnNLw",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "기대이상이에요!!\n어떻게 2천원에 이런 퀄 초밥을ㅠㅠㅠㅠㅠ\n아귀간이며 우니며..\n또 오고 싶어요❤️",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "6995901f90774171b6c2c8ab22415e1d",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/6995901f90774171b6c2c8ab22415e1d",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 1
+        },
+        {
+          "file_id": "8dad03f5ea134028abac0865c47f79b6",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/8dad03f5ea134028abac0865c47f79b6",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 2
+        },
+        {
+          "file_id": "a5631a6ec2de4ff8a363892fbae4caec",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/a5631a6ec2de4ff8a363892fbae4caec",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 3
+        },
+        {
+          "file_id": "77706c875abf4dfe8a3ea15e50ac853e",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/77706c875abf4dfe8a3ea15e50ac853e",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 4
+        },
+        {
+          "file_id": "805c884015a84e068cb9b55430ad888d",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/805c884015a84e068cb9b55430ad888d",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 5
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/6995901f90774171b6c2c8ab22415e1d",
+        "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/8dad03f5ea134028abac0865c47f79b6",
+        "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/a5631a6ec2de4ff8a363892fbae4caec",
+        "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/77706c875abf4dfe8a3ea15e50ac853e",
+        "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/805c884015a84e068cb9b55430ad888d"
+      ]
+    },
+    {
+      "review_id": "5817165",
+      "review_seq": 5817165,
+      "article_seq": 5817395,
+      "is_editable": false,
+      "reg_date_raw": 1771903212000,
+      "created_at": "2026-02-24T12:20:12+09:00",
+      "writer": {
+        "user_identifier": "L0DzTW_dNT1x1PozOUU4nw",
+        "display_name": "예리한 개척가_70302",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "예리한 개척가_70302",
+      "author_id": "L0DzTW_dNT1x1PozOUU4nw",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "매일,먹어도 질리지않고 맛있어요그리고 어떤때는 점심특선 우동이 너무적게 나와요 조금만더 주셨으면 감사하겠습니다\n\n점심특선 들깨 막국수도요~~ 감사합니다",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "4e54244c792d4bfaa8533314b937df34",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/4e54244c792d4bfaa8533314b937df34",
+          "width": 640,
+          "height": 298,
+          "ordering": 1
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/4e54244c792d4bfaa8533314b937df34"
+      ]
+    },
+    {
+      "review_id": "6154597",
+      "review_seq": 6154597,
+      "article_seq": 6154827,
+      "is_editable": false,
+      "reg_date_raw": 1776832708000,
+      "created_at": "2026-04-22T13:38:28+09:00",
+      "writer": {
+        "user_identifier": "B3TVVwx41i9UBOgrwKvCSQ",
+        "display_name": "채~현",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "채~현",
+      "author_id": "B3TVVwx41i9UBOgrwKvCSQ",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "항상 방문하는 스시집이에요. 가성비 좋고 셰프님께 먹고 싶은 초밥 말하면 바로바로 만들어주십니다ㅎㅎ. 정말 맛있어요!! 감태단새우안키모가 베스트에요!",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "94699f056f5a4c9eb63cd05033b7264e",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/94699f056f5a4c9eb63cd05033b7264e",
+          "width": 480,
+          "height": 640,
+          "ordering": 1
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/94699f056f5a4c9eb63cd05033b7264e"
+      ]
+    },
+    {
+      "review_id": "5970413",
+      "review_seq": 5970413,
+      "article_seq": 5970643,
+      "is_editable": false,
+      "reg_date_raw": 1774173527000,
+      "created_at": "2026-03-22T18:58:47+09:00",
+      "writer": {
+        "user_identifier": "CfuUkgZZ4z0bMgTIncAAlA",
+        "display_name": "새로운 셀럽_58566",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/uw8tQ/btsMyEcS5OI/o9CGElv9S1JPX3DJfKTOv1/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "새로운 셀럽_58566",
+      "author_id": "CfuUkgZZ4z0bMgTIncAAlA",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/uw8tQ/btsMyEcS5OI/o9CGElv9S1JPX3DJfKTOv1/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "주차 편리하고 회가 싱싱해요 \n들기름도 맛있네요\n가성비 최고라고 소문이 났는지 대기가 좀 있고요 그거 말고는 다 좋습니다 ",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "3ffa00f0e6b14b8b98ea2bce9534512f",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/3ffa00f0e6b14b8b98ea2bce9534512f",
+          "width": 360,
+          "height": 640,
+          "ordering": 1
+        },
+        {
+          "file_id": "309bd46ade7c4ecba6ad768ae68c4e88",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/309bd46ade7c4ecba6ad768ae68c4e88",
+          "width": 360,
+          "height": 640,
+          "ordering": 2
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/3ffa00f0e6b14b8b98ea2bce9534512f",
+        "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/309bd46ade7c4ecba6ad768ae68c4e88"
+      ]
+    },
+    {
+      "review_id": "5821802",
+      "review_seq": 5821802,
+      "article_seq": 5822032,
+      "is_editable": false,
+      "reg_date_raw": 1771989954000,
+      "created_at": "2026-02-25T12:25:54+09:00",
+      "writer": {
+        "user_identifier": "L0DzTW_dNT1x1PozOUU4nw",
+        "display_name": "예리한 개척가_70302",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "예리한 개척가_70302",
+      "author_id": "L0DzTW_dNT1x1PozOUU4nw",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "점심특선에 들깨막국수가 양이 어제보다 너무 작았어요, 먹을수있게끔은 주셔야죠 어제보다도 작으니 좀그렇습니다\n",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "EAT_ALONE",
+          "label": "혼밥"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "cb86f6ca5c9a4b6baba633c0ae7dd7fc",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/cb86f6ca5c9a4b6baba633c0ae7dd7fc",
+          "width": 298,
+          "height": 640,
+          "ordering": 1
+        },
+        {
+          "file_id": "30bac1a2e6554a749588f16705e7b641",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/30bac1a2e6554a749588f16705e7b641",
+          "width": 640,
+          "height": 298,
+          "ordering": 2
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/cb86f6ca5c9a4b6baba633c0ae7dd7fc",
+        "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/30bac1a2e6554a749588f16705e7b641"
+      ]
+    },
+    {
+      "review_id": "6150303",
+      "review_seq": 6150303,
+      "article_seq": 6150533,
+      "is_editable": false,
+      "reg_date_raw": 1776751354000,
+      "created_at": "2026-04-21T15:02:34+09:00",
+      "writer": {
+        "user_identifier": "kANINYSUjs74oLaO2yASxQ",
+        "display_name": "제주쪼아 _35952",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "제주쪼아 _35952",
+      "author_id": "kANINYSUjs74oLaO2yASxQ",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "2시쯤 갔더니 조용하고 쾌적해요 \n신선하고 맛있고 우동국물도 뜨끈 깔끔 \n회초밥은 싱싱해요 ",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "EAT_ALONE",
+          "label": "혼밥"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "09785840f7a2440ea99bb4180d1f2c52",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/09785840f7a2440ea99bb4180d1f2c52",
+          "width": 480,
+          "height": 640,
+          "ordering": 1
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/09785840f7a2440ea99bb4180d1f2c52"
+      ]
+    },
+    {
+      "review_id": "6044994",
+      "review_seq": 6044994,
+      "article_seq": 6045224,
+      "is_editable": false,
+      "reg_date_raw": 1775278722000,
+      "created_at": "2026-04-04T13:58:42+09:00",
+      "writer": {
+        "user_identifier": "yFvdu9AzGuh08uX7t1WkoQ",
+        "display_name": "홮zero",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "홮zero",
+      "author_id": "yFvdu9AzGuh08uX7t1WkoQ",
+      "author_profile_thumb_url": null,
+      "rating": 4.300000190734863,
+      "food_score": 4.5,
+      "ambience_score": 4.0,
+      "service_score": 4.5,
+      "content": "프리미엄 초밥 추천합니다~",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "4f70faf52cb14243ae36c013184be9ed",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/4f70faf52cb14243ae36c013184be9ed",
+          "width": 640,
+          "height": 360,
+          "ordering": 1
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/4f70faf52cb14243ae36c013184be9ed"
+      ]
+    },
+    {
+      "review_id": "5975638",
+      "review_seq": 5975638,
+      "article_seq": 5975868,
+      "is_editable": false,
+      "reg_date_raw": 1774240513000,
+      "created_at": "2026-03-23T13:35:13+09:00",
+      "writer": {
+        "user_identifier": "Qqx7ZWSPLgQc-W7zUD_GIQ",
+        "display_name": "야자호야",
+        "profile_thumb_url": "https://image.toast.com/aaaaaqx/profile/2023/02/23219212354970_rv_ctProfileThumb.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "야자호야",
+      "author_id": "Qqx7ZWSPLgQc-W7zUD_GIQ",
+      "author_profile_thumb_url": "https://image.toast.com/aaaaaqx/profile/2023/02/23219212354970_rv_ctProfileThumb.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "아기 어린이집 보내고 남편이랑 점심먹으로 왔는데\n푸짐하게 너무 잘먹었어요~~ 초밥도 종류가 많아 골라먹는 재미도 있고,  맛도있고, 김치우동 양도 많고 진짜 맛있더라구요 ^^ 주차도 가능하고 맛도 있어서 배불리 먹었어요ㅎㅎ",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5977745",
+      "review_seq": 5977745,
+      "article_seq": 5977975,
+      "is_editable": false,
+      "reg_date_raw": 1774257992000,
+      "created_at": "2026-03-23T18:26:32+09:00",
+      "writer": {
+        "user_identifier": "GF85GYhbmwCjHgGPYXTpRA",
+        "display_name": "비범한 개척가_36532",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "비범한 개척가_36532",
+      "author_id": "GF85GYhbmwCjHgGPYXTpRA",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "매니저님의 친절함에 감동했습니다.\n아기의자를 소독해서 주시더라고요. 기대 못한 배려에 즐거운 식사하고 갑니다.",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5886895",
+      "review_seq": 5886895,
+      "article_seq": 5887125,
+      "is_editable": false,
+      "reg_date_raw": 1772949593000,
+      "created_at": "2026-03-08T14:59:53+09:00",
+      "writer": {
+        "user_identifier": "ZGwgnL1WY5Tj9w1wxEAcYw",
+        "display_name": "행복한 개척가_9672",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "행복한 개척가_9672",
+      "author_id": "ZGwgnL1WY5Tj9w1wxEAcYw",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "토욜 점심시간 지나 2시반쯤 방문했는데, 20분정도 대기한듯해요 ㅎㅎ 편하게 가족 외식하기 좋은곳이에요 ",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "6039475",
+      "review_seq": 6039475,
+      "article_seq": 6039705,
+      "is_editable": false,
+      "reg_date_raw": 1775191818000,
+      "created_at": "2026-04-03T13:50:18+09:00",
+      "writer": {
+        "user_identifier": "L0DzTW_dNT1x1PozOUU4nw",
+        "display_name": "예리한 개척가_70302",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "예리한 개척가_70302",
+      "author_id": "L0DzTW_dNT1x1PozOUU4nw",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "오늘은 초밥이 작지않고 알맞게줘서 맛있게 먹었습니다 전에는 밥이 작아서 좀 불만 이었어요",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5903295",
+      "review_seq": 5903295,
+      "article_seq": 5903525,
+      "is_editable": false,
+      "reg_date_raw": 1773203807000,
+      "created_at": "2026-03-11T13:36:47+09:00",
+      "writer": {
+        "user_identifier": "DpGzHAcfX-XtDQVpu-HshQ",
+        "display_name": "화려한 맛사냥꾼_69993",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/kpv6U/btsLE3P8w63/JYtZrRMA9CiyLcAiYqzKKK/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "화려한 맛사냥꾼_69993",
+      "author_id": "DpGzHAcfX-XtDQVpu-HshQ",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/kpv6U/btsLE3P8w63/JYtZrRMA9CiyLcAiYqzKKK/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "음식도 깨끗하고 맛있고 가격도\n서민에 맞아 친구들과 자주갑니다",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        },
+        {
+          "code": "COMPANY_OUTING",
+          "label": "회식"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5824496",
+      "review_seq": 5824496,
+      "article_seq": 5824726,
+      "is_editable": false,
+      "reg_date_raw": 1772020575000,
+      "created_at": "2026-02-25T20:56:15+09:00",
+      "writer": {
+        "user_identifier": "mykUkxk8E3oV0ClAsDW4Lg",
+        "display_name": "나는나야홍",
+        "profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2026/02/bb7f321962024d838aadd8a1c85a5261?userProfileThumb",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "나는나야홍",
+      "author_id": "mykUkxk8E3oV0ClAsDW4Lg",
+      "author_profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2026/02/bb7f321962024d838aadd8a1c85a5261?userProfileThumb",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "맛은 물론이고 친절 분위기 최고에요 다음에 또 올꺼에요",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "6056752",
+      "review_seq": 6056752,
+      "article_seq": 6056982,
+      "is_editable": false,
+      "reg_date_raw": 1775387037000,
+      "created_at": "2026-04-05T20:03:57+09:00",
+      "writer": {
+        "user_identifier": "R_nQ_OmqW9ZzMIPUmginCA",
+        "display_name": "홍영준이다",
+        "profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2024/02/2692911177d54d4b80ceabc651470c39?userProfileThumb",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "홍영준이다",
+      "author_id": "R_nQ_OmqW9ZzMIPUmginCA",
+      "author_profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2024/02/2692911177d54d4b80ceabc651470c39?userProfileThumb",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "가성비 짱인 회전초밥집 너무 조항요",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "6146384",
+      "review_seq": 6146384,
+      "article_seq": 6146614,
+      "is_editable": false,
+      "reg_date_raw": 1776681078000,
+      "created_at": "2026-04-20T19:31:18+09:00",
+      "writer": {
+        "user_identifier": "JQIoZVy6vT4B9NsDlynHyQ",
+        "display_name": "성공한 셀럽_77036",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/wJ1ja/dJMcajgi0e8/rg268KSCyn8HJfB6eCNHX0/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "성공한 셀럽_77036",
+      "author_id": "JQIoZVy6vT4B9NsDlynHyQ",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/wJ1ja/dJMcajgi0e8/rg268KSCyn8HJfB6eCNHX0/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "매우 즐거운 식사시간이 되었어요 ",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "6015569",
+      "review_seq": 6015569,
+      "article_seq": 6015799,
+      "is_editable": false,
+      "reg_date_raw": 1774785937000,
+      "created_at": "2026-03-29T21:05:37+09:00",
+      "writer": {
+        "user_identifier": "rPFRyWyOqu6oHpuPCcdGiw",
+        "display_name": "두봉세봉",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "두봉세봉",
+      "author_id": "rPFRyWyOqu6oHpuPCcdGiw",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "가성비 맛 최고! 자주 방문합니다",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5913994",
+      "review_seq": 5913994,
+      "article_seq": 5914224,
+      "is_editable": false,
+      "reg_date_raw": 1773400527000,
+      "created_at": "2026-03-13T20:15:27+09:00",
+      "writer": {
+        "user_identifier": "om4V0VK78zfQvKurmyUamw",
+        "display_name": "심곡동규수니",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "심곡동규수니",
+      "author_id": "om4V0VK78zfQvKurmyUamw",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "갈때마다 만족스러워요 맛있어요~!",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "6159127",
+      "review_seq": 6159127,
+      "article_seq": 6159357,
+      "is_editable": false,
+      "reg_date_raw": 1776920047000,
+      "created_at": "2026-04-23T13:54:07+09:00",
+      "writer": {
+        "user_identifier": "sVhNh7vd9uFY73WJtcFebQ",
+        "display_name": "빛나는 식도락가_49718",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/dFEtUI/btsH0B4Ndua/ydTiOn3f0ZZxXKQq7FtLeK/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "빛나는 식도락가_49718",
+      "author_id": "sVhNh7vd9uFY73WJtcFebQ",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/dFEtUI/btsH0B4Ndua/ydTiOn3f0ZZxXKQq7FtLeK/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "좋았어요!",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "6158854",
+      "review_seq": 6158854,
+      "article_seq": 6159084,
+      "is_editable": false,
+      "reg_date_raw": 1776917379000,
+      "created_at": "2026-04-23T13:09:39+09:00",
+      "writer": {
+        "user_identifier": "jKVxDml0E22PsjEhywUY4g",
+        "display_name": "온화한 식도락가_79461",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "온화한 식도락가_79461",
+      "author_id": "jKVxDml0E22PsjEhywUY4g",
+      "author_profile_thumb_url": null,
+      "rating": 3.700000047683716,
+      "food_score": 4.5,
+      "ambience_score": 2.5,
+      "service_score": 4.0,
+      "content": "가성비 초밥으로 진짜 맛있는데 음악소리가 너무 크고 웨이팅할 곳이 따로없어서 되게 정신없어요 ㅠㅠ",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "d8afe1316ddb4eecb2d413657396e92d",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/d8afe1316ddb4eecb2d413657396e92d",
+          "width": 480,
+          "height": 640,
+          "ordering": 1
+        },
+        {
+          "file_id": "c2537daeafaa41eb98f7ca7367e54e05",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/c2537daeafaa41eb98f7ca7367e54e05",
+          "width": 480,
+          "height": 640,
+          "ordering": 2
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/d8afe1316ddb4eecb2d413657396e92d",
+        "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/c2537daeafaa41eb98f7ca7367e54e05"
+      ]
+    },
+    {
+      "review_id": "6034560",
+      "review_seq": 6034560,
+      "article_seq": 6034790,
+      "is_editable": false,
+      "reg_date_raw": 1775103009000,
+      "created_at": "2026-04-02T13:10:09+09:00",
+      "writer": {
+        "user_identifier": "uTMlgGVt8leP_eiRxEK0OA",
+        "display_name": "건강한 셀럽_10125",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/cUHZ4m/btqVJRHPSZS/rR1WnUBs9XObDBkVga0um1/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "건강한 셀럽_10125",
+      "author_id": "uTMlgGVt8leP_eiRxEK0OA",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/cUHZ4m/btqVJRHPSZS/rR1WnUBs9XObDBkVga0um1/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "굿굿굿",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "6143547",
+      "review_seq": 6143547,
+      "article_seq": 6143777,
+      "is_editable": false,
+      "reg_date_raw": 1776657712000,
+      "created_at": "2026-04-20T13:01:52+09:00",
+      "writer": {
+        "user_identifier": "iqJrYJfiO7aK3crrWRaozw",
+        "display_name": "밝은 식객_85129",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/qf6kV/dJMcahpuilF/Z7SvbpdUbK8nko5ttM9HOk/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "밝은 식객_85129",
+      "author_id": "iqJrYJfiO7aK3crrWRaozw",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/qf6kV/dJMcahpuilF/Z7SvbpdUbK8nko5ttM9HOk/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "EAT_ALONE",
+          "label": "혼밥"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "6099606",
+      "review_seq": 6099606,
+      "article_seq": 6099836,
+      "is_editable": false,
+      "reg_date_raw": 1775995437000,
+      "created_at": "2026-04-12T21:03:57+09:00",
+      "writer": {
+        "user_identifier": "1ixWV3NsJvsQk8HHhLgDLQ",
+        "display_name": "온화한 맛사냥꾼_64466",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "온화한 맛사냥꾼_64466",
+      "author_id": "1ixWV3NsJvsQk8HHhLgDLQ",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "6092518",
+      "review_seq": 6092518,
+      "article_seq": 6092748,
+      "is_editable": false,
+      "reg_date_raw": 1775915625000,
+      "created_at": "2026-04-11T22:53:45+09:00",
+      "writer": {
+        "user_identifier": "YCNka20LdCBWTbItudmpSA",
+        "display_name": "웅냥뇽냥",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "웅냥뇽냥",
+      "author_id": "YCNka20LdCBWTbItudmpSA",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "6091598",
+      "review_seq": 6091598,
+      "article_seq": 6091828,
+      "is_editable": false,
+      "reg_date_raw": 1775910001000,
+      "created_at": "2026-04-11T21:20:01+09:00",
+      "writer": {
+        "user_identifier": "LlCjVtW33T2nK_llheoxPA",
+        "display_name": "부드러운 마스터_50516",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "부드러운 마스터_50516",
+      "author_id": "LlCjVtW33T2nK_llheoxPA",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "6087577",
+      "review_seq": 6087577,
+      "article_seq": 6087807,
+      "is_editable": false,
+      "reg_date_raw": 1775885970000,
+      "created_at": "2026-04-11T14:39:30+09:00",
+      "writer": {
+        "user_identifier": "7jAOlS4fRaENqyX4ry3eGg",
+        "display_name": "어느멋진날1509",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "어느멋진날1509",
+      "author_id": "7jAOlS4fRaENqyX4ry3eGg",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5989096",
+      "review_seq": 5989096,
+      "article_seq": 5989326,
+      "is_editable": false,
+      "reg_date_raw": 1774435707000,
+      "created_at": "2026-03-25T19:48:27+09:00",
+      "writer": {
+        "user_identifier": "A5lPe7r_TyBr-Kv-7PM0AA",
+        "display_name": "Minju예용",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "Minju예용",
+      "author_id": "A5lPe7r_TyBr-Kv-7PM0AA",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5962480",
+      "review_seq": 5962480,
+      "article_seq": 5962710,
+      "is_editable": false,
+      "reg_date_raw": 1774090228000,
+      "created_at": "2026-03-21T19:50:28+09:00",
+      "writer": {
+        "user_identifier": "isx3wAEy7PPJoLmEqma0JA",
+        "display_name": "김희진ㅋ",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "김희진ㅋ",
+      "author_id": "isx3wAEy7PPJoLmEqma0JA",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5952560",
+      "review_seq": 5952560,
+      "article_seq": 5952790,
+      "is_editable": false,
+      "reg_date_raw": 1773972941000,
+      "created_at": "2026-03-20T11:15:41+09:00",
+      "writer": {
+        "user_identifier": "isx3wAEy7PPJoLmEqma0JA",
+        "display_name": "김희진ㅋ",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "김희진ㅋ",
+      "author_id": "isx3wAEy7PPJoLmEqma0JA",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5870979",
+      "review_seq": 5870979,
+      "article_seq": 5871209,
+      "is_editable": false,
+      "reg_date_raw": 1772692886000,
+      "created_at": "2026-03-05T15:41:26+09:00",
+      "writer": {
+        "user_identifier": "aJp_15_OVcG9U2WAATi49g",
+        "display_name": "최고의 개척가_88708",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/lQox9/dJMcacWjwRT/XyF7AfKJ35EYCwXXf6uMDK/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "최고의 개척가_88708",
+      "author_id": "aJp_15_OVcG9U2WAATi49g",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/lQox9/dJMcacWjwRT/XyF7AfKJ35EYCwXXf6uMDK/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "GROUP_MEETING",
+          "label": "단체모임"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5870978",
+      "review_seq": 5870978,
+      "article_seq": 5871208,
+      "is_editable": false,
+      "reg_date_raw": 1772692878000,
+      "created_at": "2026-03-05T15:41:18+09:00",
+      "writer": {
+        "user_identifier": "aJp_15_OVcG9U2WAATi49g",
+        "display_name": "최고의 개척가_88708",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/lQox9/dJMcacWjwRT/XyF7AfKJ35EYCwXXf6uMDK/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "최고의 개척가_88708",
+      "author_id": "aJp_15_OVcG9U2WAATi49g",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/lQox9/dJMcacWjwRT/XyF7AfKJ35EYCwXXf6uMDK/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "GROUP_MEETING",
+          "label": "단체모임"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5850623",
+      "review_seq": 5850623,
+      "article_seq": 5850853,
+      "is_editable": false,
+      "reg_date_raw": 1772371048000,
+      "created_at": "2026-03-01T22:17:28+09:00",
+      "writer": {
+        "user_identifier": "aJp_15_OVcG9U2WAATi49g",
+        "display_name": "최고의 개척가_88708",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/lQox9/dJMcacWjwRT/XyF7AfKJ35EYCwXXf6uMDK/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "최고의 개척가_88708",
+      "author_id": "aJp_15_OVcG9U2WAATi49g",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/lQox9/dJMcacWjwRT/XyF7AfKJ35EYCwXXf6uMDK/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        },
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5850620",
+      "review_seq": 5850620,
+      "article_seq": 5850850,
+      "is_editable": false,
+      "reg_date_raw": 1772371039000,
+      "created_at": "2026-03-01T22:17:19+09:00",
+      "writer": {
+        "user_identifier": "aJp_15_OVcG9U2WAATi49g",
+        "display_name": "최고의 개척가_88708",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/lQox9/dJMcacWjwRT/XyF7AfKJ35EYCwXXf6uMDK/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "최고의 개척가_88708",
+      "author_id": "aJp_15_OVcG9U2WAATi49g",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/lQox9/dJMcacWjwRT/XyF7AfKJ35EYCwXXf6uMDK/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "EAT_ALONE",
+          "label": "혼밥"
+        },
+        {
+          "code": "DRINK_ALONE",
+          "label": "혼술"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5850617",
+      "review_seq": 5850617,
+      "article_seq": 5850847,
+      "is_editable": false,
+      "reg_date_raw": 1772371022000,
+      "created_at": "2026-03-01T22:17:02+09:00",
+      "writer": {
+        "user_identifier": "aJp_15_OVcG9U2WAATi49g",
+        "display_name": "최고의 개척가_88708",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/lQox9/dJMcacWjwRT/XyF7AfKJ35EYCwXXf6uMDK/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "최고의 개척가_88708",
+      "author_id": "aJp_15_OVcG9U2WAATi49g",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/lQox9/dJMcacWjwRT/XyF7AfKJ35EYCwXXf6uMDK/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        },
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5850615",
+      "review_seq": 5850615,
+      "article_seq": 5850845,
+      "is_editable": false,
+      "reg_date_raw": 1772371010000,
+      "created_at": "2026-03-01T22:16:50+09:00",
+      "writer": {
+        "user_identifier": "aJp_15_OVcG9U2WAATi49g",
+        "display_name": "최고의 개척가_88708",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/lQox9/dJMcacWjwRT/XyF7AfKJ35EYCwXXf6uMDK/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "최고의 개척가_88708",
+      "author_id": "aJp_15_OVcG9U2WAATi49g",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/lQox9/dJMcacWjwRT/XyF7AfKJ35EYCwXXf6uMDK/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "EAT_ALONE",
+          "label": "혼밥"
+        },
+        {
+          "code": "DRINK_ALONE",
+          "label": "혼술"
+        },
+        {
+          "code": "TRAVEL",
+          "label": "여행"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5840925",
+      "review_seq": 5840925,
+      "article_seq": 5841155,
+      "is_editable": false,
+      "reg_date_raw": 1772278007000,
+      "created_at": "2026-02-28T20:26:47+09:00",
+      "writer": {
+        "user_identifier": "CkiUU9Pb8puewb8ymDfzZQ",
+        "display_name": "알알로",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "알알로",
+      "author_id": "CkiUU9Pb8puewb8ymDfzZQ",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5755108",
+      "review_seq": 5755108,
+      "article_seq": 5755338,
+      "is_editable": false,
+      "reg_date_raw": 1771128441000,
+      "created_at": "2026-02-15T13:07:21+09:00",
+      "writer": {
+        "user_identifier": "L0DzTW_dNT1x1PozOUU4nw",
+        "display_name": "예리한 개척가_70302",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "예리한 개척가_70302",
+      "author_id": "L0DzTW_dNT1x1PozOUU4nw",
+      "author_profile_thumb_url": null,
+      "rating": 4.5,
+      "food_score": 4.5,
+      "ambience_score": 4.5,
+      "service_score": 4.5,
+      "content": "굿",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "de1bb2c382184213b1479076cace8ed1",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/de1bb2c382184213b1479076cace8ed1",
+          "width": 640,
+          "height": 298,
+          "ordering": 1
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/de1bb2c382184213b1479076cace8ed1"
+      ]
+    },
+    {
+      "review_id": "5795418",
+      "review_seq": 5795418,
+      "article_seq": 5795648,
+      "is_editable": false,
+      "reg_date_raw": 1771641717000,
+      "created_at": "2026-02-21T11:41:57+09:00",
+      "writer": {
+        "user_identifier": "L0DzTW_dNT1x1PozOUU4nw",
+        "display_name": "예리한 개척가_70302",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "예리한 개척가_70302",
+      "author_id": "L0DzTW_dNT1x1PozOUU4nw",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "평소 스시를 좋아해 여러번 방문했는데 홈플러스에 입점을해 너무너무좋았습니다\n인테리어와 분위기도 좋았어요",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "EAT_ALONE",
+          "label": "혼밥"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5766494",
+      "review_seq": 5766494,
+      "article_seq": 5766724,
+      "is_editable": false,
+      "reg_date_raw": 1771234987000,
+      "created_at": "2026-02-16T18:43:07+09:00",
+      "writer": {
+        "user_identifier": "2brEKOlkjoh2rc-MlXOVHQ",
+        "display_name": "성공한 개척가_55321",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/b7ypiK/btsJVJHhWI6/hGiigizUh3hkjzhVM0vQyK/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "성공한 개척가_55321",
+      "author_id": "2brEKOlkjoh2rc-MlXOVHQ",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/b7ypiK/btsJVJHhWI6/hGiigizUh3hkjzhVM0vQyK/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "초밥도 신선하고 무엇보다 사장님과 직원분들이 너무 친절하세요",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5742649",
+      "review_seq": 5742649,
+      "article_seq": 5742879,
+      "is_editable": false,
+      "reg_date_raw": 1770980090000,
+      "created_at": "2026-02-13T19:54:50+09:00",
+      "writer": {
+        "user_identifier": "xvy34NiPV06P2pcWrlQxtQ",
+        "display_name": "원구56",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "원구56",
+      "author_id": "xvy34NiPV06P2pcWrlQxtQ",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "6039379",
+      "review_seq": 6039379,
+      "article_seq": 6039609,
+      "is_editable": false,
+      "reg_date_raw": 1775191037000,
+      "created_at": "2026-04-03T13:37:17+09:00",
+      "writer": {
+        "user_identifier": "ae4bacEggbTt7Btjsqs89g",
+        "display_name": "sohyun_cloud",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "sohyun_cloud",
+      "author_id": "ae4bacEggbTt7Btjsqs89g",
+      "author_profile_thumb_url": null,
+      "rating": 4.300000190734863,
+      "food_score": 4.0,
+      "ambience_score": 4.0,
+      "service_score": 5.0,
+      "content": "가성비 좋게 잘 먹고 왔습니다. 다만 저에게는 샤리가 좀 시었어요.",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "EAT_ALONE",
+          "label": "혼밥"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "6054100",
+      "review_seq": 6054100,
+      "article_seq": 6054330,
+      "is_editable": false,
+      "reg_date_raw": 1775370475000,
+      "created_at": "2026-04-05T15:27:55+09:00",
+      "writer": {
+        "user_identifier": "RDTwEOILtDguVnaM-IqefQ",
+        "display_name": "경쾌한 마스터_439",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/SR5Rp/btsJ22GS6XT/gdbQrR58KAzpVJGDkyEWck/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "경쾌한 마스터_439",
+      "author_id": "RDTwEOILtDguVnaM-IqefQ",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/SR5Rp/btsJ22GS6XT/gdbQrR58KAzpVJGDkyEWck/img_640x640.jpg",
+      "rating": 4.5,
+      "food_score": 4.5,
+      "ambience_score": 4.5,
+      "service_score": 4.5,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5786096",
+      "review_seq": 5786096,
+      "article_seq": 5786326,
+      "is_editable": false,
+      "reg_date_raw": 1771493634000,
+      "created_at": "2026-02-19T18:33:54+09:00",
+      "writer": {
+        "user_identifier": "oZS7U0ftcpHkwS7gWlt-hQ",
+        "display_name": "도도한 마스터_56066",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/zmiiy/btsQINIRkmu/Kd3alLapOzYbaYk6FenTPK/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "도도한 마스터_56066",
+      "author_id": "oZS7U0ftcpHkwS7gWlt-hQ",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/zmiiy/btsQINIRkmu/Kd3alLapOzYbaYk6FenTPK/img_640x640.jpg",
+      "rating": 4.5,
+      "food_score": 4.5,
+      "ambience_score": 4.5,
+      "service_score": 4.5,
+      "content": "역시 문래 스시안앤. 맛있어유 ㅎ",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5786795",
+      "review_seq": 5786795,
+      "article_seq": 5787025,
+      "is_editable": false,
+      "reg_date_raw": 1771499752000,
+      "created_at": "2026-02-19T20:15:52+09:00",
+      "writer": {
+        "user_identifier": "JSDtZA13Ov88eidYg026Kw",
+        "display_name": "재미있는 개척가_6680",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/1FOnu/btsNm2IYvIX/U4lTUTP1D6AeHdttUhA20k/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "재미있는 개척가_6680",
+      "author_id": "JSDtZA13Ov88eidYg026Kw",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/1FOnu/btsNm2IYvIX/U4lTUTP1D6AeHdttUhA20k/img_640x640.jpg",
+      "rating": 4.5,
+      "food_score": 4.5,
+      "ambience_score": 4.5,
+      "service_score": 4.5,
+      "content": "친절해요",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5959420",
+      "review_seq": 5959420,
+      "article_seq": 5959650,
+      "is_editable": false,
+      "reg_date_raw": 1774070638000,
+      "created_at": "2026-03-21T14:23:58+09:00",
+      "writer": {
+        "user_identifier": "G00G8vmhM2bOwy2ipgExJA",
+        "display_name": "부드러운 미식가_65360",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "부드러운 미식가_65360",
+      "author_id": "G00G8vmhM2bOwy2ipgExJA",
+      "author_profile_thumb_url": null,
+      "rating": 4.0,
+      "food_score": 4.0,
+      "ambience_score": 4.0,
+      "service_score": 4.0,
+      "content": "주말에 가면 웨이팅 길어요 직원분들은 친절하세요",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "6048517",
+      "review_seq": 6048517,
+      "article_seq": 6048747,
+      "is_editable": false,
+      "reg_date_raw": 1775300444000,
+      "created_at": "2026-04-04T20:00:44+09:00",
+      "writer": {
+        "user_identifier": "3d5YxTfSitM35YGzVYIeKw",
+        "display_name": "똑똑한 맛사냥꾼_63567",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/bffut4/dJMcaaEnzIO/5gIB7geofC4CvapSq7IAFK/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "똑똑한 맛사냥꾼_63567",
+      "author_id": "3d5YxTfSitM35YGzVYIeKw",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/bffut4/dJMcaaEnzIO/5gIB7geofC4CvapSq7IAFK/img_640x640.jpg",
+      "rating": 4.0,
+      "food_score": 4.0,
+      "ambience_score": 4.0,
+      "service_score": 4.0,
+      "content": "저녁식사 맛나게 잘먹고 갑니다 \n",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "6116133",
+      "review_seq": 6116133,
+      "article_seq": 6116363,
+      "is_editable": false,
+      "reg_date_raw": 1776251714000,
+      "created_at": "2026-04-15T20:15:14+09:00",
+      "writer": {
+        "user_identifier": "c-NLLUn3xfDnfREHhJLdYA",
+        "display_name": "강무리",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "강무리",
+      "author_id": "c-NLLUn3xfDnfREHhJLdYA",
+      "author_profile_thumb_url": null,
+      "rating": 4.0,
+      "food_score": 4.0,
+      "ambience_score": 4.0,
+      "service_score": 4.0,
+      "content": "가성비 최고입니다",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "6132525",
+      "review_seq": 6132525,
+      "article_seq": 6132755,
+      "is_editable": false,
+      "reg_date_raw": 1776510922000,
+      "created_at": "2026-04-18T20:15:22+09:00",
+      "writer": {
+        "user_identifier": "Ll1J7lZRFUybaUCHMjSqug",
+        "display_name": "발랄한 셀럽_23145",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/bK5gR5/btqZjweK5g1/WBbksDi0Syrky0zK6vxRRk/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "발랄한 셀럽_23145",
+      "author_id": "Ll1J7lZRFUybaUCHMjSqug",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/bK5gR5/btqZjweK5g1/WBbksDi0Syrky0zK6vxRRk/img_640x640.jpg",
+      "rating": 4.0,
+      "food_score": 4.0,
+      "ambience_score": 4.0,
+      "service_score": 4.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5785666",
+      "review_seq": 5785666,
+      "article_seq": 5785896,
+      "is_editable": false,
+      "reg_date_raw": 1771489757000,
+      "created_at": "2026-02-19T17:29:17+09:00",
+      "writer": {
+        "user_identifier": "6r61fwLTKfVWalBQP3SrtA",
+        "display_name": "비범한 맛사냥꾼_79157",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "비범한 맛사냥꾼_79157",
+      "author_id": "6r61fwLTKfVWalBQP3SrtA",
+      "author_profile_thumb_url": null,
+      "rating": 3.700000047683716,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 1.0,
+      "content": "캐치테이블 대기 확인을 안함",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "EAT_ALONE",
+          "label": "혼밥"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "6122470",
+      "review_seq": 6122470,
+      "article_seq": 6122700,
+      "is_editable": false,
+      "reg_date_raw": 1776387866000,
+      "created_at": "2026-04-17T10:04:26+09:00",
+      "writer": {
+        "user_identifier": "r7-jw10bH-qXBv36r5IoXw",
+        "display_name": "꿈꾸는 미식가_89931",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/bQj8l6/btsHSXT62oE/dGMi2to94H1HpBZl6T0wKk/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "꿈꾸는 미식가_89931",
+      "author_id": "r7-jw10bH-qXBv36r5IoXw",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/bQj8l6/btsHSXT62oE/dGMi2to94H1HpBZl6T0wKk/img_640x640.jpg",
+      "rating": 3.5,
+      "food_score": 3.5,
+      "ambience_score": 3.5,
+      "service_score": 3.5,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5844101",
+      "review_seq": 5844101,
+      "article_seq": 5844331,
+      "is_editable": false,
+      "reg_date_raw": 1772335290000,
+      "created_at": "2026-03-01T12:21:30+09:00",
+      "writer": {
+        "user_identifier": "94CEPSC2J6BeOzVp0Lwq2w",
+        "display_name": "박돈규",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "박돈규",
+      "author_id": "94CEPSC2J6BeOzVp0Lwq2w",
+      "author_profile_thumb_url": null,
+      "rating": 3.5,
+      "food_score": 3.5,
+      "ambience_score": 3.5,
+      "service_score": 3.5,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5760062",
+      "review_seq": 5760062,
+      "article_seq": 5760292,
+      "is_editable": false,
+      "reg_date_raw": 1771155923000,
+      "created_at": "2026-02-15T20:45:23+09:00",
+      "writer": {
+        "user_identifier": "RmwmYLxU7G1FqOwx2IkFfw",
+        "display_name": "지혜로운 식도락가_70512",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/9adLL/btsMFkKsCl4/29vpJ8IolrbFc6PnHhcGUK/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "지혜로운 식도락가_70512",
+      "author_id": "RmwmYLxU7G1FqOwx2IkFfw",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/9adLL/btsMFkKsCl4/29vpJ8IolrbFc6PnHhcGUK/img_640x640.jpg",
+      "rating": 3.5,
+      "food_score": 3.5,
+      "ambience_score": 3.5,
+      "service_score": 3.5,
+      "content": "적당히 맛있어요",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "6163037",
+      "review_seq": 6163037,
+      "article_seq": 6163267,
+      "is_editable": false,
+      "reg_date_raw": 1776999809000,
+      "created_at": "2026-04-24T12:03:29+09:00",
+      "writer": {
+        "user_identifier": "n1ajZfnKb59pU8__phLJ8g",
+        "display_name": "멋진 맛사냥꾼_53148",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/de87vD/dJMcai96UxV/AuJxli8MoqKYdv8K1MRkzk/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "멋진 맛사냥꾼_53148",
+      "author_id": "n1ajZfnKb59pU8__phLJ8g",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/de87vD/dJMcai96UxV/AuJxli8MoqKYdv8K1MRkzk/img_640x640.jpg",
+      "rating": 1.7999999523162842,
+      "food_score": 2.5,
+      "ambience_score": 2.0,
+      "service_score": 1.0,
+      "content": "순서대로 입장안시키면서 번호표 접수 왜 받죠?\n\n1인은 bar, 2인이상(?)은 table\n이렇게 나눠 입장시키면\n내 순서가 7번이어도 결국 1시간을 기다리게 된겁니다.\n접수번호가ㅜ아무 의미없이 마냥 기다리게 되는 룰인데,\n이게 미슐랭 맛집도 아니고, 런치 먹으려 이렇게까지 시간을 허비했다는 게 너무 화가 니네요.",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "EAT_ALONE",
+          "label": "혼밥"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "8b940c42991e4dd3a6524479df37c40d",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/8b940c42991e4dd3a6524479df37c40d",
+          "width": 4284,
+          "height": 5712,
+          "ordering": 1
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-0ZXnGa9hjZxgFrvsr1Tmg/8b940c42991e4dd3a6524479df37c40d"
+      ]
+    },
+    {
+      "review_id": "5834182",
+      "review_seq": 5834182,
+      "article_seq": 5834412,
+      "is_editable": false,
+      "reg_date_raw": 1772190223000,
+      "created_at": "2026-02-27T20:03:43+09:00",
+      "writer": {
+        "user_identifier": "LlA3OyiQPu8UVL6Rz-J3cw",
+        "display_name": "온화한 셀럽_71365",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "온화한 셀럽_71365",
+      "author_id": "LlA3OyiQPu8UVL6Rz-J3cw",
+      "author_profile_thumb_url": null,
+      "rating": 2.799999952316284,
+      "food_score": 5.0,
+      "ambience_score": 2.5,
+      "service_score": 1.0,
+      "content": "대기시스템에 문제가 있어요 테이블과 바중에 선택해야하고 처음 선택할때 같은 대기시간 같은 대기팀이었는데 더 늦게온사람들이 몇팀 먼저 들어갔어요 대기인원수에 맞게 자리가 낫음에도 불구하고 물어보거나 하는것도 없었어요 복불복 대기 봐꿔야할거같아요 음식은 맛있는데 기분상했어요",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": 1,
+        "like_count": 2,
+        "is_liked": false
+      },
+      "like_count": 2,
+      "reply_count": 1,
+      "boss_reply": {
+        "reply": "불편을 끼쳐드려 죄송합니다. 저희영등포점은 대기고객님들의 대기시간 대기하시는 힘드신마음 누구보다 저희직원들이 더 전전긍긍하면서 빠르게 일처리를 할수있게끔 하려고 노력하고 있습니다. 저희는 테이블 바 나뉘어져있는부분은 소수로오시는분 단체로오시는분 무작위로 대기등록을 하게될경우 대기시간이 더욱더 길어지는 현상이  초래해지게 되어서 나누게 되었습니다. 절대 뒷분들을 먼저 입장시켜드리는 경우는 없습니다.  만약 사람인지라 저희직원이 실수할경우도 있습니다. 정중히 사과드리고 빠르게 먼저나오는 테이블이든 바든우선순위로 입장을 도와드리고 있습니다.모든고객님들이 10분을 기다리시든 30분을 기다리시든 기다리는 힘든 마음은 모두가 같다고 생각됩니다. 힘들게 찾아와주시고 기다려주신만큼 더욱더 잘해드리고 싶은마음이 큽니다.너무 마음이 아파 답글을 남기게 되었습니다. 죄송하고 그래도 기다려주시면서 식사해주셔서 감사드립니다.",
+        "regDate": 1772613022000,
+        "shopImageThumbUrl": "https://ugc-images.catchtable.co.kr/shop/manager/images/ca035c52898c45e78d054be9e7468ffa",
+        "shopName": "스시이안앤 홈플러스 영등포점"
+      },
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "6004241",
+      "review_seq": 6004241,
+      "article_seq": 6004471,
+      "is_editable": false,
+      "reg_date_raw": 1774684612000,
+      "created_at": "2026-03-28T16:56:52+09:00",
+      "writer": {
+        "user_identifier": "V-g_5omxANfLVOjNURin7g",
+        "display_name": "예리한 개척가_24479",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/lgJru/btsK16OPz3F/FQvUe4G8aXmV0H9jwIekVk/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "예리한 개척가_24479",
+      "author_id": "V-g_5omxANfLVOjNURin7g",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/lgJru/btsK16OPz3F/FQvUe4G8aXmV0H9jwIekVk/img_640x640.jpg",
+      "rating": 3.0,
+      "food_score": 2.0,
+      "ambience_score": 4.0,
+      "service_score": 3.0,
+      "content": "갸격대비 맛은 보통\n품질(밥이 잘 으스러저요)은 별로네요.ㅠㅠ\n너무 기대하지 말고 가야겠네요.\n제 생각은 가격대비 가성비로 추천!\n맛집으로는 비추천이네요.\n수고하세요.",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5823799",
+      "review_seq": 5823799,
+      "article_seq": 5824029,
+      "is_editable": false,
+      "reg_date_raw": 1772014264000,
+      "created_at": "2026-02-25T19:11:04+09:00",
+      "writer": {
+        "user_identifier": "K9YtcUhkzkFKcVjpur8ePg",
+        "display_name": "너와함께한 모든순간이 행복♡",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "너와함께한 모든순간이 행복♡",
+      "author_id": "K9YtcUhkzkFKcVjpur8ePg",
+      "author_profile_thumb_url": null,
+      "rating": 3.0,
+      "food_score": 3.0,
+      "ambience_score": 3.0,
+      "service_score": 3.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5803637",
+      "review_seq": 5803637,
+      "article_seq": 5803867,
+      "is_editable": false,
+      "reg_date_raw": 1771733962000,
+      "created_at": "2026-02-22T13:19:22+09:00",
+      "writer": {
+        "user_identifier": "pY_XZpnC-u_KUCymzCJsTg",
+        "display_name": "활기찬 마스터_11918",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "활기찬 마스터_11918",
+      "author_id": "pY_XZpnC-u_KUCymzCJsTg",
+      "author_profile_thumb_url": null,
+      "rating": 3.0,
+      "food_score": 3.0,
+      "ambience_score": 3.0,
+      "service_score": 3.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5834265",
+      "review_seq": 5834265,
+      "article_seq": 5834495,
+      "is_editable": false,
+      "reg_date_raw": 1772190478000,
+      "created_at": "2026-02-27T20:07:58+09:00",
+      "writer": {
+        "user_identifier": "mOx-CVmN_ZCkz4IlomNlqA",
+        "display_name": "행주대굥",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "행주대굥",
+      "author_id": "mOx-CVmN_ZCkz4IlomNlqA",
+      "author_profile_thumb_url": null,
+      "rating": 1.0,
+      "food_score": 1.0,
+      "ambience_score": 1.0,
+      "service_score": 1.0,
+      "content": "웨이팅 하는 손님들도 있는 저녁시간대였는데 레일에 더 이상 초밥을 올리지 않더라고요 회전초밥집인데 메뉴판보고 주문해서 먹으라고 하고..정말 별로였어요\n다들 주문해서 먹으니 레일에 있던 연어초밥은 회전률이 낮아서 너무 비렸어요 우니도 꾸릿한 냄새나고 손님들 다 이것저것 주문하다보니 어수선하고 초밥 나오는데는 너무 오래걸려서 도중에 나왔네요(직원분이 주문 밀린다고 3개씩만 주문하라고 함)레일이 그렇게 비어있는 회전초밥집은 처음;;;다시는 재방문안합니다 절대로",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": 1,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": 1,
+      "boss_reply": {
+        "reply": "기분좋게 식사하셨어야하는데 좋지 않은 식사시간이 되게 해드려 죄송합니다. \n고객님, 저희 영등포점은 신선도 유지와 맛잇게보답해드리기위해 저녁에는 일부메뉴를 주문위주로 운영하고 있습니다. 저희매장이 많은손님들께서 찾아와주시기 때문에 회전율이 느리지는 않습니다.. 특히 활어초밥같은경우 평일 주말상관없이 30분이상 방치되어 있지 않습니다. 저녁손님분들께서 더욱더 신선한 초밥을 드실수있게 더욱더 노력하겠습니다. ",
+        "regDate": 1772613846000,
+        "shopImageThumbUrl": "https://ugc-images.catchtable.co.kr/shop/manager/images/ca035c52898c45e78d054be9e7468ffa",
+        "shopName": "스시이안앤 홈플러스 영등포점"
+      },
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5983614",
+      "review_seq": 5983614,
+      "article_seq": 5983844,
+      "is_editable": false,
+      "reg_date_raw": 1774343259000,
+      "created_at": "2026-03-24T18:07:39+09:00",
+      "writer": {
+        "user_identifier": "mhVKEANGKJ15G5KQYWaC3Q",
+        "display_name": "신나는 식객_47132",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "신나는 식객_47132",
+      "author_id": "mhVKEANGKJ15G5KQYWaC3Q",
+      "author_profile_thumb_url": null,
+      "rating": 2.5,
+      "food_score": 2.5,
+      "ambience_score": 2.5,
+      "service_score": 2.5,
+      "content": "낫 배드",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "EAT_ALONE",
+          "label": "혼밥"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5858267",
+      "review_seq": 5858267,
+      "article_seq": 5858497,
+      "is_editable": false,
+      "reg_date_raw": 1772450728000,
+      "created_at": "2026-03-02T20:25:28+09:00",
+      "writer": {
+        "user_identifier": "Mk5gtBcek334Vo4KZyRe0w",
+        "display_name": "신나는 셀럽_49443",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/br2OOw/btsMZPbVSkO/WJjAvmKuLeIu42CwXkkKC0/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "신나는 셀럽_49443",
+      "author_id": "Mk5gtBcek334Vo4KZyRe0w",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/br2OOw/btsMZPbVSkO/WJjAvmKuLeIu42CwXkkKC0/img_640x640.jpg",
+      "rating": 1.0,
+      "food_score": 1.0,
+      "ambience_score": 1.0,
+      "service_score": 1.0,
+      "content": "초밥은 미지근하고  딱히 먹을게없고  그저그랬어요 냉모빌은 정알 최악이였어요 ",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5929385",
+      "review_seq": 5929385,
+      "article_seq": 5929615,
+      "is_editable": false,
+      "reg_date_raw": 1773573084000,
+      "created_at": "2026-03-15T20:11:24+09:00",
+      "writer": {
+        "user_identifier": "Al4jf7NLL0CQcHT-UACCAA",
+        "display_name": "꼼꼼한 셀럽_34476",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/bkyT2r/dJMcaiBD2BN/HwTrBWeqD7KSQmKtEjpJ6k/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "꼼꼼한 셀럽_34476",
+      "author_id": "Al4jf7NLL0CQcHT-UACCAA",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/bkyT2r/dJMcaiBD2BN/HwTrBWeqD7KSQmKtEjpJ6k/img_640x640.jpg",
+      "rating": 1.0,
+      "food_score": 1.0,
+      "ambience_score": 1.0,
+      "service_score": 1.0,
+      "content": "졸라오래기다림",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    }
+  ],
+  "summary": {
+    "total_reviews_collected": 60,
+    "reviews_with_visit_purpose": 57,
+    "reviews_with_meal_time": 60,
+    "crawl_duration_seconds": 1.6
+  }
+}

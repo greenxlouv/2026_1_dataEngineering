@@ -1,0 +1,336 @@
+{
+  "restaurant_id": "catchtable__S04An8AAHoapmnr-QC01A",
+  "shop_ref": "_S04An8AAHoapmnr-QC01A",
+  "crawled_at": "2026-04-25T01:29:13.451348+09:00",
+  "source_url": "https://app.catchtable.co.kr/ct/shop/_S04An8AAHoapmnr-QC01A",
+  "basic_info": {
+    "name": "화란",
+    "name_en": "Hwarann",
+    "alias": "hwa_rann",
+    "category": "요리주점",
+    "area": "화곡",
+    "description": "한식 베이스의 맛있는 안주들과 잘 어울리는 전통주점",
+    "address": "서울특별시 강서구 곰달래로60길 37 1층",
+    "address_old": "서울특별시 강서구 화곡동 782-9 1층",
+    "latitude": 37.5305684,
+    "longitude": 126.8633323,
+    "phone": "050-71355-9428",
+    "price_range": "1만원 ~ 2만원",
+    "sns_url": "https://www.instagram.com/hwa_rann",
+    "images": [
+      "https://ugc-images.catchtable.co.kr/catchtable/shopinfo/s_S04An8AAHoapmnr-QC01A/ac02cb06c9e44f9da877e0925457dc08",
+      "https://ugc-images.catchtable.co.kr/catchtable/shopinfo/s_S04An8AAHoapmnr-QC01A/8397099e478a41c6a2c41536fa57a650",
+      "https://ugc-images.catchtable.co.kr/catchtable/shopinfo/s_S04An8AAHoapmnr-QC01A/a81a0f2dfc56428cab09cc7905fcc72f",
+      "https://ugc-images.catchtable.co.kr/catchtable/shopinfo/s_S04An8AAHoapmnr-QC01A/2d62994b3c8446579deec214ea63a77d",
+      "https://ugc-images.catchtable.co.kr/catchtable/shopinfo/s_S04An8AAHoapmnr-QC01A/a2a354ef1d3e4d32bbce02a878739d02"
+    ],
+    "main_service": "DINING"
+  },
+  "schedule": [],
+  "facilities": [
+    "주차",
+    "콜키지",
+    "단체",
+    "무선인터넷"
+  ],
+  "can_reserve": false,
+  "tv_appearances": [],
+  "review_summary": {
+    "total_count": 1,
+    "rating": 4.7,
+    "food_score": 0.0,
+    "ambience_score": 0.0,
+    "service_score": 0.0
+  },
+  "save_count": null,
+  "menus": [
+    {
+      "category": "메인메뉴",
+      "name": "두마리 꽃게탕",
+      "price_min": 24900,
+      "price_max": null,
+      "description": "손바닥만한 제일 큰 꽃게를 두마리 든든하게 넣은 [ 두마리 왕 꽃게탕 ]  ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/df502d62b32a4318a6e8c45dd449290a",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인메뉴",
+      "name": "매운 스지찜",
+      "price_min": 25900,
+      "price_max": null,
+      "description": "푹삶아 쫄깃한 스지를 팽이버섯과 매운소스에 조려낸 [ 매운 스지찜 ] ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/4598483d07324eeaa640622e406d5cf3",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인메뉴",
+      "name": "생 육회 + 채끝 육사시미",
+      "price_min": 23900,
+      "price_max": null,
+      "description": "육회집도 같이 운영하는 제가 자신만만히 내놓은 [ 생 육회 + 채끝 육사시미 (국내산) ] ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/ef0a0ef0c5d249ca926d86735797c65f",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인메뉴",
+      "name": "새우폭탄 미나리전",
+      "price_min": 20900,
+      "price_max": null,
+      "description": "",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/1b90f14ab1144481a9e90ce0457c6ff0",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인메뉴",
+      "name": "버터감자 갈비구이",
+      "price_min": 26000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인메뉴",
+      "name": "닭목살 소금구이",
+      "price_min": 16000,
+      "price_max": null,
+      "description": "",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/67a64e2a44ed4849ab5e316a60849287",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인메뉴",
+      "name": "통두부김치",
+      "price_min": 18000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인메뉴",
+      "name": "통삼치구이",
+      "price_min": 19000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인메뉴",
+      "name": "매콤 알곤이찜",
+      "price_min": 23900,
+      "price_max": null,
+      "description": "",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/3f34d302360d472e9e8c0fa49d1c87c9",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인메뉴",
+      "name": "꼬치오뎅탕",
+      "price_min": 18000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인메뉴",
+      "name": "콰트로 치즈 감자전",
+      "price_min": 17900,
+      "price_max": null,
+      "description": "바삭한 감자채전에 네가지 치즈를 듬뿍 얹은 [ 콰트로 치즈 감자전 ] ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/eb9e4082f1174a9f948d821fb46024a6",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인메뉴",
+      "name": "먹태",
+      "price_min": 15000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "추가메뉴",
+      "name": "청어알 온두부",
+      "price_min": 8000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "추가메뉴",
+      "name": "약과이스크림",
+      "price_min": 8000,
+      "price_max": null,
+      "description": "",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/7f5685320e774ea4b2a774280efdda76",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "추가메뉴",
+      "name": "맛보기 육회",
+      "price_min": 8000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "추가메뉴",
+      "name": "맛보기 육사시미",
+      "price_min": 10000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "추가메뉴",
+      "name": "콩나물 신라면",
+      "price_min": 5000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "추가메뉴",
+      "name": "참치 주먹밥",
+      "price_min": 5000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "추가메뉴",
+      "name": "스몰만두 한접시",
+      "price_min": 5000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    }
+  ],
+  "menu_boards": [],
+  "menu_detail_info": {
+    "is_kids_menu": null,
+    "is_vegan": null,
+    "is_allergy_substitute": null,
+    "alcohol_required": false,
+    "corkage_guide": "위스키 이외 주종 무관 콜키지 가능!\n다만 주류에 따라 가격이 상이하므로 매장 문의 부탁드립니다.\n(참고로 와인잔은 제공이 불가합니다)",
+    "last_updated": "2025-06-02"
+  },
+  "visit_purpose_summary": [
+    {
+      "purpose": "친목",
+      "code": "SOCIAL_GATHERING",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "3398738",
+      "review_seq": 3398738,
+      "article_seq": 3398968,
+      "is_editable": false,
+      "reg_date_raw": 1735181678000,
+      "created_at": "2024-12-26T11:54:38+09:00",
+      "writer": {
+        "user_identifier": "5Q5RbkBX9IDbaIr9vnwMnw",
+        "display_name": "솔직한 마스터_85121",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/cLdSeU/btsI7sGubFW/jujCK1cYmT4shQRfcVzO70/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "솔직한 마스터_85121",
+      "author_id": "5Q5RbkBX9IDbaIr9vnwMnw",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/cLdSeU/btsI7sGubFW/jujCK1cYmT4shQRfcVzO70/img_640x640.jpg",
+      "rating": 4.699999809265137,
+      "food_score": 5.0,
+      "ambience_score": 4.0,
+      "service_score": 5.0,
+      "content": "맛있게 잘 먹었습니다.",
+      "review_comment": "",
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    }
+  ],
+  "summary": {
+    "total_reviews_collected": 1,
+    "reviews_with_visit_purpose": 1,
+    "reviews_with_meal_time": 1,
+    "crawl_duration_seconds": 0.3
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "restaurant_id": "catchtable_-LRI2kEndBROmWHaftUsig",
+  "shop_ref": "-LRI2kEndBROmWHaftUsig",
+  "crawled_at": "2026-04-25T01:29:07.345323+09:00",
+  "source_url": "https://app.catchtable.co.kr/ct/shop/-LRI2kEndBROmWHaftUsig",
+  "basic_info": {
+    "name": "옥된장 여의도점",
+    "name_en": "Okdoenjang Yeouido Branch",
+    "alias": "okdoenjang_yeouido",
+    "category": "한식",
+    "area": "여의도",
+    "description": "낮에는 된장전골 맛집, 밤에는 수육전골 술집, 매일 새벽1시까지, 여의도역6번출구, 한식주점",
+    "address": "서울특별시 영등포구 의사당대로 108 아일렉스 1층 102호, 104호",
+    "address_old": "서울특별시 영등포구 여의도동 37 아일렉스 1층 102호, 104호",
+    "latitude": 37.5210051,
+    "longitude": 126.9238388,
+    "phone": "02-3662-3009",
+    "price_range": "1만원 ~ 2만원",
+    "sns_url": "https://naver.me/5atAmmLD",
+    "images": [
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/de2a3b3d7e5c4e0b82c3392c71dfcc5c",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/91ff84512f7e41e998dbad24dedfb5b4",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/5b94c8e74d494a848a8ea2d1733df378",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/2e21ff766cca42e8a6b5101a5716bc5a",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/916b08020e2648fcb0ea62d9fed7d723"
+    ],
+    "main_service": "DINING"
+  },
+  "schedule": [],
+  "facilities": [
+    "주차",
+    "콜키지",
+    "반려동물",
+    "단체",
+    "대관",
+    "무선인터넷",
+    "대기공간"
+  ],
+  "can_reserve": false,
+  "tv_appearances": [],
+  "review_summary": {
+    "total_count": 1,
+    "rating": 3.0,
+    "food_score": 0.0,
+    "ambience_score": 0.0,
+    "service_score": 0.0
+  },
+  "save_count": null,
+  "menus": [
+    {
+      "category": "BEST 메뉴 추천",
+      "name": "💪★(판매1위)모듬수육전골정식(점심한정)",
+      "price_min": 13000,
+      "price_max": null,
+      "description": "가성비 최고의, 곰탕, 삼계탕보다 맛있는 수육정식",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/c4d2e1599cf942aca8a81ea732af1d4e",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "BEST 메뉴 추천",
+      "name": "★(BEST)오징어미나리전(소문듣고찾는)",
+      "price_min": 20000,
+      "price_max": null,
+      "description": "소문듣고 찾아와서 드시는 서여의도 최고의 미나리전",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/d47e08415bab4f35a2d6f571253a6e2b",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "BEST 메뉴 추천",
+      "name": "★(BEST)모듬수육무침 150g",
+      "price_min": 25000,
+      "price_max": null,
+      "description": "새콤,쫄깃,아삭, 곁들임으로도 술안주로 인기만점",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/859ec14dc78249bebcf808e335d217eb",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "BEST 메뉴 추천",
+      "name": "💪(보양식)모듬수육전골中 300g",
+      "price_min": 38000,
+      "price_max": null,
+      "description": "삼겹살보다 맛있고 건강에 좋은 모듬수육전골",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/b2d4465b8ec54e8eb2bd99b362928ae0",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "BEST 메뉴 추천",
+      "name": "💪(보양식)소갈비전골中 800g",
+      "price_min": 55000,
+      "price_max": null,
+      "description": "아이들도 좋아하는 옥된장표 꼬들꼬들 소갈비 전골~",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/4ba09943bc6448949b24b060c014991c",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "BEST 메뉴 추천",
+      "name": "💪(보양식)소꼬리전골 中 600g",
+      "price_min": 65000,
+      "price_max": null,
+      "description": "이 가격에 여의도에서 소꼬리전골을?? 숨겨진 소꼬리맛집",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/8213e5e137554408b7edb92eceecb4b1",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "점심특선",
+      "name": "(폭염추천)커피한잔값!! 옛날팥빙수",
+      "price_min": 5000,
+      "price_max": null,
+      "description": "더 맛있게 업그레이드된 우유연유가득 팥빙수",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/c4c63a23771c486a94050828106f541d",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "점심특선",
+      "name": "(보양추천)모둠수육정식(점심한정)",
+      "price_min": 13000,
+      "price_max": null,
+      "description": "가성비 최고의 삼계탕보다, 곰탕보다 맛있는 수육정식",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/5d4f8d9d57724634ba1fa23873b38a50",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "점심특선",
+      "name": "★(점심특선)소고기삼겹된장(된장전골판매1위)",
+      "price_min": 11000,
+      "price_max": null,
+      "description": "2,000원 할인적용가(15시이전)",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/babc717b095e4414883e24e6c8c4ad70",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "점심특선",
+      "name": "★(점심특선)우렁 된장전골(BEST)",
+      "price_min": 11000,
+      "price_max": null,
+      "description": "2,000원 할인적용가(15시이전)",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/14087a1402f44d27a884b452be8b4772",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "점심특선",
+      "name": "★(점심특선)바지락된장 2인(추천)",
+      "price_min": 22000,
+      "price_max": null,
+      "description": "2인 단위 주문 가능, 4,000원 할인적용가(15시이전)",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/6f5254db0eb04a6d9d24d23d7b1fe9a4",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "점심특선",
+      "name": "(점심특선)표고버섯 된장전골(비건추천)",
+      "price_min": 11000,
+      "price_max": null,
+      "description": "2,000원 할인적용가(15시이전)",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/bbfda299e873407db2f86a532cb87c8b",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "점심특선",
+      "name": "(점심특선)오징어 된장전골",
+      "price_min": 11000,
+      "price_max": null,
+      "description": "2,000원 할인적용가(15시이전)",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/9e98d2af2cd74268b0d57db8b72ab2cf",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "점심특선",
+      "name": "(점심특선)꽃게 된장전골",
+      "price_min": 12000,
+      "price_max": null,
+      "description": "2,000원 할인적용가(15시이전)",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/fe9498ba5f1a4f53bb82ebe9d9567dcd",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "점심특선",
+      "name": "(점심특선)스지 된장전골",
+      "price_min": 12000,
+      "price_max": null,
+      "description": "2,000원 할인적용가(15시이전)",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/b6cd9d8475a346bca13d19c3f1cd4c98",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "점심특선",
+      "name": "(점심특선)들깨 미역 된장전골(비건추천)",
+      "price_min": 10000,
+      "price_max": null,
+      "description": "2,000원 할인적용가(15시이전)",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/2ed3bc98fca44fc5bc14fcfff3e7d93d",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "牛수육 전골 / 무침",
+      "name": "★(BEST)모둠수육전골中 300g",
+      "price_min": 38000,
+      "price_max": null,
+      "description": "삼겹살보다 맛있고 건강에 좋은 수육",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/c19bc7754d75460fa27907f3fa2b7cd1",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "牛수육 전골 / 무침",
+      "name": "★(BEST)모둠수육무침 250g",
+      "price_min": 38000,
+      "price_max": null,
+      "description": "새콤,쫄깃,아삭, 곁들임으로도 술안주로 인기만점",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/a08c1f7661a640f8b65a796244b653e4",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "牛수육 전골 / 무침",
+      "name": "★(BEST)소갈비 전골 中 800g",
+      "price_min": 55000,
+      "price_max": null,
+      "description": "아이들도 좋아하는 옥된장표 꼬들꼬들 소갈비 전골~",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/48bf81de54e24b37bfe9798706a46576",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "牛수육 전골 / 무침",
+      "name": "★(보양추천)소꼬리전골 中 600g",
+      "price_min": 65000,
+      "price_max": null,
+      "description": "(한정판매) 쫄깃쫄깃 몸에 좋은 보약같은 별미",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/d4dfb7ca9e774544b0e6a4d46f0cc632",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "牛수육 전골 / 무침",
+      "name": "모둠 수육전골 大 500g",
+      "price_min": 55000,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/67004bfd6bbf4510aaa9202c2e33b6ac",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "牛수육 전골 / 무침",
+      "name": "소갈비 전골 大 1,200g",
+      "price_min": 85000,
+      "price_max": null,
+      "description": "아이들도 좋아하는 옥된장표 꼬들꼬들, 소갈비전골~",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/b02a6b655284437ca7de367a145553a4",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "牛수육 전골 / 무침",
+      "name": "매운 소갈비 전골 中 800g",
+      "price_min": 58000,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/1f57f1c0157a490c88e2b54af1313484",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "牛수육 전골 / 무침",
+      "name": "매운 소갈비 전골大 1200g",
+      "price_min": 88000,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/ad9dc86f51054515829682c4a2cad379",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "牛수육 전골 / 무침",
+      "name": "소꼬리전골 大 900g",
+      "price_min": 95000,
+      "price_max": null,
+      "description": "한정판매",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/25ac1c3399a54c72850fa1d8a16135c9",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "牛수육 전골 / 무침",
+      "name": "매운 소꼬리전골 中 600g",
+      "price_min": 68000,
+      "price_max": null,
+      "description": "한정판매",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/0c989af98a034b2981930388ef891b32",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "牛수육 전골 / 무침",
+      "name": "매운 소꼬리전골 大 900g",
+      "price_min": 98000,
+      "price_max": null,
+      "description": "한정판매",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/3303378eb3014485857873d444609eca",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "牛수육 전골 / 무침",
+      "name": "부채살/스지/아롱사태 수육전골 250g",
+      "price_min": 35000,
+      "price_max": null,
+      "description": "3가지 중 선택 가능한 단품메뉴입니다.",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/5db2e225e58a4837b01afe5b3455b43f",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일품추가",
+      "name": "★(BEST)오징어미나리전(일품판매1위)",
+      "price_min": 20000,
+      "price_max": null,
+      "description": "쫄깃한 식감의 오징어와 미나리의 조합",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/00db6b1bba4144668bea2e2c0d5a1fc5",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일품추가",
+      "name": "★(BEST)우렁 미나리전",
+      "price_min": 15000,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/cd295e913ca843b492d489ebe93768c3",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일품추가",
+      "name": "(추천)소고기 오징어 볶음 中",
+      "price_min": 25000,
+      "price_max": null,
+      "description": "부드러운 소고기와 쫄깃한 오징어의 만남~",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/e215122367ce4f788ebc09e2174be398",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일품추가",
+      "name": "(New)보리새우미나리전",
+      "price_min": 17000,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/1f33d43c9fcb44a09304718414c51856",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일품추가",
+      "name": "(New)오징어미나리초무침",
+      "price_min": 22000,
+      "price_max": null,
+      "description": "쫄깃한 오징어와 새콤한 미나리의 입맛 돋는 만남",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/4cacbf6128ec415e835f81cbb6ad9cb5",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일품추가",
+      "name": "오징어바지락볶음 中",
+      "price_min": 25000,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/5c398f6688454a68847d1b58967c32f8",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일품추가",
+      "name": "소고기삼겹 두부김치",
+      "price_min": 15000,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/eea4d8731abb44bda9501d7b3b81c050",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일품추가",
+      "name": "칼칼한 바지락탕",
+      "price_min": 15000,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/393d127f8f9a4d50b82103c4df393599",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일품추가",
+      "name": "매운 소고기두부전골",
+      "price_min": 18000,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/280ccc935cbf4e60a840ac8f7a31fa12",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "일품추가",
+      "name": "우렁칼국수 무침",
+      "price_min": 19000,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/7dd1d2688d674be9a0fe680fb65b0e41",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "주류",
+      "name": "전통주",
+      "price_min": 8000,
+      "price_max": 26000,
+      "description": "동학1957, 이강주 등 10여종의 지역 특산 전통주",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/bfb5ee23a0fd48b5955b984e9a5e3ea9",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "주류",
+      "name": "막걸리 / 하이볼",
+      "price_min": 5000,
+      "price_max": 7000,
+      "description": "낮술로도 좋은 막걸리와 달달한 하이볼",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/e221df0414e04c2bbf85c16e221093ea",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "주류",
+      "name": "주류 및 음료",
+      "price_min": 2000,
+      "price_max": 69000,
+      "description": "소주, 맥주 5,000원, 몸에 좋은 복분자까지",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/9a2a95720ae14d4bb526b646a7e67cd4",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "(포장메뉴) 10%할인",
+      "name": "전체 메뉴포장 판매",
+      "price_min": 2500,
+      "price_max": 98000,
+      "description": "전체메뉴 포장(비조리기본), 10% 할인적용, 예외)된장전골은 점심특선가로 판매, 엄마 김등 포장완제품은 할인제외.",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/51a46293ffbe4ab285b05bb1b19d184b",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    }
+  ],
+  "menu_boards": [
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/825136f90b0b42b0b3254a6fd36e7fff",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/8b8812b7107448f8b15f1cf873a22fa0",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/02df2665b5284df2994a48b948af0666",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/9124a6b2c13040a5bbc353484c48d7c6",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/3a0a3a8bd2844eed9c51e153f75dc2cd",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/2aa5a136a2fc409db8207fbe0300657d",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/bd34bdf787f34b4481a04e90bed21811",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/defacce0326a4609bf801c9f0699ab3c",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/2060c04b5d794f0c95164d97b0c6cc9f",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/a347f598fcce446ea59276a639d538a4",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/8dc037be32ce494c953a92a651ff6de4"
+  ],
+  "menu_detail_info": {
+    "is_kids_menu": true,
+    "is_vegan": true,
+    "is_allergy_substitute": null,
+    "alcohol_required": null,
+    "corkage_guide": "콜키지 가능(유료) : 1만원,",
+    "last_updated": "2025-08-10"
+  },
+  "visit_purpose_summary": [
+    {
+      "purpose": "친목",
+      "code": "SOCIAL_GATHERING",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "4879926",
+      "review_seq": 4879926,
+      "article_seq": 4880156,
+      "is_editable": false,
+      "reg_date_raw": 1759192010000,
+      "created_at": "2025-09-30T09:26:50+09:00",
+      "writer": {
+        "user_identifier": "37ei2GlWpjMxfWNnJqxp8w",
+        "display_name": "bemine",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "bemine",
+      "author_id": "37ei2GlWpjMxfWNnJqxp8w",
+      "author_profile_thumb_url": null,
+      "rating": 3.0,
+      "food_score": 3.0,
+      "ambience_score": 3.0,
+      "service_score": 3.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    }
+  ],
+  "summary": {
+    "total_reviews_collected": 1,
+    "reviews_with_visit_purpose": 1,
+    "reviews_with_meal_time": 1,
+    "crawl_duration_seconds": 0.3
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "restaurant_id": "catchtable_-tLubozkAGZbUUVHFlyfEQ",
+  "shop_ref": "-tLubozkAGZbUUVHFlyfEQ",
+  "crawled_at": "2026-04-25T01:29:16.297271+09:00",
+  "source_url": "https://app.catchtable.co.kr/ct/shop/-tLubozkAGZbUUVHFlyfEQ",
+  "basic_info": {
+    "name": "설화육 마곡본점",
+    "name_en": "Seolhwayug Magogbonjeom",
+    "alias": "seolhwayug_magogbon",
+    "category": "육류,고기요리",
+    "area": "마곡",
+    "description": "고기의 단백한 고소함, 풍부한 육즙, 쫄깃한 식감을 모두 갖춘 고깃집",
+    "address": "서울특별시 강서구 마곡서로 152 두산더랜드타워 B동 1층 103, 104호",
+    "address_old": "서울특별시 강서구 마곡동 759-1 두산더랜드타워 B동 1층 103, 104호",
+    "latitude": 37.5676701,
+    "longitude": 126.8259797,
+    "phone": "050-71473-1491",
+    "price_range": "1만원 ~ 3만원",
+    "sns_url": "",
+    "images": [
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/33ef28fa1d4944b4b38929dfc9110806",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/99332a071ce14a9f8f8185651fcafe0b",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/02880ca62082464d9b216b21a073bf84",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/951a4d3c8ba048d093fe63571ab2f45f",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/f94d594ed6e54327b127eeed9fabf057"
+    ],
+    "main_service": "DINING"
+  },
+  "schedule": [],
+  "facilities": [
+    "단체",
+    "대관",
+    "무선인터넷",
+    "대기공간"
+  ],
+  "can_reserve": false,
+  "tv_appearances": [],
+  "review_summary": {
+    "total_count": 0,
+    "rating": 0.0,
+    "food_score": 0.0,
+    "ambience_score": 0.0,
+    "service_score": 0.0
+  },
+  "save_count": null,
+  "menus": [
+    {
+      "category": "한돈",
+      "name": "설화모듬 소",
+      "price_min": 48000,
+      "price_max": null,
+      "description": "삼겹 + 목살 + 껍데기 or 찌개 소 변경",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "한돈",
+      "name": "설화모듬 중",
+      "price_min": 68000,
+      "price_max": null,
+      "description": "삼겹 + 목살 + 껍데기 or 찌게 소 변경",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "한돈",
+      "name": "설화모듬 대",
+      "price_min": 89000,
+      "price_max": null,
+      "description": "삼겹 + 목살 + 가브리살 + 껍데기 or 찌게 중 변경",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "한돈",
+      "name": "설화통삼겹 160g",
+      "price_min": 17000,
+      "price_max": null,
+      "description": "ybd고급 품종 + 200시간 교차숙성을 하여 육향이 진하고 지방이 고소한 최고급 삼겹",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "한돈",
+      "name": "설화목살 160g",
+      "price_min": 17000,
+      "price_max": null,
+      "description": "암퇘지중에서도 좋은부위만 엄선하여 200시간 교차숙성을 하여 마블링이 풍부하고 육향이 진한 최고급 목살",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "한돈",
+      "name": "설화숙성 가브리살 130g",
+      "price_min": 17000,
+      "price_max": null,
+      "description": "200시간 이상 교차숙성을 하여 쫄깃하고 진한 육향의 가브리살",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "한돈",
+      "name": "대파갈매기살",
+      "price_min": 24000,
+      "price_max": 46000,
+      "description": "한판 400g 46,000원\n반판 200g 24,000원\n\n대파와 갈매기의 쫄깃함과 알싸한 마늘소스의 조화",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "한돈",
+      "name": "칼집껍데기 150g",
+      "price_min": 8000,
+      "price_max": null,
+      "description": "지방층이 두터운 껍데기를 비법소스에 삶아 더욱 쫄깃하고 고소하게 먹을 수 있는 껍데기",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "곁들임",
+      "name": "절편 + 구워먹는치즈 (각 4pcs)",
+      "price_min": 6000,
+      "price_max": null,
+      "description": "치즈와 떡 그리고 고기의 황금조화",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "곁들임",
+      "name": "구워먹는치즈 1/2 (6pcs)",
+      "price_min": 6000,
+      "price_max": null,
+      "description": "덴마크에서 넘어온 신선한 원유로 만든 고급치즈",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "곁들임",
+      "name": "구워먹는치즈 (12pcs)",
+      "price_min": 11000,
+      "price_max": null,
+      "description": "덴마크에서 넘어온 신선한 원유로 만든 고급치즈",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "곁들임",
+      "name": "구이야채 추가",
+      "price_min": 3000,
+      "price_max": null,
+      "description": "버섯, 꽈리고추, 방울토마토, 주키니호박, 대파로 구성된 야채류",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "곁들임",
+      "name": "차돌된장찌개",
+      "price_min": 6000,
+      "price_max": 9000,
+      "description": "소 6,000원\n중 9,000원",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "곁들임",
+      "name": "해남묵은지찌개",
+      "price_min": 6000,
+      "price_max": 9000,
+      "description": "소 6,000원\n중 9,000원",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "곁들임",
+      "name": "고추장찌개",
+      "price_min": 8000,
+      "price_max": null,
+      "description": null,
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "곁들임",
+      "name": "설화냉면",
+      "price_min": 7000,
+      "price_max": null,
+      "description": "비법육수와 비법소스가 들어간 특제 낸ㅇ면",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "곁들임",
+      "name": "파채라면",
+      "price_min": 7000,
+      "price_max": null,
+      "description": null,
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "곁들임",
+      "name": "갓지은밥",
+      "price_min": 1000,
+      "price_max": null,
+      "description": null,
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "육회",
+      "name": "1++육회",
+      "price_min": 149000,
+      "price_max": null,
+      "description": "육향이 진하고 고소한 1++한우를 선별한 최고급 육회",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "육회",
+      "name": "1++육사시미",
+      "price_min": 89000,
+      "price_max": null,
+      "description": "육향이 진하고 고소한 1++한우를 선별한 최고급 육사시미\n*하루 5판 한정",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "한우설화세트 ",
+      "price_min": 149000,
+      "price_max": null,
+      "description": "살치살 + 갈비+등심 2~3인 설화육만의 살치살,갈비살과 등심을 모두 즐길 수 있는 모듬",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "설화갈비살",
+      "price_min": 39000,
+      "price_max": null,
+      "description": "150g",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "설화등심",
+      "price_min": 39000,
+      "price_max": null,
+      "description": "150g",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "설화살치살",
+      "price_min": 48000,
+      "price_max": null,
+      "description": "150g",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "1++육회/육사시미",
+      "price_min": 25000,
+      "price_max": null,
+      "description": " 육향이 진하고 고소한 1++한우를 선별한 최고급 육회와 1++육사시미(30,000)원",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "설화모듬(소/중/대)",
+      "price_min": 48000,
+      "price_max": null,
+      "description": " '빕 구르망' YBD 고급품종 삼겹 + 목살 + 껍데기 or 찌개 소 변경 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/ac1c06cf974244bf9fb7eee85a8e6e38",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "설화돈살",
+      "price_min": 18000,
+      "price_max": null,
+      "description": " 설화육에서 자체개발한 돼지의 특수부위를 참치모양으로 정형한 시그니쳐 설화돈살 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/9fa81a8de0ca444fbd3d306a44050ab6",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "대파갈매기살(한판/반판) ",
+      "price_min": 46000,
+      "price_max": null,
+      "description": "대파와 갈매기의 쫄깃함과 알싸한 마늘소스의 조화 ",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/8642af89a9944cff848bc6a8e67c7fe4",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "목살&가브리살&통삼겹 추가",
+      "price_min": 17000,
+      "price_max": null,
+      "description": " 200시간 이상 교차숙성을 한 목살&가브리살&삼겹살 추가 구성 ",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    }
+  ],
+  "menu_boards": [
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/e2bb3588b3834bfc8a3499bc786819a9",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/cdf6b2fe76b744a997a06e36deb644aa",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/9a298edec66d4ebd96ef737e5a74b025",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/4ce5ccfb24c64aa69c170d832f6a17bd",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/c479dda99dfe41b18ad39a3199cea1ec",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/bf96a2be0cbb4c83b7a528dcf8394840",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/505f0ae4459249138a9a4a74b61cdd04"
+  ],
+  "menu_detail_info": {
+    "is_kids_menu": null,
+    "is_vegan": null,
+    "is_allergy_substitute": null,
+    "alcohol_required": null,
+    "corkage_guide": "콜키지 가능(유료) : 매장으로 문의 부탁드립니다.",
+    "last_updated": "2025-12-03"
+  },
+  "visit_purpose_summary": [],
+  "reviews": [],
+  "summary": {
+    "total_reviews_collected": 0,
+    "reviews_with_visit_purpose": 0,
+    "reviews_with_meal_time": 0,
+    "crawl_duration_seconds": 0.1
+  }
+}

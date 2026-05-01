@@ -1,0 +1,255 @@
+{
+  "restaurant_id": "catchtable_-jSobw1nzKVbLAAg8Axu-w",
+  "shop_ref": "-jSobw1nzKVbLAAg8Axu-w",
+  "crawled_at": "2026-04-25T01:29:14.021606+09:00",
+  "source_url": "https://app.catchtable.co.kr/ct/shop/-jSobw1nzKVbLAAg8Axu-w",
+  "basic_info": {
+    "name": "개화집 본점",
+    "name_en": "geahwazip",
+    "alias": "geahwa.zip",
+    "category": "돼지고기구이",
+    "area": "여의도",
+    "description": "상위 1% 급랭암돼지와 푸짐한한상차림 한우1++(9)차돌박이 맛집",
+    "address": "서울특별시 영등포구 여의대방로69길 7 충무빌딩 1층 109,110,111호",
+    "address_old": "서울특별시 영등포구 여의도동 44-13 충무빌딩 1층 109,110,111호",
+    "latitude": 37.5197654,
+    "longitude": 126.9312662,
+    "phone": "070-8657-4878",
+    "price_range": "1만원 ~ 3만원",
+    "sns_url": "https://www.instagram.com/geahwa.zip",
+    "images": [
+      "https://ugc-images.catchtable.co.kr/catchtable/shopinfo/s-jSobw1nzKVbLAAg8Axu-w/2d1043c33a074415b7365ea706b7625b",
+      "https://ugc-images.catchtable.co.kr/catchtable/shopinfo/s-jSobw1nzKVbLAAg8Axu-w/d3b7bf851e2f4b229f2780a5df7663cd",
+      "https://ugc-images.catchtable.co.kr/catchtable/shopinfo/s-jSobw1nzKVbLAAg8Axu-w/fb44cd64f3584ab19dabd56ffd245278",
+      "https://ugc-images.catchtable.co.kr/catchtable/shopinfo/s-jSobw1nzKVbLAAg8Axu-w/1f6dbff30bb54a3aa12c80c36b0c9a67",
+      "https://ugc-images.catchtable.co.kr/catchtable/shopinfo/s-jSobw1nzKVbLAAg8Axu-w/1c87b7c544e042b8ac76a3870514db51"
+    ],
+    "main_service": "DINING"
+  },
+  "schedule": [],
+  "facilities": [
+    "주차",
+    "콜키지",
+    "단체",
+    "대관",
+    "무선인터넷"
+  ],
+  "can_reserve": false,
+  "tv_appearances": [],
+  "review_summary": {
+    "total_count": 0,
+    "rating": 0.0,
+    "food_score": 0.0,
+    "ambience_score": 0.0,
+    "service_score": 0.0
+  },
+  "save_count": null,
+  "menus": [
+    {
+      "category": "세트 메뉴",
+      "name": "SET 1",
+      "price_min": 62000,
+      "price_max": null,
+      "description": "급랭 삼겹살 450g + 관자or치즈 + 된장찌개or순쫄이",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "세트 메뉴",
+      "name": "SET 2",
+      "price_min": 72000,
+      "price_max": null,
+      "description": "++한우(no.9)차돌박이 300g+ 관자or치즈 + 된장찌개or순쫄이",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "세트 메뉴",
+      "name": "SET 3",
+      "price_min": 110000,
+      "price_max": null,
+      "description": "++한우(no.9)모듬구이 350g + 관자or치즈 + 된장찌개or순쫄이",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인 메뉴",
+      "name": "급랭삼겹살 150g",
+      "price_min": 16000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인 메뉴",
+      "name": "[한정수량] 가브리살 150g",
+      "price_min": 19000,
+      "price_max": null,
+      "description": "프리미엄 특수 부위로 소량만 제공되어 한정판매합니다.",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인 메뉴",
+      "name": "++한우(no.9)차돌박이 150g",
+      "price_min": 28000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인 메뉴",
+      "name": "++한우(no.9)모듬구이 350g",
+      "price_min": 99000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "메인 메뉴",
+      "name": "생 오겹살 150g",
+      "price_min": 16000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "사이드 메뉴",
+      "name": "++한우육회",
+      "price_min": 28000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "사이드 메뉴",
+      "name": "돼지껍데기",
+      "price_min": 10000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "사이드 메뉴",
+      "name": "관자",
+      "price_min": 10000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "사이드 메뉴",
+      "name": "구워먹는 치즈",
+      "price_min": 10000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "사이드 메뉴",
+      "name": "계란찜",
+      "price_min": 5000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "사이드 메뉴",
+      "name": "된장찌개",
+      "price_min": 10000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "사이드 메뉴",
+      "name": "순쫄이",
+      "price_min": 10000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "사이드 메뉴",
+      "name": "볶음밥",
+      "price_min": 5000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "사이드 메뉴",
+      "name": "비빔면",
+      "price_min": 5000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    }
+  ],
+  "menu_boards": [
+    "https://ugc-images.catchtable.co.kr/catchtable/shopmenupan/s-jSobw1nzKVbLAAg8Axu-w/0c429e02a0424227a58c82c177349474"
+  ],
+  "menu_detail_info": {
+    "is_kids_menu": null,
+    "is_vegan": null,
+    "is_allergy_substitute": null,
+    "alcohol_required": null,
+    "corkage_guide": "",
+    "last_updated": "2025-10-04"
+  },
+  "visit_purpose_summary": [],
+  "reviews": [],
+  "summary": {
+    "total_reviews_collected": 0,
+    "reviews_with_visit_purpose": 0,
+    "reviews_with_meal_time": 0,
+    "crawl_duration_seconds": 0.1
+  }
+}

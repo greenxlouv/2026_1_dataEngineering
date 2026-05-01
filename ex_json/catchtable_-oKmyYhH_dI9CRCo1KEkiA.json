@@ -1,0 +1,726 @@
+{
+  "restaurant_id": "catchtable_-oKmyYhH_dI9CRCo1KEkiA",
+  "shop_ref": "-oKmyYhH_dI9CRCo1KEkiA",
+  "crawled_at": "2026-04-25T01:29:43.620180+09:00",
+  "source_url": "https://app.catchtable.co.kr/ct/shop/-oKmyYhH_dI9CRCo1KEkiA",
+  "basic_info": {
+    "name": "닭장맥주 마곡코엑스점",
+    "name_en": "Dackjang Macju, Magok COEX",
+    "alias": "dackjangmacju_magok",
+    "category": "요리주점",
+    "area": "마곡",
+    "description": "대한민국 1등 치킨&파스타&맥주 레스토랑",
+    "address": "서울특별시 강서구 마곡중앙로 161-11 힐스테이트에코마곡나루역라마다앙코르서울 A동 219호",
+    "address_old": "서울특별시 강서구 마곡동 760-1 힐스테이트에코마곡나루역라마다앙코르서울 A동 219호",
+    "latitude": 37.5679674,
+    "longitude": 126.826746,
+    "phone": "02-3663-7693",
+    "price_range": "1만원 ~ 1만원",
+    "sns_url": "https://www.instagram.com/dackjangmacju_official/",
+    "images": [
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/8387221671ff49edb64edc590b63d340",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/5f45f9a089fa4c6fa2f62a6684fc45b6",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/cbad80760fef4e00af1f5d648d91d137",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/0038d2df3f13416381cab1cdee41c8b9",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/108fd1d300ed46ab8c90cca46138d6b3"
+    ],
+    "main_service": "WAITING"
+  },
+  "schedule": [],
+  "facilities": [
+    "주차",
+    "단체",
+    "무선인터넷"
+  ],
+  "can_reserve": false,
+  "tv_appearances": [],
+  "review_summary": {
+    "total_count": 4,
+    "rating": 4.3,
+    "food_score": 0.0,
+    "ambience_score": 0.0,
+    "service_score": 0.0
+  },
+  "save_count": null,
+  "menus": [
+    {
+      "category": "기본",
+      "name": "반반치킨",
+      "price_min": 20900,
+      "price_max": null,
+      "description": "(선택)반반치킨/감자튀김세트",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/261915f717eb4850b30d4c47612de864",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "치떡세트",
+      "price_min": 26500,
+      "price_max": null,
+      "description": "치킨/떡볶이/감자튀김세트",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/739bf8100e0447df855a5d188b3c7495",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "닭다리살 떡도리탕",
+      "price_min": 29000,
+      "price_max": null,
+      "description": "닭장맥주 두번째 시그니처 닭다리살떡도리탕",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/87ca26efec0d4a439aca127ed0dd2953",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "치림프세트",
+      "price_min": 29500,
+      "price_max": null,
+      "description": "치킨/쉬림프/감자튀김세트",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/9927fc6956964334972d7d679ba2b0f9",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "치파세트",
+      "price_min": 33000,
+      "price_max": null,
+      "description": "치킨/파스타/감자튀김 세트",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/8c538c07dfae437983ca9216314bec38",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "치그니처세트",
+      "price_min": 38500,
+      "price_max": null,
+      "description": "치킨한마리+떡볶이+수제파스타+감자튀김한판 세트",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/03f29c7961b843b2b94735ebafa74431",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "치뱅이세트",
+      "price_min": 38500,
+      "price_max": null,
+      "description": "치킨/골뱅이소면/감자튀김세트",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/53bc65fc938146b8ad0073f2e0450d74",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "골치떡세트",
+      "price_min": 43000,
+      "price_max": null,
+      "description": "치킨/골뱅이소면/파스타/감자튀김 세트",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/70efde982fde4ff291f85b165b29be32",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "무뼈국물닭발",
+      "price_min": 21000,
+      "price_max": null,
+      "description": "무뼈닭발/콩나물/각종채소/떡/육수/소스",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/fac773adc3ce4b05a098ec4de67dd812",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "닭다리살 닭볶음탕",
+      "price_min": 27000,
+      "price_max": null,
+      "description": "부드러운닭다리살닭볶음탕/ 얼큰하고진한육수",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/7d4e548be2ee443795406f2c8a282cf9",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "핫 후라이드치킨",
+      "price_min": 20900,
+      "price_max": null,
+      "description": "후라이드치킨/감자튀김세트",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/e487b0761cc54f67911c429aef5b45c6",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "얼음쌩맥주",
+      "price_min": 4700,
+      "price_max": null,
+      "description": "영하 45도 얼음쌩맥주",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/3af8818765c94da2a9fdfd8d9d4bfa14",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "얼음쌩쏘맥",
+      "price_min": 4700,
+      "price_max": null,
+      "description": "영하 45도 얼음쌩쏘맥",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/c1926106ff504d338db7c7ee0c31d94f",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "토마토파스타",
+      "price_min": 13000,
+      "price_max": null,
+      "description": "토마토파스타/순살치킨3p",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/b1799137e6c042f88f71bb894bf39760",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "로제파스타",
+      "price_min": 13500,
+      "price_max": null,
+      "description": "로제파스타/순살치킨3p",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/7ba38afcdca2481f8a641326947c4b71",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "크림파스타",
+      "price_min": 13500,
+      "price_max": null,
+      "description": "크림파스타/순살치킨3p",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/b9e53343531d4e74b3368f1c7253a42c",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "트러플크림파스타",
+      "price_min": 13500,
+      "price_max": null,
+      "description": "트러플크림파스타/순살치킨3p",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/6892ea9c9cf4470e891682a6e9339ba2",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "매콤 차돌 파스타",
+      "price_min": 13500,
+      "price_max": null,
+      "description": "올리오파스타/매콤차돌볶음",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/835c004285e94d2087fe578e656a9410",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "쉬림프올리오파스타",
+      "price_min": 13500,
+      "price_max": null,
+      "description": "올리오파스타/칵테일새우",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/e3545a8ab394485397624455cdfec23b",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "양념치킨",
+      "price_min": 21900,
+      "price_max": null,
+      "description": "양념치킨/감자튀김세트",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/ab2686ca03934d01b708a78cd9c67f2b",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "스윗마요치킨",
+      "price_min": 22900,
+      "price_max": null,
+      "description": "스윗마요치킨/감자튀김세트",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/8337c7cc1ae64e71884b3ddd449b9e44",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "매운양념치킨",
+      "price_min": 21900,
+      "price_max": null,
+      "description": "매운양념치킨/감자튀김세트",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/1394ea4329cd45cd88408bb6e4cb9a72",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "허니콤보치킨",
+      "price_min": 21900,
+      "price_max": null,
+      "description": "허니콤보치킨/감자튀김세트",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/63bf1d74e02047649bff6dfbed6f10d1",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "고추갈릭치킨",
+      "price_min": 21900,
+      "price_max": null,
+      "description": "고추갈릭치킨/감자튀김세트",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/7c15fe152b8940e9968ab661ffd71ea0",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "뿌링치즈치킨",
+      "price_min": 21900,
+      "price_max": null,
+      "description": "뿌링치즈치킨/감자튀김세트",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/51b46b563fbb4228b4afaca3881437b6",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "옛날국물떡볶이",
+      "price_min": 6500,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/4ebd3595d8604faa9379b2c210c32c5c",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "눈꽃치즈떡볶이",
+      "price_min": 7500,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/db05edffae4f44c1801c37328efebed5",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "파김치짜파게티",
+      "price_min": 9500,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/2c04ea02273a4470a1caa0e5ef766ead",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "레귤러감자튀김",
+      "price_min": 7500,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/876f8f5a72f0486f82611783eaa15d4d",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "버팔로윙&감자튀김",
+      "price_min": 13000,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/d558d1b93290496daedca1b0dac46161",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "닭똥집후라이드&감자튀김",
+      "price_min": 13000,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/d2e9bcc5a44d49fe908f1d6c22421c58",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "바삭먹태",
+      "price_min": 16000,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/d5e3e58f9381417ebb69f8c36434539d",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "바지락술찜",
+      "price_min": 16500,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/c04b7962cc44467aaf76c37a3e5d778f",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "왕골뱅이소면",
+      "price_min": 18500,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/41ddbeb0d23b4c9b99e1003de14b23e7",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "유자하이볼",
+      "price_min": 6900,
+      "price_max": null,
+      "description": "버번위스키/유자/원액",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/0586a10051874adba1d5fd4aea26cf4f",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "얼그레이하이볼",
+      "price_min": 6900,
+      "price_max": null,
+      "description": "버번위스키/얼그레이",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/3fc61422a67b4c83b73459205e22e193",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "레몬하이볼",
+      "price_min": 6900,
+      "price_max": null,
+      "description": "버번위스키/레몬/원액",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/30c6c5170e734a51bb32d8c971b671f7",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "기본",
+      "name": "닭장맥주 하이볼",
+      "price_min": 6900,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/c9b56397c8084ffdb895ef2cc54bf753",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    }
+  ],
+  "menu_boards": [
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/8c997ef0aca14f9e8ef00e3092a93306",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/b2c25a8f915e4f42b4bf782735f20f71",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/dadbc5fc4d5a41e98615f6aca552fe44",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/9a4cefd606594b0b95e07c70069d0c78",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/c96cb8c1982d400d90a8b261c7c1d11b",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/5217b1d4bd544dd0981de806ef40d215"
+  ],
+  "menu_detail_info": {
+    "is_kids_menu": null,
+    "is_vegan": null,
+    "is_allergy_substitute": null,
+    "alcohol_required": null,
+    "corkage_guide": null,
+    "last_updated": "2025-10-18"
+  },
+  "visit_purpose_summary": [
+    {
+      "purpose": "데이트",
+      "code": "DATE",
+      "count": 2
+    },
+    {
+      "purpose": "가족식사",
+      "code": "FAMILY_MEAL",
+      "count": 1
+    },
+    {
+      "purpose": "친목",
+      "code": "SOCIAL_GATHERING",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "5955753",
+      "review_seq": 5955753,
+      "article_seq": 5955983,
+      "is_editable": false,
+      "reg_date_raw": 1774005574000,
+      "created_at": "2026-03-20T20:19:34+09:00",
+      "writer": {
+        "user_identifier": "C0Y6HbW7kEVKxgzawaLfiw",
+        "display_name": "여유로운 식객_39990",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "여유로운 식객_39990",
+      "author_id": "C0Y6HbW7kEVKxgzawaLfiw",
+      "author_profile_thumb_url": null,
+      "rating": 4.699999809265137,
+      "food_score": 5.0,
+      "ambience_score": 4.0,
+      "service_score": 5.0,
+      "content": "음식 맛있고, 서비스 최고",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5798931",
+      "review_seq": 5798931,
+      "article_seq": 5799161,
+      "is_editable": false,
+      "reg_date_raw": 1771668831000,
+      "created_at": "2026-02-21T19:13:51+09:00",
+      "writer": {
+        "user_identifier": "XK2DiikIi_Vh9WYVeRKw5g",
+        "display_name": "화려한 식객_77823",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "화려한 식객_77823",
+      "author_id": "XK2DiikIi_Vh9WYVeRKw5g",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5193718",
+      "review_seq": 5193718,
+      "article_seq": 5193948,
+      "is_editable": false,
+      "reg_date_raw": 1764241386000,
+      "created_at": "2025-11-27T20:03:06+09:00",
+      "writer": {
+        "user_identifier": "MVYiv81ExuRIMmq0C_UiBQ",
+        "display_name": "인기많은 식객_64677",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "인기많은 식객_64677",
+      "author_id": "MVYiv81ExuRIMmq0C_UiBQ",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5085992",
+      "review_seq": 5085992,
+      "article_seq": 5086222,
+      "is_editable": false,
+      "reg_date_raw": 1762512344000,
+      "created_at": "2025-11-07T19:45:44+09:00",
+      "writer": {
+        "user_identifier": "LqsGVtuL5lJXgN6iv9-Sxw",
+        "display_name": "778jjang ",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "778jjang ",
+      "author_id": "LqsGVtuL5lJXgN6iv9-Sxw",
+      "author_profile_thumb_url": null,
+      "rating": 2.5,
+      "food_score": 2.5,
+      "ambience_score": 2.5,
+      "service_score": 2.5,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    }
+  ],
+  "summary": {
+    "total_reviews_collected": 4,
+    "reviews_with_visit_purpose": 4,
+    "reviews_with_meal_time": 4,
+    "crawl_duration_seconds": 0.3
+  }
+}

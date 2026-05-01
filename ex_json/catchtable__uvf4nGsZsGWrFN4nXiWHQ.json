@@ -1,0 +1,687 @@
+{
+  "restaurant_id": "catchtable__uvf4nGsZsGWrFN4nXiWHQ",
+  "shop_ref": "_uvf4nGsZsGWrFN4nXiWHQ",
+  "crawled_at": "2026-04-25T01:29:45.830296+09:00",
+  "source_url": "https://app.catchtable.co.kr/ct/shop/_uvf4nGsZsGWrFN4nXiWHQ",
+  "basic_info": {
+    "name": "고드니 마곡본점",
+    "name_en": "Godny",
+    "alias": "godny",
+    "category": "카페 & 베이커리",
+    "area": "마곡",
+    "description": "높은 수준의 디저트와 커피를 선보이는 가치있는 카페",
+    "address": "서울특별시 강서구 마곡중앙로 161-1 마곡나루역캐슬파크 2층 220, 230호",
+    "address_old": "서울특별시 강서구 마곡동 760-2 마곡나루역캐슬파크 2층 220, 230호",
+    "latitude": 37.5678531,
+    "longitude": 126.8275104,
+    "phone": "010-6469-2021",
+    "price_range": "1만원 미만",
+    "sns_url": "https://www.instagram.com/godny_cafe",
+    "images": [
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/0d27116b0622465f80b0e0103f4c7f13",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/e6ac4822def24429b962f65cb97da2bf",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/ca9ea0d5f59e470984e803d5eee08360",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/0b36a6996a374fca91beb1be43a3036a",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/b6637788d3a34e86a28b8d09380774c2"
+    ],
+    "main_service": "WAITING"
+  },
+  "schedule": [],
+  "facilities": [
+    "주차",
+    "반려동물",
+    "단체",
+    "무선인터넷",
+    "대기공간"
+  ],
+  "can_reserve": false,
+  "tv_appearances": [],
+  "review_summary": {
+    "total_count": 3,
+    "rating": 4.1,
+    "food_score": 0.0,
+    "ambience_score": 0.0,
+    "service_score": 0.0
+  },
+  "save_count": null,
+  "menus": [
+    {
+      "category": "Dessert",
+      "name": "시즌메뉴",
+      "price_min": null,
+      "price_max": null,
+      "description": "계절을 닮은 시즌 케이크와 드링크",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/b240b9e0d131429ba38aa1117d1fb8d1",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Dessert",
+      "name": "두바이 휘낭시에",
+      "price_min": 5000,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/87fc334c4373426c89f7139fa232bd50",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Dessert",
+      "name": "글루텐프리 구움과자 BOX",
+      "price_min": null,
+      "price_max": null,
+      "description": "글루텐프리&비건 휘낭시에 12종",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/7e7287067f2e4f2283efe8f112927b88",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Dessert",
+      "name": "시즌 케이크",
+      "price_min": null,
+      "price_max": null,
+      "description": "크림을 포함한 동물성 재료들과 신선한 제철 재료들로 만드는 논비건 글루텐프리 케이크입니다.",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/c6b883eb9465436dbb8091321c5436a0",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Black",
+      "name": "아메리카노 or 에스프레소",
+      "price_min": 5000,
+      "price_max": null,
+      "description": "ICE / HOT 고소한 맛에 충실한 높은 퀄리티의 아메리카노",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/0f1ce951af4940fc9828a5067f3d53e7",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Black",
+      "name": "콜드브루",
+      "price_min": 5900,
+      "price_max": null,
+      "description": "ICE",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Black",
+      "name": "필터커피",
+      "price_min": null,
+      "price_max": null,
+      "description": "ICE / HOT\n가격변동\n정성을 담은 브루잉커피. 원두 라인업은 매주 변경됩니다.",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/38328a58e40e4269a3a45589cebbbf25",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "White",
+      "name": "카페라떼",
+      "price_min": 6000,
+      "price_max": null,
+      "description": "ICE / HOT\n수제 바닐라 시럽 +800원\n귀리유 오틀리로 만든 고소한 라떼 (일반우유 변경 가능)",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/18207ee707c4460f9bad49e88228be5d",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "White",
+      "name": "플랫화이트",
+      "price_min": 5500,
+      "price_max": null,
+      "description": "ICE / HOT",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "White",
+      "name": "바닐라플랫",
+      "price_min": 5900,
+      "price_max": null,
+      "description": "HOT",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "White",
+      "name": "바닐라 라떼",
+      "price_min": 6300,
+      "price_max": null,
+      "description": "수제 바닐라빈 시럽이 들어가 달콤한 풍미가 일품인 라떼.",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/9859814978a54aec8ccf86614f427b1f",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "White",
+      "name": "클래식 비엔나",
+      "price_min": 6700,
+      "price_max": null,
+      "description": "ICE / HOT 부드러운 라떼와 담백하고 묵직한 크림의 만남.",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/9027ba73f63d4bcab51f1eaf2cdb2729",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "White",
+      "name": "고드니비앙코",
+      "price_min": 6900,
+      "price_max": null,
+      "description": "ICE 오렌지청의 싱그러움과 비건크림이 어우러진 고드니의 시그니쳐 커피",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/b1bbe48e6d6a4cce9e4d61c7e6e4cec3",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Other Options",
+      "name": "에스프레소 샷 추가",
+      "price_min": 500,
+      "price_max": null,
+      "description": null,
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Other Options",
+      "name": "수제 바닐라 시럽 추가",
+      "price_min": 800,
+      "price_max": null,
+      "description": null,
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Other Options",
+      "name": "위스키 샷 추가",
+      "price_min": 3000,
+      "price_max": null,
+      "description": null,
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Other Options",
+      "name": "밀크 옵션 변경 (기본:귀리유/변경시 추가금 없음)",
+      "price_min": null,
+      "price_max": null,
+      "description": "일반우유 / 귀리우유 / Half&Half(우유+귀리유)",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Coffee Beans",
+      "name": "방화 블렌드",
+      "price_min": 6700,
+      "price_max": null,
+      "description": null,
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Coffee Beans",
+      "name": "고드니 블렌드",
+      "price_min": 7500,
+      "price_max": null,
+      "description": null,
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Coffee Beans",
+      "name": "밤산책 블렌드 - 디카페인",
+      "price_min": 7500,
+      "price_max": null,
+      "description": null,
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Coffee Beans",
+      "name": "에티오피아 시다마 산타와네 니구세 게메다 내추럴",
+      "price_min": 7600,
+      "price_max": null,
+      "description": null,
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Coffee Beans",
+      "name": "에티오피아 트와콕 셀렉션 워시드",
+      "price_min": 7700,
+      "price_max": null,
+      "description": null,
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Coffee Beans",
+      "name": "콜롬비아 핀카 라로마 - 위스키 배럴 에이지드",
+      "price_min": 7800,
+      "price_max": null,
+      "description": null,
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Drinks",
+      "name": "오미자",
+      "price_min": 6900,
+      "price_max": null,
+      "description": "ICE / HOT (에이드,티 선택)\n새콤달콤 감칠맛의 오미자 에이드",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/bcec3f5eed5940d699ee1326dd075917",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Drinks",
+      "name": "용과",
+      "price_min": 6900,
+      "price_max": null,
+      "description": "ICE / HOT (에이드,티 선택)",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Drinks",
+      "name": "슈퍼말차 오틀리",
+      "price_min": 7600,
+      "price_max": null,
+      "description": "ICE / HOT",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Drinks",
+      "name": "초코 오틀리",
+      "price_min": 7200,
+      "price_max": null,
+      "description": "ICE / HOT 직접 끓인 생초콜렛 베이스와 고소한 오틀리가 섞인 수제 초코라떼.",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/56932a733003415a8882c2fe6e99928a",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Drinks",
+      "name": "베이비치노",
+      "price_min": 4900,
+      "price_max": null,
+      "description": null,
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Drinks",
+      "name": "토마토 바질 에이드",
+      "price_min": 6900,
+      "price_max": null,
+      "description": null,
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/f81ff71e6f5d41d286922da0017403e5",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Tea & Alcohol",
+      "name": "루이보스 바닐라",
+      "price_min": 6900,
+      "price_max": null,
+      "description": "ICE / HOT",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Tea & Alcohol",
+      "name": "세레니티",
+      "price_min": 6900,
+      "price_max": null,
+      "description": "ICE / HOT",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Tea & Alcohol",
+      "name": "후루츠 드림",
+      "price_min": 6900,
+      "price_max": null,
+      "description": null,
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Tea & Alcohol",
+      "name": "클래식 하이볼",
+      "price_min": 10000,
+      "price_max": null,
+      "description": "ICE",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Tea & Alcohol",
+      "name": "오미자 하이볼",
+      "price_min": 10000,
+      "price_max": null,
+      "description": "ICE",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Tea & Alcohol",
+      "name": "진저 하이볼",
+      "price_min": 10000,
+      "price_max": null,
+      "description": "ICE",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Tea & Alcohol",
+      "name": "깔루아 오틀리",
+      "price_min": 10000,
+      "price_max": null,
+      "description": "ICE",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Tea & Alcohol",
+      "name": "와인 (포트/내추럴 화이트)",
+      "price_min": 13000,
+      "price_max": null,
+      "description": "ICE",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Tea & Alcohol",
+      "name": "칵테일",
+      "price_min": 8000,
+      "price_max": null,
+      "description": "클래식, 오미자, 진저 하이볼 3종, 깔루아오틀리",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/c8fbe2ea21c945f39d9c0b15d3d94ea7",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Tea & Alcohol",
+      "name": "TAVALON tea",
+      "price_min": 6900,
+      "price_max": null,
+      "description": "뉴욕 맨하탄에서 시작된 프리미엄 티 브랜드.",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/7da9a57b5bed43a48782adfc9331606d",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    }
+  ],
+  "menu_boards": [
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/2b1c8ccbf98446e78eb1ffc26fcb3413",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/8210cbe2eb264c58bec5da7563363b8a",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/32ddbafa66664487bcc1d1774786a999",
+    "https://ugc-images.catchtable.co.kr/shop/manager/images/5453f73c019247149e397aea49440eb1"
+  ],
+  "menu_detail_info": {
+    "is_kids_menu": null,
+    "is_vegan": null,
+    "is_allergy_substitute": null,
+    "alcohol_required": null,
+    "corkage_guide": null,
+    "last_updated": "2025-12-25"
+  },
+  "visit_purpose_summary": [
+    {
+      "purpose": "데이트",
+      "code": "DATE",
+      "count": 2
+    },
+    {
+      "purpose": "여행",
+      "code": "TRAVEL",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "6100535",
+      "review_seq": 6100535,
+      "article_seq": 6100765,
+      "is_editable": false,
+      "reg_date_raw": 1776003830000,
+      "created_at": "2026-04-12T23:23:50+09:00",
+      "writer": {
+        "user_identifier": "TuLsVw8gcesGgRB7Ynu92g",
+        "display_name": "콩님쓰",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "콩님쓰",
+      "author_id": "TuLsVw8gcesGgRB7Ynu92g",
+      "author_profile_thumb_url": null,
+      "rating": 4.0,
+      "food_score": 4.0,
+      "ambience_score": 4.0,
+      "service_score": 4.0,
+      "content": "근처에 볼일이 있어 온김에 평소 와보고 싶었던 카페 방문했어요. 사람이 정말 많더라구요. 웨이팅 조금 했는데 혼자라 그런지 금방 들어갈 수 있었어요. 두바이 휘낭시에를 먹어보고 싶었는데 없더라구요ㅠ 그치만 다른 휘낭시에도 너무 맛있었어요! 커피도 좋고 ㅎㅎ",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "TRAVEL",
+          "label": "여행"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "db41e0a2afb74343bdda3da31a1b78d3",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s_uvf4nGsZsGWrFN4nXiWHQ/db41e0a2afb74343bdda3da31a1b78d3",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 1
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s_uvf4nGsZsGWrFN4nXiWHQ/db41e0a2afb74343bdda3da31a1b78d3"
+      ]
+    },
+    {
+      "review_id": "5725418",
+      "review_seq": 5725418,
+      "article_seq": 5725648,
+      "is_editable": false,
+      "reg_date_raw": 1770708449000,
+      "created_at": "2026-02-10T16:27:29+09:00",
+      "writer": {
+        "user_identifier": "wtJYCTPXCeZxZ2pOSHX11Q",
+        "display_name": "우기부기2",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "우기부기2",
+      "author_id": "wtJYCTPXCeZxZ2pOSHX11Q",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5852447",
+      "review_seq": 5852447,
+      "article_seq": 5852677,
+      "is_editable": false,
+      "reg_date_raw": 1772421051000,
+      "created_at": "2026-03-02T12:10:51+09:00",
+      "writer": {
+        "user_identifier": "B9W64ZMNpplkpmpIQbjisA",
+        "display_name": "헴부기",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "헴부기",
+      "author_id": "B9W64ZMNpplkpmpIQbjisA",
+      "author_profile_thumb_url": null,
+      "rating": 3.299999952316284,
+      "food_score": 3.5,
+      "ambience_score": 2.5,
+      "service_score": 4.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "WAITING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "ALL",
+          "label": "전체"
+        }
+      },
+      "reservation_type": "WAITING",
+      "is_takeout": false,
+      "meal_time_code": "ALL",
+      "meal_time_label": "전체",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    }
+  ],
+  "summary": {
+    "total_reviews_collected": 3,
+    "reviews_with_visit_purpose": 3,
+    "reviews_with_meal_time": 3,
+    "crawl_duration_seconds": 0.3
+  }
+}

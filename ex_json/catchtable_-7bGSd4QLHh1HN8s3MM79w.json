@@ -1,0 +1,5564 @@
+{
+  "restaurant_id": "catchtable_-7bGSd4QLHh1HN8s3MM79w",
+  "shop_ref": "-7bGSd4QLHh1HN8s3MM79w",
+  "crawled_at": "2026-04-25T01:25:19.694928+09:00",
+  "source_url": "https://app.catchtable.co.kr/ct/shop/-7bGSd4QLHh1HN8s3MM79w",
+  "basic_info": {
+    "name": "럭키어스",
+    "name_en": "Lucky Us",
+    "alias": "7ucky_us",
+    "category": "양식",
+    "area": "영등포",
+    "description": "수제 뇨끼와 파스타, 와인과 위스키가 어우러지는 특별한 다이닝 바",
+    "address": "서울특별시 영등포구 당산로16길 3 1층",
+    "address_old": "서울특별시 영등포구 당산동1가 456 1층",
+    "latitude": 37.5226114,
+    "longitude": 126.8962473,
+    "phone": "050-71314-2179",
+    "price_range": "1만원 ~ 1만원",
+    "sns_url": "https://www.instagram.com/7ucky_us/",
+    "images": [
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/92eb1a9ab2e5482899515bf53947087b",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/1caa4c481af44ed593f706a6b86522b3",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/a3c06cded4cc4a918287f20c2860270e",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/784b2e0b23c443d9b84842322bea78e1",
+      "https://ugc-images.catchtable.co.kr/shop/manager/images/cd97c2a706c54e009894ed408a44713b"
+    ],
+    "main_service": "DINING"
+  },
+  "schedule": [],
+  "facilities": [
+    "주차",
+    "콜키지",
+    "자동결제",
+    "예약금 0원 결제",
+    "단체",
+    "대관",
+    "무선인터넷"
+  ],
+  "can_reserve": false,
+  "tv_appearances": [],
+  "review_summary": {
+    "total_count": 74,
+    "rating": 4.9,
+    "food_score": 0.0,
+    "ambience_score": 0.0,
+    "service_score": 0.0
+  },
+  "save_count": null,
+  "menus": [
+    {
+      "category": "GNOCCHI",
+      "name": "시그니처 크림 뇨끼",
+      "price_min": 19900,
+      "price_max": null,
+      "description": "훈연한 베이컨 칩과 피스타치오, 수제로 반죽하여 만든 뇨끼를 크림 소스와 함께 드셔보세요!!",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/77bb94695f5141bba84329d2bb6cb41e",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "Steak",
+      "name": "수비드 살치살 스테이크",
+      "price_min": 38900,
+      "price_max": null,
+      "description": "미국산 최고급 등급 프라임 살치살을 저온에서 조리하는 수비드 방식으로 알맞게 구워낸 스테이크",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/81913b8326724040bfdb5b4fc736db0b",
+      "is_representative": true,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "BRUNCH",
+      "name": "브런치 플레이트",
+      "price_min": 13900,
+      "price_max": null,
+      "description": "잔슨빌 소세지와 부드러운 에그 스크램블, 신선한\r\n야채와 잘 구워진 베이컨이 한 접시에 🍀",
+      "image_url": "https://image.toast.com/aaaaaqx/catchtable/shopmenu/s-7bGSd4QLHh1HN8s3MM79w/-7bgsd4qlhh1hn8s3mm79w_24101120434571781.jpeg",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "BRUNCH",
+      "name": "브런치 2인 세트",
+      "price_min": 29900,
+      "price_max": 37900,
+      "description": "홈 샐러드 + 커피or콜라 2잔 + 디쉬 2종류",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "BRUNCH",
+      "name": "브런치 1인 세트",
+      "price_min": 15900,
+      "price_max": 17900,
+      "description": "커피or콜라 1잔 +디쉬 1종류",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "PASTA",
+      "name": "잠봉 시금치 파스타",
+      "price_min": 17900,
+      "price_max": null,
+      "description": "직접 만든 시금치 페스토에 짭짤한 잠봉,상큼한 썬드라이 토마토가 어우러진 파스타",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/2bcff0200fb449e583b475df38925cfc",
+      "is_representative": false,
+      "is_recommended": true,
+      "is_new": true
+    },
+    {
+      "category": "PASTA",
+      "name": "투움바 파스타",
+      "price_min": 17900,
+      "price_max": null,
+      "description": "직접 끓인 크림 소스에 새우 6마리와 버섯, 매콤함의 환상적인 조합",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/3e1a0007e452487f95aa94630d7bf114",
+      "is_representative": false,
+      "is_recommended": true,
+      "is_new": false
+    },
+    {
+      "category": "PASTA",
+      "name": "부라타 토마토 파스타",
+      "price_min": 17900,
+      "price_max": null,
+      "description": "초리조와 블랙 올리브를 토마토 소스에 볶고 신선한 부라타를 올려 마무리 한 파스타",
+      "image_url": "https://image.toast.com/aaaaaqx/catchtable/shopmenu/s-7bGSd4QLHh1HN8s3MM79w/-7bgsd4qlhh1hn8s3mm79w_247611372280920.jpeg",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "PASTA",
+      "name": "초리조 레몬버터 파스타",
+      "price_min": 16900,
+      "price_max": null,
+      "description": "초리조와 애호박을 레몬즙에 절여 버터로 마무리 한 새콤한 풍미를 느끼는 파스타",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/a04d3e7d8ea347cab1c228cf37e8c02e",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "PASTA",
+      "name": "토마토 라구 파스타",
+      "price_min": 16900,
+      "price_max": null,
+      "description": "베이컨과 돼지고기를 볶아 감칠 맛을 더한 뒤 레드 와인, 토마토 페이스트, 홀토마토로 4시간 이상 졸여 만든 파스타",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/8a153e25e85441e0b580f951a05d181a",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "PASTA",
+      "name": "명란 새우 오일파스타",
+      "price_min": 15900,
+      "price_max": null,
+      "description": "명란과 새우의 완벽한 조화를 이루는 부담 없는 오일 파스타",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/dbcad2de52cf4a67a47b7a90fdc400f4",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "PASTA",
+      "name": "청양 크림 파스타",
+      "price_min": 15900,
+      "price_max": null,
+      "description": "좋은 재료로 직접 끓인 크림 소스에 청양고추로 한국의 매운 맛을 담은 파스타",
+      "image_url": "https://image.toast.com/aaaaaqx/catchtable/shopmenu/s-7bGSd4QLHh1HN8s3MM79w/-7bgsd4qlhh1hn8s3mm79w_247611384073125.jpeg",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "PASTA",
+      "name": "바질 쉬림프 파스타",
+      "price_min": 15900,
+      "price_max": null,
+      "description": "바질 페스토에 토마토, 새우와 함께 어우러진 파스타",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "SALAD",
+      "name": "부라타 치즈 샐러드",
+      "price_min": 18900,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "SALAD",
+      "name": "케이준 치킨 샐러드",
+      "price_min": 17900,
+      "price_max": null,
+      "description": "",
+      "image_url": "https://ugc-images.catchtable.co.kr/shop/manager/images/57662e4c097f4e7b92fd2f70cbfbbfac",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "SIDE",
+      "name": "라구 깜빠뉴",
+      "price_min": 8900,
+      "price_max": null,
+      "description": "",
+      "image_url": "https://image.toast.com/aaaaaqx/catchtable/shopmenu/s-7bGSd4QLHh1HN8s3MM79w/-7bgsd4qlhh1hn8s3mm79w_247611453563614.jpeg",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "SIDE",
+      "name": "토마토 바질 깜빠뉴",
+      "price_min": 8900,
+      "price_max": null,
+      "description": "",
+      "image_url": "https://image.toast.com/aaaaaqx/catchtable/shopmenu/s-7bGSd4QLHh1HN8s3MM79w/-7bgsd4qlhh1hn8s3mm79w_247611491946075.jpeg",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "SIDE",
+      "name": "나쵸칩",
+      "price_min": 9000,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "SIDE",
+      "name": "버팔로윙&감자튀김",
+      "price_min": 9900,
+      "price_max": null,
+      "description": "",
+      "image_url": "https://image.toast.com/aaaaaqx/catchtable/shopmenu/s-7bGSd4QLHh1HN8s3MM79w/-7bgsd4qlhh1hn8s3mm79w_24101120554213322.jpeg",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "SIDE",
+      "name": "아이스 슈 (5ea)",
+      "price_min": 5500,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "FOOD",
+      "name": "치즈 플래터",
+      "price_min": 18900,
+      "price_max": null,
+      "description": "",
+      "image_url": null,
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    },
+    {
+      "category": "FOOD",
+      "name": "잔슨빌 & 감자튀김",
+      "price_min": 16900,
+      "price_max": null,
+      "description": "",
+      "image_url": "https://image.toast.com/aaaaaqx/catchtable/shopmenu/s-7bGSd4QLHh1HN8s3MM79w/-7bgsd4qlhh1hn8s3mm79w_247611484008487.jpeg",
+      "is_representative": false,
+      "is_recommended": false,
+      "is_new": false
+    }
+  ],
+  "menu_boards": [
+    "https://ugc-images.catchtable.co.kr/catchtable/shopmenupan/s-7bGSd4QLHh1HN8s3MM79w/69e0ae5502c84cb7a265f8e6690c72c6",
+    "https://ugc-images.catchtable.co.kr/catchtable/shopmenupan/s-7bGSd4QLHh1HN8s3MM79w/5a33f8d05b344b8e8ba2cdd19cf8e870",
+    "https://ugc-images.catchtable.co.kr/catchtable/shopmenupan/s-7bGSd4QLHh1HN8s3MM79w/fef5565793984a9c8a9df239bbd32d1c"
+  ],
+  "menu_detail_info": {
+    "is_kids_menu": null,
+    "is_vegan": null,
+    "is_allergy_substitute": null,
+    "alcohol_required": false,
+    "corkage_guide": "와인 콜키지는 병(750ml)당 15,000원의 금액을 받고 있습니다 !\n식사 시 주류 주문이 필수가 아니기 때문에 편하게 저녁 식사만 하셔도 무관합니다 :)",
+    "last_updated": "2025-08-29"
+  },
+  "visit_purpose_summary": [
+    {
+      "purpose": "친목",
+      "code": "SOCIAL_GATHERING",
+      "count": 38
+    },
+    {
+      "purpose": "데이트",
+      "code": "DATE",
+      "count": 25
+    },
+    {
+      "purpose": "기념일",
+      "code": "ANNIVERSARY",
+      "count": 5
+    },
+    {
+      "purpose": "소개팅",
+      "code": "BLIND_DATE",
+      "count": 3
+    },
+    {
+      "purpose": "단체모임",
+      "code": "GROUP_MEETING",
+      "count": 3
+    },
+    {
+      "purpose": "생일",
+      "code": "BIRTHDAY",
+      "count": 2
+    },
+    {
+      "purpose": "비즈니스미팅",
+      "code": "BUSINESS_MEETING",
+      "count": 2
+    },
+    {
+      "purpose": "회식",
+      "code": "COMPANY_OUTING",
+      "count": 1
+    },
+    {
+      "purpose": "혼밥",
+      "code": "EAT_ALONE",
+      "count": 1
+    },
+    {
+      "purpose": "가족식사",
+      "code": "FAMILY_MEAL",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "5991185",
+      "review_seq": 5991185,
+      "article_seq": 5991415,
+      "is_editable": false,
+      "reg_date_raw": 1774489456000,
+      "created_at": "2026-03-26T10:44:16+09:00",
+      "writer": {
+        "user_identifier": "ia-LHIXI75h7qqpULYWt3w",
+        "display_name": "보승2",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "보승2",
+      "author_id": "ia-LHIXI75h7qqpULYWt3w",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "재방문만 몇번째인지 기억이 안날 정도로 재재재재재x100 방문 맛집이에요!\n언제와도 맛있어서 조금 멀지만 일부러 찾아오는 맛집이랍니다✨️ \n심지어 가격도 부담없이 이용할 수 있어요! \n누굴 데려와도 좋아해서 실패없이 외식하고 싶으시다면 무조건 추천!\n매장도 관리가 잘 되어있고 데이트도 친목도 아주아주 좋아요👍",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "4b0b01dc7ce74c52ab6770503ad126b4",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/4b0b01dc7ce74c52ab6770503ad126b4",
+          "width": 480,
+          "height": 640,
+          "ordering": 1
+        },
+        {
+          "file_id": "3727589a5d6b4b4ca5a790d99034882b",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/3727589a5d6b4b4ca5a790d99034882b",
+          "width": 480,
+          "height": 640,
+          "ordering": 2
+        },
+        {
+          "file_id": "b02d27dc51cf40ef969e9f2385c753e1",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/b02d27dc51cf40ef969e9f2385c753e1",
+          "width": 480,
+          "height": 640,
+          "ordering": 3
+        },
+        {
+          "file_id": "d3ed69e2715f49178f78cc214c2e08f1",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d3ed69e2715f49178f78cc214c2e08f1",
+          "width": 480,
+          "height": 640,
+          "ordering": 4
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/4b0b01dc7ce74c52ab6770503ad126b4",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/3727589a5d6b4b4ca5a790d99034882b",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/b02d27dc51cf40ef969e9f2385c753e1",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d3ed69e2715f49178f78cc214c2e08f1"
+      ]
+    },
+    {
+      "review_id": "6154424",
+      "review_seq": 6154424,
+      "article_seq": 6154654,
+      "is_editable": false,
+      "reg_date_raw": 1776831116000,
+      "created_at": "2026-04-22T13:11:56+09:00",
+      "writer": {
+        "user_identifier": "c5IS8f9RkS486QavevtU7w",
+        "display_name": "고독한 미식가_56110",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/bdDf2J/btsJtJfdUzB/iiGXu6AHNpkm1KD4YhKU6K/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "고독한 미식가_56110",
+      "author_id": "c5IS8f9RkS486QavevtU7w",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/bdDf2J/btsJtJfdUzB/iiGXu6AHNpkm1KD4YhKU6K/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "맛있게 잘 먹었습니다.",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "88f3ccc496e8412692b298e1818b6062",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/88f3ccc496e8412692b298e1818b6062",
+          "width": 4284,
+          "height": 5712,
+          "ordering": 1
+        },
+        {
+          "file_id": "d2fb7bd906e44200a5a83cb0f4fdc03e",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d2fb7bd906e44200a5a83cb0f4fdc03e",
+          "width": 5712,
+          "height": 4284,
+          "ordering": 2
+        },
+        {
+          "file_id": "d3d758a517d0434497a63df7105c05bb",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d3d758a517d0434497a63df7105c05bb",
+          "width": 5712,
+          "height": 4284,
+          "ordering": 3
+        },
+        {
+          "file_id": "3942d601f62f4d7f997ad5da6ad2277d",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/3942d601f62f4d7f997ad5da6ad2277d",
+          "width": 4284,
+          "height": 5712,
+          "ordering": 4
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/88f3ccc496e8412692b298e1818b6062",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d2fb7bd906e44200a5a83cb0f4fdc03e",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d3d758a517d0434497a63df7105c05bb",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/3942d601f62f4d7f997ad5da6ad2277d"
+      ]
+    },
+    {
+      "review_id": "6112537",
+      "review_seq": 6112537,
+      "article_seq": 6112767,
+      "is_editable": false,
+      "reg_date_raw": 1776177409000,
+      "created_at": "2026-04-14T23:36:49+09:00",
+      "writer": {
+        "user_identifier": "G8471huooCSVXJNPs4PcBA",
+        "display_name": "예약을부르는엔프피",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "예약을부르는엔프피",
+      "author_id": "G8471huooCSVXJNPs4PcBA",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "평일 저녁에 조용하고 어두컴컴하지만 모던한 느낌에 시간가는 줄도 모르고 대화했어요! 음식도 정말 빨리 나오는데 맛이 좋아요! 메뉴는 3개였지만 스타터 이후 너무 순삭해버려서 사진이 없네요!\n주말엔 사람 많을 것 같지만 평일에 와서 더 좋았어요~!! 역 앞이라 위치도 최고에요",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "cc5365bc4d494cc380bff02986beb6a2",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/cc5365bc4d494cc380bff02986beb6a2",
+          "width": 640,
+          "height": 480,
+          "ordering": 1
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/cc5365bc4d494cc380bff02986beb6a2"
+      ]
+    },
+    {
+      "review_id": "5408835",
+      "review_seq": 5408835,
+      "article_seq": 5409065,
+      "is_editable": false,
+      "reg_date_raw": 1766845651000,
+      "created_at": "2025-12-27T23:27:31+09:00",
+      "writer": {
+        "user_identifier": "acJhjwKzi4IrXKJlBsl_tA",
+        "display_name": "비범한 개척가_20248",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "비범한 개척가_20248",
+      "author_id": "acJhjwKzi4IrXKJlBsl_tA",
+      "author_profile_thumb_url": null,
+      "rating": 4.800000190734863,
+      "food_score": 4.5,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "직원분들이 정말 친절하시고 매장 인테리어와 분위기가 정말 좋아요\n같이 온 사람들과 편하게 식사하면서 수다떨기 좋은 느낌의 분위기이고 음식도 꽤나 맛있게 먹었습니다\n연말 모임하기 딱 적당한 곳이었습니다!👍",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "9e60fa0c13c240fcafb699a847ecbea1",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/9e60fa0c13c240fcafb699a847ecbea1",
+          "width": 4284,
+          "height": 5712,
+          "ordering": 1
+        },
+        {
+          "file_id": "31daaca5167b4e4ea3b66cb545e4ebb2",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/31daaca5167b4e4ea3b66cb545e4ebb2",
+          "width": 4284,
+          "height": 5712,
+          "ordering": 2
+        },
+        {
+          "file_id": "08681e939cf548ec9789d592ccca5a4f",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/08681e939cf548ec9789d592ccca5a4f",
+          "width": 4284,
+          "height": 5712,
+          "ordering": 3
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/9e60fa0c13c240fcafb699a847ecbea1",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/31daaca5167b4e4ea3b66cb545e4ebb2",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/08681e939cf548ec9789d592ccca5a4f"
+      ]
+    },
+    {
+      "review_id": "5918626",
+      "review_seq": 5918626,
+      "article_seq": 5918856,
+      "is_editable": false,
+      "reg_date_raw": 1773476858000,
+      "created_at": "2026-03-14T17:27:38+09:00",
+      "writer": {
+        "user_identifier": "mXsrmRL7gBMwg_ON1thUQw",
+        "display_name": "흥미로운 마스터_53197",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/efmVpt/btsD1lZf0E7/Gc5ntJmMPhJP6O1PlImTc0/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "흥미로운 마스터_53197",
+      "author_id": "mXsrmRL7gBMwg_ON1thUQw",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/efmVpt/btsD1lZf0E7/Gc5ntJmMPhJP6O1PlImTc0/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "맛있었어요 분위기도 조용하고 와인도 맛있었습니다! 보틀로 주문해도 가격대 적당해요  콜키지 1.5만에 음식도 맛있고 추천합니다",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "b34ccb8a7e8c440c8c8e80ee2f19af9c",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/b34ccb8a7e8c440c8c8e80ee2f19af9c",
+          "width": 480,
+          "height": 640,
+          "ordering": 1
+        },
+        {
+          "file_id": "1cdb07621ea24910b65b0184c7c819be",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/1cdb07621ea24910b65b0184c7c819be",
+          "width": 480,
+          "height": 640,
+          "ordering": 2
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/b34ccb8a7e8c440c8c8e80ee2f19af9c",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/1cdb07621ea24910b65b0184c7c819be"
+      ]
+    },
+    {
+      "review_id": "5853732",
+      "review_seq": 5853732,
+      "article_seq": 5853962,
+      "is_editable": false,
+      "reg_date_raw": 1772427651000,
+      "created_at": "2026-03-02T14:00:51+09:00",
+      "writer": {
+        "user_identifier": "gGSc2pR1nkIe3ErxamLT4w",
+        "display_name": "여유로운 식도락가_25631",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/yrFNJ/btsP43ZpASy/8rkcMRCwtgoaapmUkOkNak/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "여유로운 식도락가_25631",
+      "author_id": "gGSc2pR1nkIe3ErxamLT4w",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/yrFNJ/btsP43ZpASy/8rkcMRCwtgoaapmUkOkNak/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "스테이크도 적당히 익혀서 맛있고 특히 뇨끼가 진짜진짜 맛있어요! 크림도 느끼하지 않고 간이 적당해서 맛있게 먹었어요!",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "de3e24e0c9644a6399135e8bbe48a80f",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/de3e24e0c9644a6399135e8bbe48a80f",
+          "width": 640,
+          "height": 640,
+          "ordering": 1
+        },
+        {
+          "file_id": "122a389a5dde4cc68da745592a4ba3df",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/122a389a5dde4cc68da745592a4ba3df",
+          "width": 640,
+          "height": 640,
+          "ordering": 2
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/de3e24e0c9644a6399135e8bbe48a80f",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/122a389a5dde4cc68da745592a4ba3df"
+      ]
+    },
+    {
+      "review_id": "5471927",
+      "review_seq": 5471927,
+      "article_seq": 5472157,
+      "is_editable": false,
+      "reg_date_raw": 1767439707000,
+      "created_at": "2026-01-03T20:28:27+09:00",
+      "writer": {
+        "user_identifier": "9NPjg0U27kiwwmvc_Tyg5Q",
+        "display_name": "영국무선인터넷",
+        "profile_thumb_url": "https://image.toast.com/aaaaaqx/profile/2022/09/22929151440124_rv_ctProfileThumb.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "영국무선인터넷",
+      "author_id": "9NPjg0U27kiwwmvc_Tyg5Q",
+      "author_profile_thumb_url": "https://image.toast.com/aaaaaqx/profile/2022/09/22929151440124_rv_ctProfileThumb.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "분위기가 넘 좋았구 맛있는 음식\n\n재방문의사 있엉용\n\n담번에 스테이끄 먹을라구영",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "4acccb96b5f04bedbb59075268ff12b3",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/4acccb96b5f04bedbb59075268ff12b3",
+          "width": 640,
+          "height": 360,
+          "ordering": 1
+        },
+        {
+          "file_id": "d16389e56b004cadb06a4eaa8dbaa41a",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d16389e56b004cadb06a4eaa8dbaa41a",
+          "width": 640,
+          "height": 360,
+          "ordering": 2
+        },
+        {
+          "file_id": "d9ac8a74d40643e59d52baa5b129e715",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d9ac8a74d40643e59d52baa5b129e715",
+          "width": 640,
+          "height": 360,
+          "ordering": 3
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/4acccb96b5f04bedbb59075268ff12b3",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d16389e56b004cadb06a4eaa8dbaa41a",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d9ac8a74d40643e59d52baa5b129e715"
+      ]
+    },
+    {
+      "review_id": "5824535",
+      "review_seq": 5824535,
+      "article_seq": 5824765,
+      "is_editable": false,
+      "reg_date_raw": 1772020901000,
+      "created_at": "2026-02-25T21:01:41+09:00",
+      "writer": {
+        "user_identifier": "o1uVxA__zzZDSnO7_3R5ug",
+        "display_name": "예리한 식객_22325",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "예리한 식객_22325",
+      "author_id": "o1uVxA__zzZDSnO7_3R5ug",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "굿굿 하고싶은 마음이 있습니다.\n오픈런이라서 우리테이블만 있어서 조용하고 좋았습니다!",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "f3ea0ce7ebaa4aa3800760a176c9cd6c",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/f3ea0ce7ebaa4aa3800760a176c9cd6c",
+          "width": 640,
+          "height": 480,
+          "ordering": 1
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/f3ea0ce7ebaa4aa3800760a176c9cd6c"
+      ]
+    },
+    {
+      "review_id": "6151996",
+      "review_seq": 6151996,
+      "article_seq": 6152226,
+      "is_editable": false,
+      "reg_date_raw": 1776769335000,
+      "created_at": "2026-04-21T20:02:15+09:00",
+      "writer": {
+        "user_identifier": "gqCEpRm9AsF0rR33GWgeYQ",
+        "display_name": "도토리토리",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "도토리토리",
+      "author_id": "gqCEpRm9AsF0rR33GWgeYQ",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "뇨끼가 특히 맛있었어요. 가격도 괜찮고 좋았어요~!",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "4c451a97835e4e48abff7e9d98d1328c",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/4c451a97835e4e48abff7e9d98d1328c",
+          "width": 5400,
+          "height": 7200,
+          "ordering": 1
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/4c451a97835e4e48abff7e9d98d1328c"
+      ]
+    },
+    {
+      "review_id": "5132406",
+      "review_seq": 5132406,
+      "article_seq": 5132636,
+      "is_editable": false,
+      "reg_date_raw": 1763258105000,
+      "created_at": "2025-11-16T10:55:05+09:00",
+      "writer": {
+        "user_identifier": "JhAHQhvok5Ilyqpv3RYCvw",
+        "display_name": "애옹이의 하루",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/b35yah/btsN0M8q9vd/vfIk6LYM9HJDtCN78ApmdK/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "애옹이의 하루",
+      "author_id": "JhAHQhvok5Ilyqpv3RYCvw",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/b35yah/btsN0M8q9vd/vfIk6LYM9HJDtCN78ApmdK/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "남자친구와 퇴근 후 데이트라 근무중에 후기나 위치 등등 보고 예약했어요\n퇴근후 방문하니 내부도 블랙 인테리어로 깔끔하고 조용하고 곧 크리스마스라 트리도 있고 포토존도 있어서 너무 깔끔하고 이뻤어요오\n뇨끼랑 청양크림 파스타 , 베리 하이볼 먹었는데 너무너무 맛있어요오\n 남자친구도 맛있게 먹구 넘 좋았어요오 나중에 또 갈게요오♥",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "1c0cd9daaadb4cbc953be17b1f55a2eb",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/1c0cd9daaadb4cbc953be17b1f55a2eb",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 1
+        },
+        {
+          "file_id": "18bcf31483c543339e5ed3e79e307ecf",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/18bcf31483c543339e5ed3e79e307ecf",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 2
+        },
+        {
+          "file_id": "422e40f8af40443d9fca503dab642b08",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/422e40f8af40443d9fca503dab642b08",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 3
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/1c0cd9daaadb4cbc953be17b1f55a2eb",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/18bcf31483c543339e5ed3e79e307ecf",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/422e40f8af40443d9fca503dab642b08"
+      ]
+    },
+    {
+      "review_id": "5408929",
+      "review_seq": 5408929,
+      "article_seq": 5409159,
+      "is_editable": false,
+      "reg_date_raw": 1766846401000,
+      "created_at": "2025-12-27T23:40:01+09:00",
+      "writer": {
+        "user_identifier": "C1YgwJjybe1GYbQjGTqc0w",
+        "display_name": "유주댕댕",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "유주댕댕",
+      "author_id": "C1YgwJjybe1GYbQjGTqc0w",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "아니 음식이 어쩜 이렇게 다 맛있죠? ❤️\n뇨끼 진짜 대박이구 샐러드도 너무 신선하고 파스타도 너무너무 맛있었습니다 😘\n저 빼고는 다들 차를 가지고 와서 주류를 못즐긴게 아쉬운데 다음에 한번 더 오자고 했어요! \n스텝분들도 넘 침절하시고, 실내조 깨끗하고 분위기 있었습니다!\n재방문의사 완전 있어요 👍🏻",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "35bf45fcd71d4aedbe95e480b4214a14",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/35bf45fcd71d4aedbe95e480b4214a14",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 1
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/35bf45fcd71d4aedbe95e480b4214a14"
+      ]
+    },
+    {
+      "review_id": "5340727",
+      "review_seq": 5340727,
+      "article_seq": 5340957,
+      "is_editable": false,
+      "reg_date_raw": 1766373451000,
+      "created_at": "2025-12-22T12:17:31+09:00",
+      "writer": {
+        "user_identifier": "Yz53AmGI4LEZ0NisjINJ9Q",
+        "display_name": "성공한 미식가_369",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "성공한 미식가_369",
+      "author_id": "Yz53AmGI4LEZ0NisjINJ9Q",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "연말이라 점심 약속으로 잡았는데 만석이네요~ \n하이볼이랑 같이 먹었어요. 둘러 보니 소개팅 하시는 분들도 많은거 같아요. 분위기가 크리스마스 느낌도 나고 살짝 어두워서 연인들도 좋겠네요. \n여자 넷이서 맛있는 점심 하고 왔습니다. 다음에 또 갈게요.",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "ce8134a8947942e4a913fca90bdd36b5",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/ce8134a8947942e4a913fca90bdd36b5",
+          "width": 4284,
+          "height": 5712,
+          "ordering": 1
+        },
+        {
+          "file_id": "810936677b6f48358d534acc3828ff86",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/810936677b6f48358d534acc3828ff86",
+          "width": 4284,
+          "height": 5712,
+          "ordering": 2
+        },
+        {
+          "file_id": "6433663e4d3340ddb43910bfe1da8093",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/6433663e4d3340ddb43910bfe1da8093",
+          "width": 4284,
+          "height": 5712,
+          "ordering": 3
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/ce8134a8947942e4a913fca90bdd36b5",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/810936677b6f48358d534acc3828ff86",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/6433663e4d3340ddb43910bfe1da8093"
+      ]
+    },
+    {
+      "review_id": "5686910",
+      "review_seq": 5686910,
+      "article_seq": 5687140,
+      "is_editable": false,
+      "reg_date_raw": 1770200518000,
+      "created_at": "2026-02-04T19:21:58+09:00",
+      "writer": {
+        "user_identifier": "YhHRCNe_H9g8BHyU4hHUUQ",
+        "display_name": "으귀찮아",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "으귀찮아",
+      "author_id": "YhHRCNe_H9g8BHyU4hHUUQ",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "투움바 파스타 맛있습니다!\n새우도 맛있고 더 맵게 해서 먹으면 매콤해서 딱 좋아요",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "ef91221c8312430f951788bf171a61c4",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/ef91221c8312430f951788bf171a61c4",
+          "width": 480,
+          "height": 640,
+          "ordering": 1
+        },
+        {
+          "file_id": "882a84d69b5c43edbc9a114217befcbe",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/882a84d69b5c43edbc9a114217befcbe",
+          "width": 480,
+          "height": 640,
+          "ordering": 2
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/ef91221c8312430f951788bf171a61c4",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/882a84d69b5c43edbc9a114217befcbe"
+      ]
+    },
+    {
+      "review_id": "3999512",
+      "review_seq": 3999512,
+      "article_seq": 3999742,
+      "is_editable": false,
+      "reg_date_raw": 1746174967000,
+      "created_at": "2025-05-02T17:36:07+09:00",
+      "writer": {
+        "user_identifier": "ia-LHIXI75h7qqpULYWt3w",
+        "display_name": "보승2",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "보승2",
+      "author_id": "ia-LHIXI75h7qqpULYWt3w",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "3번째 재방문이에요.. \n심지어 집도 직장도 근처도 아닌데 말이에요.\n3번 가는동안 계속 다른 지인들 데려갔는데 \n누굴 데려가도 다 맛있다고 감탄해요.\n진~~~짜 인생 맛집입니다👍\n무조건 한번은 가야하는집이에요!!!\n벌써 또 먹고싶다니...🤦‍♀️",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "40412485c7e14256bb604554849825c5",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/40412485c7e14256bb604554849825c5",
+          "width": 480,
+          "height": 640,
+          "ordering": 1
+        },
+        {
+          "file_id": "d594f12b07cb4dfba26c6b8d1fc2a065",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d594f12b07cb4dfba26c6b8d1fc2a065",
+          "width": 480,
+          "height": 640,
+          "ordering": 2
+        },
+        {
+          "file_id": "6ad2e54f34024b769afa7f2ac33ce9a2",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/6ad2e54f34024b769afa7f2ac33ce9a2",
+          "width": 480,
+          "height": 640,
+          "ordering": 3
+        },
+        {
+          "file_id": "a2ea1e813aa743c9a213caa93f21dbaa",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/a2ea1e813aa743c9a213caa93f21dbaa",
+          "width": 480,
+          "height": 640,
+          "ordering": 4
+        },
+        {
+          "file_id": "627a77fe4d814dae9ca9805424215c2b",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/627a77fe4d814dae9ca9805424215c2b",
+          "width": 480,
+          "height": 640,
+          "ordering": 5
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/40412485c7e14256bb604554849825c5",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d594f12b07cb4dfba26c6b8d1fc2a065",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/6ad2e54f34024b769afa7f2ac33ce9a2",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/a2ea1e813aa743c9a213caa93f21dbaa",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/627a77fe4d814dae9ca9805424215c2b"
+      ]
+    },
+    {
+      "review_id": "5359861",
+      "review_seq": 5359861,
+      "article_seq": 5360091,
+      "is_editable": false,
+      "reg_date_raw": 1766573471000,
+      "created_at": "2025-12-24T19:51:11+09:00",
+      "writer": {
+        "user_identifier": "YhHRCNe_H9g8BHyU4hHUUQ",
+        "display_name": "으귀찮아",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "으귀찮아",
+      "author_id": "YhHRCNe_H9g8BHyU4hHUUQ",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "파스타랑 뇨끼 진짜 맛있습니다!!",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "ba8506132c8e4986a07e706f820d90ba",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/ba8506132c8e4986a07e706f820d90ba",
+          "width": 480,
+          "height": 640,
+          "ordering": 1
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/ba8506132c8e4986a07e706f820d90ba"
+      ]
+    },
+    {
+      "review_id": "4566097",
+      "review_seq": 4566097,
+      "article_seq": 4566327,
+      "is_editable": false,
+      "reg_date_raw": 1754455020000,
+      "created_at": "2025-08-06T13:37:00+09:00",
+      "writer": {
+        "user_identifier": "nX9fFs1snupcru_5-h77gg",
+        "display_name": "쾌활한 미식가_11993",
+        "profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2025/02/edaf6aeb89c74b63a7c592058f9601a9?userProfileThumb",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "쾌활한 미식가_11993",
+      "author_id": "nX9fFs1snupcru_5-h77gg",
+      "author_profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2025/02/edaf6aeb89c74b63a7c592058f9601a9?userProfileThumb",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "너무 맛있어요 최고요!!!!\n사진울 다 올리진 못했지만 새로나온 시금치파스타도 너무 맛있고 개안적으로 투움바 파스타를 제일 좋아합니다",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "2e250f124ba64458b415b40881dcea8a",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/2e250f124ba64458b415b40881dcea8a",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 1
+        },
+        {
+          "file_id": "0a5bbf5b23b34e45980accd741031fa6",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/0a5bbf5b23b34e45980accd741031fa6",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 2
+        },
+        {
+          "file_id": "72ed013b2da54223aecbec7a7c38bab3",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/72ed013b2da54223aecbec7a7c38bab3",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 3
+        },
+        {
+          "file_id": "9cb2f2ac054549b29dbeacb9af509852",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/9cb2f2ac054549b29dbeacb9af509852",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 4
+        },
+        {
+          "file_id": "4882f284a33642ec948ae5be60a9be82",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/4882f284a33642ec948ae5be60a9be82",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 5
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/2e250f124ba64458b415b40881dcea8a",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/0a5bbf5b23b34e45980accd741031fa6",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/72ed013b2da54223aecbec7a7c38bab3",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/9cb2f2ac054549b29dbeacb9af509852",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/4882f284a33642ec948ae5be60a9be82"
+      ]
+    },
+    {
+      "review_id": "4327377",
+      "review_seq": 4327377,
+      "article_seq": 4327607,
+      "is_editable": false,
+      "reg_date_raw": 1751085673000,
+      "created_at": "2025-06-28T13:41:13+09:00",
+      "writer": {
+        "user_identifier": "nX9fFs1snupcru_5-h77gg",
+        "display_name": "쾌활한 미식가_11993",
+        "profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2025/02/edaf6aeb89c74b63a7c592058f9601a9?userProfileThumb",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "쾌활한 미식가_11993",
+      "author_id": "nX9fFs1snupcru_5-h77gg",
+      "author_profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2025/02/edaf6aeb89c74b63a7c592058f9601a9?userProfileThumb",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "너무 맛있게 잘 먹고 갑니다\n다 맛있는데 특히 수제뇨끼 먹어본 곳 중 최고였어요",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "dbab846e811f4d288ac4b14ac0178a02",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/dbab846e811f4d288ac4b14ac0178a02",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 1
+        },
+        {
+          "file_id": "842c636f14fd4eec9c511b31f30253f9",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/842c636f14fd4eec9c511b31f30253f9",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 2
+        },
+        {
+          "file_id": "a63ac8570d27449f8f2a847ecb8a4d37",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/a63ac8570d27449f8f2a847ecb8a4d37",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 3
+        },
+        {
+          "file_id": "94f3fea6078a45e3861f5c2d356fdb93",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/94f3fea6078a45e3861f5c2d356fdb93",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 4
+        },
+        {
+          "file_id": "51378f72035d492eb8d15e9ee09138c9",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/51378f72035d492eb8d15e9ee09138c9",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 5
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/dbab846e811f4d288ac4b14ac0178a02",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/842c636f14fd4eec9c511b31f30253f9",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/a63ac8570d27449f8f2a847ecb8a4d37",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/94f3fea6078a45e3861f5c2d356fdb93",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/51378f72035d492eb8d15e9ee09138c9"
+      ]
+    },
+    {
+      "review_id": "4749438",
+      "review_seq": 4749438,
+      "article_seq": 4749668,
+      "is_editable": false,
+      "reg_date_raw": 1757081401000,
+      "created_at": "2025-09-05T23:10:01+09:00",
+      "writer": {
+        "user_identifier": "_8rHtYpIQSkpa-3J1xqn-w",
+        "display_name": "김목단",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "김목단",
+      "author_id": "_8rHtYpIQSkpa-3J1xqn-w",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "수비드 된 스테이크 처음 먹어보는데, 엄청 부드럽고 육향이 많이 나서 좋았어요!\n같이 나오는 가니쉬들이나 곁들이는 소금이나 고추냉이도 너무 맛있었어요 ㅎㅎ\n명란오일 파스타는 감칠맛 좋고 깔끔했고, 뇨끼는 부드럽고 쫀쫀하면서 크림이 고소하니 좋았어요!\n맛있게 잘 먹고 갑니다 (__)",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "ANNIVERSARY",
+          "label": "기념일"
+        },
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "04623a3796e244318b4249d3f8cbc040",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/04623a3796e244318b4249d3f8cbc040",
+          "width": 3024,
+          "height": 4032,
+          "ordering": 1
+        },
+        {
+          "file_id": "c626ca942e72458384fc0a880b01f4f5",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/c626ca942e72458384fc0a880b01f4f5",
+          "width": 3024,
+          "height": 4032,
+          "ordering": 2
+        },
+        {
+          "file_id": "dc3182590fd046c0a7645e18a5a8a02a",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/dc3182590fd046c0a7645e18a5a8a02a",
+          "width": 5712,
+          "height": 4284,
+          "ordering": 3
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/04623a3796e244318b4249d3f8cbc040",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/c626ca942e72458384fc0a880b01f4f5",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/dc3182590fd046c0a7645e18a5a8a02a"
+      ]
+    },
+    {
+      "review_id": "5366463",
+      "review_seq": 5366463,
+      "article_seq": 5366693,
+      "is_editable": false,
+      "reg_date_raw": 1766633065000,
+      "created_at": "2025-12-25T12:24:25+09:00",
+      "writer": {
+        "user_identifier": "X9mBAKE5snuU5MVjcxrIKw",
+        "display_name": "맛집에만리뷰함",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "맛집에만리뷰함",
+      "author_id": "X9mBAKE5snuU5MVjcxrIKw",
+      "author_profile_thumb_url": null,
+      "rating": 4.5,
+      "food_score": 4.5,
+      "ambience_score": 4.5,
+      "service_score": 4.5,
+      "content": "투움바 파스타 맛있고, 고기도 맛있어요. 양도 많아서 배부르게 둘이서 먹을 수 있고, 술도 안시켜도 돼서 좋습니당.",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "6bad4002ecc6449d8030c588741cad03",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/6bad4002ecc6449d8030c588741cad03",
+          "width": 4284,
+          "height": 5712,
+          "ordering": 1
+        },
+        {
+          "file_id": "e5edf9ce58c94da9b6fa0efc04e5210e",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/e5edf9ce58c94da9b6fa0efc04e5210e",
+          "width": 4284,
+          "height": 5712,
+          "ordering": 2
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/6bad4002ecc6449d8030c588741cad03",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/e5edf9ce58c94da9b6fa0efc04e5210e"
+      ]
+    },
+    {
+      "review_id": "4534641",
+      "review_seq": 4534641,
+      "article_seq": 4534871,
+      "is_editable": false,
+      "reg_date_raw": 1754107441000,
+      "created_at": "2025-08-02T13:04:01+09:00",
+      "writer": {
+        "user_identifier": "n5E2mbL3VsGzppH3ymCXAA",
+        "display_name": "곤냥2",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "곤냥2",
+      "author_id": "n5E2mbL3VsGzppH3ymCXAA",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "차분한 블랙 인테리어라 분위기도 너무 좋고 음식도 너무 맛있어요!!!  뇨끼 크림소스가 맛있어용 뇨끼는 퐁신퐁신해요 ㅎㅎ",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "fa0f2f0eb6b64d2793a7e1694b2aaf69",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/fa0f2f0eb6b64d2793a7e1694b2aaf69",
+          "width": 1544,
+          "height": 1158,
+          "ordering": 1
+        },
+        {
+          "file_id": "65ce6b682e5d4a25abcc817cd5ab2386",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/65ce6b682e5d4a25abcc817cd5ab2386",
+          "width": 1158,
+          "height": 1544,
+          "ordering": 2
+        },
+        {
+          "file_id": "507d82c3b9e24bfb8119a7c73426493e",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/507d82c3b9e24bfb8119a7c73426493e",
+          "width": 1158,
+          "height": 1544,
+          "ordering": 3
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/fa0f2f0eb6b64d2793a7e1694b2aaf69",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/65ce6b682e5d4a25abcc817cd5ab2386",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/507d82c3b9e24bfb8119a7c73426493e"
+      ]
+    },
+    {
+      "review_id": "4521437",
+      "review_seq": 4521437,
+      "article_seq": 4521667,
+      "is_editable": false,
+      "reg_date_raw": 1753937415000,
+      "created_at": "2025-07-31T13:50:15+09:00",
+      "writer": {
+        "user_identifier": "nX9fFs1snupcru_5-h77gg",
+        "display_name": "쾌활한 미식가_11993",
+        "profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2025/02/edaf6aeb89c74b63a7c592058f9601a9?userProfileThumb",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "쾌활한 미식가_11993",
+      "author_id": "nX9fFs1snupcru_5-h77gg",
+      "author_profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2025/02/edaf6aeb89c74b63a7c592058f9601a9?userProfileThumb",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "수제뇨끼 너무 맛있어요\n신매뉴 시금치로 만든 파트타도 최고요\n 가면 꼭 먹는 럭키슈페너도 너무 맛있어요",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "58a35081fa934e1eb10bb5e8303a9947",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/58a35081fa934e1eb10bb5e8303a9947",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 1
+        },
+        {
+          "file_id": "9c729d250ffb418fa7c2dc05c9b8f52d",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/9c729d250ffb418fa7c2dc05c9b8f52d",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 2
+        },
+        {
+          "file_id": "5d24ef005e464061b366242965bfcfc6",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/5d24ef005e464061b366242965bfcfc6",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 3
+        },
+        {
+          "file_id": "fa84495d2a324cf28aefb4b5642e5314",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/fa84495d2a324cf28aefb4b5642e5314",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 4
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/58a35081fa934e1eb10bb5e8303a9947",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/9c729d250ffb418fa7c2dc05c9b8f52d",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/5d24ef005e464061b366242965bfcfc6",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/fa84495d2a324cf28aefb4b5642e5314"
+      ]
+    },
+    {
+      "review_id": "5077744",
+      "review_seq": 5077744,
+      "article_seq": 5077974,
+      "is_editable": false,
+      "reg_date_raw": 1762337270000,
+      "created_at": "2025-11-05T19:07:50+09:00",
+      "writer": {
+        "user_identifier": "PMJVYhCwz0-Di0ztHp93Xw",
+        "display_name": "고독한 맛사냥꾼_95363",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/3Gu8K/btsPU0DgQ83/k3qjh2DAjwbdaZQSKOlEOk/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "고독한 맛사냥꾼_95363",
+      "author_id": "PMJVYhCwz0-Di0ztHp93Xw",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/3Gu8K/btsPU0DgQ83/k3qjh2DAjwbdaZQSKOlEOk/img_640x640.jpg",
+      "rating": 4.800000190734863,
+      "food_score": 5.0,
+      "ambience_score": 4.5,
+      "service_score": 5.0,
+      "content": "파스타와 뇨끼 둘다 너무 맛있었습니다~\n분위기도 어둡지만 따뜻한 분위기에 느낌 좋은 곳이었네요!",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "BLIND_DATE",
+          "label": "소개팅"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "cd844d7e01ad44f993811a3ceb64d185",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/cd844d7e01ad44f993811a3ceb64d185",
+          "width": 640,
+          "height": 480,
+          "ordering": 1
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/cd844d7e01ad44f993811a3ceb64d185"
+      ]
+    },
+    {
+      "review_id": "5869719",
+      "review_seq": 5869719,
+      "article_seq": 5869949,
+      "is_editable": false,
+      "reg_date_raw": 1772673962000,
+      "created_at": "2026-03-05T10:26:02+09:00",
+      "writer": {
+        "user_identifier": "_LvuGkxOMlRDI2ugOfMS9g",
+        "display_name": "아름다운 식도락가_59878",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "아름다운 식도락가_59878",
+      "author_id": "_LvuGkxOMlRDI2ugOfMS9g",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "BLIND_DATE",
+          "label": "소개팅"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5855921",
+      "review_seq": 5855921,
+      "article_seq": 5856151,
+      "is_editable": false,
+      "reg_date_raw": 1772440466000,
+      "created_at": "2026-03-02T17:34:26+09:00",
+      "writer": {
+        "user_identifier": "NUO4BzZbctARNWu1uDbX7w",
+        "display_name": "비범한 미식가_40497",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "비범한 미식가_40497",
+      "author_id": "NUO4BzZbctARNWu1uDbX7w",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "COMPANY_OUTING",
+          "label": "회식"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "4865029",
+      "review_seq": 4865029,
+      "article_seq": 4865259,
+      "is_editable": false,
+      "reg_date_raw": 1758963883000,
+      "created_at": "2025-09-27T18:04:43+09:00",
+      "writer": {
+        "user_identifier": "nX9fFs1snupcru_5-h77gg",
+        "display_name": "쾌활한 미식가_11993",
+        "profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2025/02/edaf6aeb89c74b63a7c592058f9601a9?userProfileThumb",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "쾌활한 미식가_11993",
+      "author_id": "nX9fFs1snupcru_5-h77gg",
+      "author_profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2025/02/edaf6aeb89c74b63a7c592058f9601a9?userProfileThumb",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "오눌도 너무 맛있게 잘 먹고 갑니다",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "c002e3592a39417faa4ae9bb02c5579d",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/c002e3592a39417faa4ae9bb02c5579d",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 1
+        },
+        {
+          "file_id": "7e5580a8462a475196e8f2e5a1af7ca6",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/7e5580a8462a475196e8f2e5a1af7ca6",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 2
+        },
+        {
+          "file_id": "fd6657e122b5462db2d344b7b52fd8a3",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/fd6657e122b5462db2d344b7b52fd8a3",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 3
+        },
+        {
+          "file_id": "9a6feb247a394586ab5885aa73bc6726",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/9a6feb247a394586ab5885aa73bc6726",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 4
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/c002e3592a39417faa4ae9bb02c5579d",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/7e5580a8462a475196e8f2e5a1af7ca6",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/fd6657e122b5462db2d344b7b52fd8a3",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/9a6feb247a394586ab5885aa73bc6726"
+      ]
+    },
+    {
+      "review_id": "4769046",
+      "review_seq": 4769046,
+      "article_seq": 4769276,
+      "is_editable": false,
+      "reg_date_raw": 1757332965000,
+      "created_at": "2025-09-08T21:02:45+09:00",
+      "writer": {
+        "user_identifier": "fY3_FaX3TtJ64NPQceFcpQ",
+        "display_name": "예은LUCIA",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "예은LUCIA",
+      "author_id": "fY3_FaX3TtJ64NPQceFcpQ",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "영등포 거주 1n년차 찐 주민이고 10번 넘게 방문한 맛집입니당 \n분위기며 맛이며 영등포구청/문래 탑티어 맛집이예요\n은근히 양식 불모지인 이 서쪽 동네에서 유일한 빛이고요\n소개팅이나 청모하시는 분들이 대다수지만 저는 혼밥도 하러 옵니다\n오랜만에 고등학교 후배와 만나는 귀한 자리라 럭키어스로 모셨고 덕분에 진짜 배터졌어요 기네스 생맥 존맛입니다 ㅜㅜ",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 2,
+        "is_liked": false
+      },
+      "like_count": 2,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "606c99adcf86408bb1d70b087543ce3e",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/606c99adcf86408bb1d70b087543ce3e",
+          "width": 480,
+          "height": 640,
+          "ordering": 1
+        },
+        {
+          "file_id": "b82317c911f64bf0b3d65395f9bfe9bf",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/b82317c911f64bf0b3d65395f9bfe9bf",
+          "width": 480,
+          "height": 640,
+          "ordering": 2
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/606c99adcf86408bb1d70b087543ce3e",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/b82317c911f64bf0b3d65395f9bfe9bf"
+      ]
+    },
+    {
+      "review_id": "5612572",
+      "review_seq": 5612572,
+      "article_seq": 5612802,
+      "is_editable": false,
+      "reg_date_raw": 1769251760000,
+      "created_at": "2026-01-24T19:49:20+09:00",
+      "writer": {
+        "user_identifier": "2G8_U38TEw5iL5f9yKM9BQ",
+        "display_name": "Aradii",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "Aradii",
+      "author_id": "2G8_U38TEw5iL5f9yKM9BQ",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "맛있게 잘 먹었습니다! 요리가 나오는 데 조금 시간이 걸리긴 했지만, 그만큼 친절하게 신경써 주셔서 좋은 저녁 식사 시간이 되었습니다. 감바스가 특히 맛있었던 기억이 나네요!",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "FAMILY_MEAL",
+          "label": "가족식사"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5362344",
+      "review_seq": 5362344,
+      "article_seq": 5362574,
+      "is_editable": false,
+      "reg_date_raw": 1766580990000,
+      "created_at": "2025-12-24T21:56:30+09:00",
+      "writer": {
+        "user_identifier": "S5bhWWIfFQVsfiNP_0i7PQ",
+        "display_name": "조서희0",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "조서희0",
+      "author_id": "S5bhWWIfFQVsfiNP_0i7PQ",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "분위기도 좋고 요구사항도 친절히 들어주셔서 너무 좋았어요 \n음식도 맛있게 잘 먹었어요! 특히 뇨끼가 너무 맛있었네요 ㅎㅎㅎ",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "3753483",
+      "review_seq": 3753483,
+      "article_seq": 3753713,
+      "is_editable": false,
+      "reg_date_raw": 1741544544000,
+      "created_at": "2025-03-10T03:22:24+09:00",
+      "writer": {
+        "user_identifier": "ia-LHIXI75h7qqpULYWt3w",
+        "display_name": "보승2",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "보승2",
+      "author_id": "ia-LHIXI75h7qqpULYWt3w",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "지인들과의 모임장소를 찾다가 \n런치에 방문해서 먹었어요!\n\n뇨끼 ,리코타치즈샐러드 ,\n스테이크 ,명란오일파스타\n소세지감자튀김 주문해서 먹었고\n\n맥주와 글라스 화이트 와인, 하이볼, 아인슈페너 도 마셨는데 \n\n화이트와인은 스모키한 향이 났는데 달지않고 \n너무 맛있었어요!\n얼그레이하이볼도 여태먹은 하이볼 중에 최고!👍\n커피가 커피인듯 초코인듯 뭐지?여기 왜이렇게 맛있어? 하면서 배부른데 다 비웠네요.\n\n사장님이 요리에 완전 진심이신것 같아요.\n뭐 하나 대충 만드시는게 없나보다 라고 생각이 들 정도로 아쉬운 메뉴가 단 하나도 없어요! \n글 쓰면서 또 먹고 싶어지네요 ㅎㅎ\n\n이 퀄리티에 이 가격이라니 남는게 있으신지\n괜히 걱정이 될 정도에요...\n사장님 부디 오래오래 장사해주세요🙏\n무조건 재방문 할거에요!😊\n\n테이블도 식기도 다 비싸고 좋은것들로 쓰시더라구요.\n화장실에 이솝 핸드워시와 구강청결제, 비데까지 \n공간도 음식도 사장님의 깊은 배려와 철학이 \n말씀하시지 않더라도 간접적으로 느껴졌어요~\n절대 후회하지 않을 맛집입니다👍\n",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 4,
+        "is_liked": false
+      },
+      "like_count": 4,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "98689525b9694d9590c066c7661475aa",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/98689525b9694d9590c066c7661475aa",
+          "width": 480,
+          "height": 640,
+          "ordering": 1
+        },
+        {
+          "file_id": "6aa92ab0206c4fa798f8ae276b115728",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/6aa92ab0206c4fa798f8ae276b115728",
+          "width": 480,
+          "height": 640,
+          "ordering": 2
+        },
+        {
+          "file_id": "dd79dc863fa14a9a830a3f5e41ca95fc",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/dd79dc863fa14a9a830a3f5e41ca95fc",
+          "width": 480,
+          "height": 640,
+          "ordering": 3
+        },
+        {
+          "file_id": "f5c779ef3a8048b480ac0169f8ef1b23",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/f5c779ef3a8048b480ac0169f8ef1b23",
+          "width": 480,
+          "height": 640,
+          "ordering": 4
+        },
+        {
+          "file_id": "e98b438127974ee1aebda6ac99f26339",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/e98b438127974ee1aebda6ac99f26339",
+          "width": 480,
+          "height": 640,
+          "ordering": 5
+        },
+        {
+          "file_id": "04812bedcbf54ca99f1097b110f05639",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/04812bedcbf54ca99f1097b110f05639",
+          "width": 480,
+          "height": 640,
+          "ordering": 6
+        },
+        {
+          "file_id": "88b88ca2015a446bb77cfbbb24318822",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/88b88ca2015a446bb77cfbbb24318822",
+          "width": 480,
+          "height": 640,
+          "ordering": 7
+        },
+        {
+          "file_id": "3f48acbb0ec34a83a8845f8c1bc4107d",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/3f48acbb0ec34a83a8845f8c1bc4107d",
+          "width": 480,
+          "height": 640,
+          "ordering": 8
+        },
+        {
+          "file_id": "4296270b116a4f05982c8d8eb0939a8f",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/4296270b116a4f05982c8d8eb0939a8f",
+          "width": 480,
+          "height": 640,
+          "ordering": 9
+        },
+        {
+          "file_id": "da59826aad0d45fa824eb4f0fb7360eb",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/da59826aad0d45fa824eb4f0fb7360eb",
+          "width": 480,
+          "height": 640,
+          "ordering": 10
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/98689525b9694d9590c066c7661475aa",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/6aa92ab0206c4fa798f8ae276b115728",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/dd79dc863fa14a9a830a3f5e41ca95fc",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/f5c779ef3a8048b480ac0169f8ef1b23",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/e98b438127974ee1aebda6ac99f26339",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/04812bedcbf54ca99f1097b110f05639",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/88b88ca2015a446bb77cfbbb24318822",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/3f48acbb0ec34a83a8845f8c1bc4107d",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/4296270b116a4f05982c8d8eb0939a8f",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/da59826aad0d45fa824eb4f0fb7360eb"
+      ]
+    },
+    {
+      "review_id": "4575743",
+      "review_seq": 4575743,
+      "article_seq": 4575973,
+      "is_editable": false,
+      "reg_date_raw": 1754579146000,
+      "created_at": "2025-08-08T00:05:46+09:00",
+      "writer": {
+        "user_identifier": "uGY5gemSs502EXmGV0yW6Q",
+        "display_name": "당닝딩",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "당닝딩",
+      "author_id": "uGY5gemSs502EXmGV0yW6Q",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "뇨끼가 정말 맛있어서 박수 빡빡 치면서 무것어요 ㅠㅠ 다른곳에서 먹었을땐 너뮤 퍽퍽했는데 여긴 촉촉하고 크림도 존맛탱 ㅠ 사장님도 너무 친절하시고 담에 또 올게용 🥺🥺",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "c808df0067f04584a80140a064496264",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/c808df0067f04584a80140a064496264",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 1
+        },
+        {
+          "file_id": "87086351d88d462a9e2294c799aee42a",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/87086351d88d462a9e2294c799aee42a",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 2
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/c808df0067f04584a80140a064496264",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/87086351d88d462a9e2294c799aee42a"
+      ]
+    },
+    {
+      "review_id": "4383664",
+      "review_seq": 4383664,
+      "article_seq": 4383894,
+      "is_editable": false,
+      "reg_date_raw": 1751879374000,
+      "created_at": "2025-07-07T18:09:34+09:00",
+      "writer": {
+        "user_identifier": "lIONCBdJtP-dulOVMBZkxQ",
+        "display_name": "멋진 마스터_77638",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "멋진 마스터_77638",
+      "author_id": "lIONCBdJtP-dulOVMBZkxQ",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "레전드맛집입니다… ㅜㅜ 뇨끼랑 바게트가 진짜로 맛있었어요!! 분위기도 좋아서 사진도 잘 나와요",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "f39072f4167b4944ad12cb2f384ae46c",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/f39072f4167b4944ad12cb2f384ae46c",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 1
+        },
+        {
+          "file_id": "55e896bbf6034fd59b173d4acdc00272",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/55e896bbf6034fd59b173d4acdc00272",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 2
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/f39072f4167b4944ad12cb2f384ae46c",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/55e896bbf6034fd59b173d4acdc00272"
+      ]
+    },
+    {
+      "review_id": "5777364",
+      "review_seq": 5777364,
+      "article_seq": 5777594,
+      "is_editable": false,
+      "reg_date_raw": 1771390917000,
+      "created_at": "2026-02-18T14:01:57+09:00",
+      "writer": {
+        "user_identifier": "VIgp_0lvmjW2mNlvdOOCDQ",
+        "display_name": "지혜로운 마스터_51350",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/sAb1p/btrP9zZiWVC/62H4qAK9yC4exgTFb0KIoK/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "지혜로운 마스터_51350",
+      "author_id": "VIgp_0lvmjW2mNlvdOOCDQ",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/sAb1p/btrP9zZiWVC/62H4qAK9yC4exgTFb0KIoK/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "GROUP_MEETING",
+          "label": "단체모임"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5401100",
+      "review_seq": 5401100,
+      "article_seq": 5401330,
+      "is_editable": false,
+      "reg_date_raw": 1766820115000,
+      "created_at": "2025-12-27T16:21:55+09:00",
+      "writer": {
+        "user_identifier": "AQGPP20YR2DJu_C1vrLJ0g",
+        "display_name": "yoonseo_97",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "yoonseo_97",
+      "author_id": "AQGPP20YR2DJu_C1vrLJ0g",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5375912",
+      "review_seq": 5375912,
+      "article_seq": 5376142,
+      "is_editable": false,
+      "reg_date_raw": 1766659477000,
+      "created_at": "2025-12-25T19:44:37+09:00",
+      "writer": {
+        "user_identifier": "7GLxTwCLB265yatqm6vfPg",
+        "display_name": "정만둥",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "정만둥",
+      "author_id": "7GLxTwCLB265yatqm6vfPg",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "3790802",
+      "review_seq": 3790802,
+      "article_seq": 3791032,
+      "is_editable": false,
+      "reg_date_raw": 1742270309000,
+      "created_at": "2025-03-18T12:58:29+09:00",
+      "writer": {
+        "user_identifier": "GOKmTEILtMJVx-tvYOn-SA",
+        "display_name": "특별한 셀럽_2352",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/cqjfOx/btsAaZL2kVl/5vNPXlDsUDh0iaFFBcalI0/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "특별한 셀럽_2352",
+      "author_id": "GOKmTEILtMJVx-tvYOn-SA",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/cqjfOx/btsAaZL2kVl/5vNPXlDsUDh0iaFFBcalI0/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "점심에 방문했는데 손님도 많고 음식도 너무너무 맛있어서 모두 클리어했네요!!재료도 너무 싱싱하고 음식에 퀄리티가 높네요~!! 저녁에도 한번 들러야겠어요! ",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "01342b97f9fd4083ae51b106ef3c3a36",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/01342b97f9fd4083ae51b106ef3c3a36",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 1
+        },
+        {
+          "file_id": "817db240ab344e8ca9c3b7e41938485c",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/817db240ab344e8ca9c3b7e41938485c",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 2
+        },
+        {
+          "file_id": "c7abeb0e7fec4d64993bbeb98fa75243",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/c7abeb0e7fec4d64993bbeb98fa75243",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 3
+        },
+        {
+          "file_id": "388b86acf3864ffeaefecfde4791f977",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/388b86acf3864ffeaefecfde4791f977",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 4
+        },
+        {
+          "file_id": "d888fc611f944a359fda94d8cfd15230",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d888fc611f944a359fda94d8cfd15230",
+          "width": 1536,
+          "height": 1152,
+          "ordering": 5
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/01342b97f9fd4083ae51b106ef3c3a36",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/817db240ab344e8ca9c3b7e41938485c",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/c7abeb0e7fec4d64993bbeb98fa75243",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/388b86acf3864ffeaefecfde4791f977",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d888fc611f944a359fda94d8cfd15230"
+      ]
+    },
+    {
+      "review_id": "6108632",
+      "review_seq": 6108632,
+      "article_seq": 6108862,
+      "is_editable": false,
+      "reg_date_raw": 1776139683000,
+      "created_at": "2026-04-14T13:08:03+09:00",
+      "writer": {
+        "user_identifier": "Ce8Eb2T0iZ9l672500zCMA",
+        "display_name": "콩미나리",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "콩미나리",
+      "author_id": "Ce8Eb2T0iZ9l672500zCMA",
+      "author_profile_thumb_url": null,
+      "rating": 4.5,
+      "food_score": 4.5,
+      "ambience_score": 4.5,
+      "service_score": 4.5,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "3845027",
+      "review_seq": 3845027,
+      "article_seq": 3845257,
+      "is_editable": false,
+      "reg_date_raw": 1743315784000,
+      "created_at": "2025-03-30T15:23:04+09:00",
+      "writer": {
+        "user_identifier": "ia-LHIXI75h7qqpULYWt3w",
+        "display_name": "보승2",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "보승2",
+      "author_id": "ia-LHIXI75h7qqpULYWt3w",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "한달전 쯤 지인과 모임으로 방문해서 완전 반했어요 \n계속 생각나는맛이라 또 재방문 했어요!\n\n일단 파스타는 오래놔두어도 퍼지지 않아서 식감이\n첫 입부터 마지막 까지 너무 맛있어요.\n간도 재료들도 너무 신선하구요.\n\n뇨끼는 시판된게 아니고 직접 다 만드시는지 \n식감이 차원이 달라요.\n\n식감에 예민해서 \n해산물이나 스테이크 먹다가 조금이라도 식감이 거슬리면\n씹다가 뱉게 되거나, 혹은 몇입 먹을땐 맛있는데\n먹다가 느끼해서 남기거나 어느부위는 잘 익고 어느부위는 질기거나 균일하지 못한데 \n스테이크 익힘이 균일하고 거슬리는 식감 하나없이\n부드럽고 휼륭해요!\n\n마지막 바닐라 아이스크림까지 위에 피스타치오인지 \n견과류 같은걸 올려주셨는데 고급지고 쫀득한맛?이에요\n\n음식들 모두 좋은 재료들로 만들어주세요\n이 가격에 이 퀄리티라니... ㅠㅠ\n\n청결하고 분위기좋고 맛있고 친절하신데 부담스럽지않고 가성비까지 ... 진짜 안갈 이유가 없어요!!\n글을 쓰면서도 또 먹고싶어질 만큼 생각나는 맛이에요!\n\n너무 유명해져서 먹기 힘들까봐 걱정이지만 \n사장님 많이버시고 부자되세용☺️\n머지않아 또 재방문 하겠습니당...🤍",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "cfaf879d27fe40dea023ef32b341845e",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/cfaf879d27fe40dea023ef32b341845e",
+          "width": 640,
+          "height": 517,
+          "ordering": 1
+        },
+        {
+          "file_id": "44cbebd5193e4356873ce7932b92a74f",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/44cbebd5193e4356873ce7932b92a74f",
+          "width": 640,
+          "height": 360,
+          "ordering": 2
+        },
+        {
+          "file_id": "adb5bcf9cd40427a9a8ecaeaf25b820d",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/adb5bcf9cd40427a9a8ecaeaf25b820d",
+          "width": 640,
+          "height": 360,
+          "ordering": 3
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/cfaf879d27fe40dea023ef32b341845e",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/44cbebd5193e4356873ce7932b92a74f",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/adb5bcf9cd40427a9a8ecaeaf25b820d"
+      ]
+    },
+    {
+      "review_id": "5324335",
+      "review_seq": 5324335,
+      "article_seq": 5324565,
+      "is_editable": false,
+      "reg_date_raw": 1766210243000,
+      "created_at": "2025-12-20T14:57:23+09:00",
+      "writer": {
+        "user_identifier": "CY9DTkW3EkRfNB5NPNNCJA",
+        "display_name": "꿈꾸는 마스터_54230",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/dwlxZq/btsHSsNWMUW/fnsglkjPQJ4i6RjkKTH8W0/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "꿈꾸는 마스터_54230",
+      "author_id": "CY9DTkW3EkRfNB5NPNNCJA",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/dwlxZq/btsHSsNWMUW/fnsglkjPQJ4i6RjkKTH8W0/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": " 음식이 다 맛있고 직원들도 친절하시네요.\n벌써 2년이상 좋은 일이 있을 때마다 모임 장소로 정 해서 다녀요. 제가 이런 글 처음 써 보는데 추천드립니다. 가격도 좋고 분위기도 좋고 ㅎ",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "GROUP_MEETING",
+          "label": "단체모임"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "3372674",
+      "review_seq": 3372674,
+      "article_seq": 3372904,
+      "is_editable": false,
+      "reg_date_raw": 1734915530000,
+      "created_at": "2024-12-23T09:58:50+09:00",
+      "writer": {
+        "user_identifier": "Xfkb_XIjULGhvcdOG9bV7Q",
+        "display_name": "나나영준",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "나나영준",
+      "author_id": "Xfkb_XIjULGhvcdOG9bV7Q",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "너무나도 맛있게 잘 먹고 뇨끼 완전 맛있어요! 매장 안에 크리스마스여서 트리랑 곰돌이도 있는데 귀여워서 사진도 많이 찍었네요! 데이트 코스 완전 추천! 와인도 좋은 와인 싸게 팔아서 너무나도 잘 먹었어요!",
+      "review_comment": "",
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 2,
+        "is_liked": false
+      },
+      "like_count": 2,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "1968cac359074420b708c96b9d588877",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/1968cac359074420b708c96b9d588877",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 1
+        },
+        {
+          "file_id": "7ca4fb51c17d41328680874e808999f7",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/7ca4fb51c17d41328680874e808999f7",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 2
+        },
+        {
+          "file_id": "f9858bcbc7ac4297be4ce19a2175a691",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/f9858bcbc7ac4297be4ce19a2175a691",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 3
+        },
+        {
+          "file_id": "fd7365be08474d9da76491b22a8ae2e3",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/fd7365be08474d9da76491b22a8ae2e3",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 4
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/1968cac359074420b708c96b9d588877",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/7ca4fb51c17d41328680874e808999f7",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/f9858bcbc7ac4297be4ce19a2175a691",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/fd7365be08474d9da76491b22a8ae2e3"
+      ]
+    },
+    {
+      "review_id": "5303697",
+      "review_seq": 5303697,
+      "article_seq": 5303927,
+      "is_editable": false,
+      "reg_date_raw": 1765888404000,
+      "created_at": "2025-12-16T21:33:24+09:00",
+      "writer": {
+        "user_identifier": "a66Wcuk-lIHsPbzPCucVZw",
+        "display_name": "정직한 식객_52071",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/91ZS7/btsHP1C7NOv/oe5yJrDUhnzKd22YSJPSE0/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "정직한 식객_52071",
+      "author_id": "a66Wcuk-lIHsPbzPCucVZw",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/91ZS7/btsHP1C7NOv/oe5yJrDUhnzKd22YSJPSE0/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "BIRTHDAY",
+          "label": "생일"
+        },
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5120371",
+      "review_seq": 5120371,
+      "article_seq": 5120601,
+      "is_editable": false,
+      "reg_date_raw": 1763079640000,
+      "created_at": "2025-11-14T09:20:40+09:00",
+      "writer": {
+        "user_identifier": "ZMiOarHGaCW2HC4sv7YJPA",
+        "display_name": "서뉸",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "서뉸",
+      "author_id": "ZMiOarHGaCW2HC4sv7YJPA",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5111513",
+      "review_seq": 5111513,
+      "article_seq": 5111743,
+      "is_editable": false,
+      "reg_date_raw": 1762872283000,
+      "created_at": "2025-11-11T23:44:43+09:00",
+      "writer": {
+        "user_identifier": "PYK89eRTlqlSBDwDcPw-zw",
+        "display_name": "xdoeunx",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "xdoeunx",
+      "author_id": "PYK89eRTlqlSBDwDcPw-zw",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "ANNIVERSARY",
+          "label": "기념일"
+        },
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "3773915",
+      "review_seq": 3773915,
+      "article_seq": 3774145,
+      "is_editable": false,
+      "reg_date_raw": 1742013826000,
+      "created_at": "2025-03-15T13:43:46+09:00",
+      "writer": {
+        "user_identifier": "Yz53AmGI4LEZ0NisjINJ9Q",
+        "display_name": "성공한 미식가_369",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "성공한 미식가_369",
+      "author_id": "Yz53AmGI4LEZ0NisjINJ9Q",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "너무 많이 시켰나봐요 ㅎㅎㅎ 다 맛있어서 먹고 또시키고… 전 기네스 두잔 마시고 일행은 아인슈페너 시키고~ \n스테이크 새로나왔다길레 주문했는데 부드랍고 맛있어요.   \n그리고 맛이 깊어진거 같아요. ",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "6cba6400a55e4d659a1758d37daa61ef",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/6cba6400a55e4d659a1758d37daa61ef",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 1
+        },
+        {
+          "file_id": "20c7b8d084de416c93497dd2af2d8bb6",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/20c7b8d084de416c93497dd2af2d8bb6",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 2
+        },
+        {
+          "file_id": "7827e0deb61148448a3e6dd7a29e15e4",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/7827e0deb61148448a3e6dd7a29e15e4",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 3
+        },
+        {
+          "file_id": "6d6f526ee7804a2086817027a73c00cf",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/6d6f526ee7804a2086817027a73c00cf",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 4
+        },
+        {
+          "file_id": "9e08873d25bb452e89f855fedcd59407",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/9e08873d25bb452e89f855fedcd59407",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 5
+        },
+        {
+          "file_id": "9d91728650dc4e00b5f285c861227b2b",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/9d91728650dc4e00b5f285c861227b2b",
+          "width": 1536,
+          "height": 1152,
+          "ordering": 6
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/6cba6400a55e4d659a1758d37daa61ef",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/20c7b8d084de416c93497dd2af2d8bb6",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/7827e0deb61148448a3e6dd7a29e15e4",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/6d6f526ee7804a2086817027a73c00cf",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/9e08873d25bb452e89f855fedcd59407",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/9d91728650dc4e00b5f285c861227b2b"
+      ]
+    },
+    {
+      "review_id": "5656141",
+      "review_seq": 5656141,
+      "article_seq": 5656371,
+      "is_editable": false,
+      "reg_date_raw": 1769836305000,
+      "created_at": "2026-01-31T14:11:45+09:00",
+      "writer": {
+        "user_identifier": "ln-ZUIopfVexCh0X9Y5t6Q",
+        "display_name": "고삐풀린맛아지",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "고삐풀린맛아지",
+      "author_id": "ln-ZUIopfVexCh0X9Y5t6Q",
+      "author_profile_thumb_url": null,
+      "rating": 4.5,
+      "food_score": 4.5,
+      "ambience_score": 4.5,
+      "service_score": 4.5,
+      "content": "깔끔한 분위기와 음식",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "BUSINESS_MEETING",
+          "label": "비즈니스미팅"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "3655564",
+      "review_seq": 3655564,
+      "article_seq": 3655794,
+      "is_editable": false,
+      "reg_date_raw": 1739852243000,
+      "created_at": "2025-02-18T13:17:23+09:00",
+      "writer": {
+        "user_identifier": "nX9fFs1snupcru_5-h77gg",
+        "display_name": "쾌활한 미식가_11993",
+        "profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2025/02/edaf6aeb89c74b63a7c592058f9601a9?userProfileThumb",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "쾌활한 미식가_11993",
+      "author_id": "nX9fFs1snupcru_5-h77gg",
+      "author_profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2025/02/edaf6aeb89c74b63a7c592058f9601a9?userProfileThumb",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "와~\n음식이 너무 고급스럽고 맛있어요\n뇨끼 시그니처 메뉴답게 완전 강추요\n스테이크도 너무 맛있어요",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 3,
+        "is_liked": false
+      },
+      "like_count": 3,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "298f8fc26dd043cd978c6aeaf69d60b6",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/298f8fc26dd043cd978c6aeaf69d60b6",
+          "width": 1536,
+          "height": 1152,
+          "ordering": 1
+        },
+        {
+          "file_id": "0751c808ead84b2ab3b5a2f6fa3e1970",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/0751c808ead84b2ab3b5a2f6fa3e1970",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 2
+        },
+        {
+          "file_id": "a18e1f0f0b074e6a98e4bb725b8aabe6",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/a18e1f0f0b074e6a98e4bb725b8aabe6",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 3
+        },
+        {
+          "file_id": "6d92ab7e70a54a48a567007ebbf3c3b0",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/6d92ab7e70a54a48a567007ebbf3c3b0",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 4
+        },
+        {
+          "file_id": "f900f00b1f914829a65b4f8e8f836091",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/f900f00b1f914829a65b4f8e8f836091",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 5
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/298f8fc26dd043cd978c6aeaf69d60b6",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/0751c808ead84b2ab3b5a2f6fa3e1970",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/a18e1f0f0b074e6a98e4bb725b8aabe6",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/6d92ab7e70a54a48a567007ebbf3c3b0",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/f900f00b1f914829a65b4f8e8f836091"
+      ]
+    },
+    {
+      "review_id": "4545908",
+      "review_seq": 4545908,
+      "article_seq": 4546138,
+      "is_editable": false,
+      "reg_date_raw": 1754204595000,
+      "created_at": "2025-08-03T16:03:15+09:00",
+      "writer": {
+        "user_identifier": "dOuHIKh26rCUi-G7Y2B--A",
+        "display_name": "쾌활한 미식가_11286",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "쾌활한 미식가_11286",
+      "author_id": "dOuHIKh26rCUi-G7Y2B--A",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "사진을 안찍어서 아쉽지만은,,\n분위기와 맛이 상당히 좋았어요\n일단 직원분이 너무 너무 친절하셔서 절로 웃음지어지는 데이트자리였어요 \n다들 가보시면 아 진짜 친절하시고 맛이좋다라는 거 바로 느끼실 꺼 같아요! 그리고 기네스 맛잇어오~",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        },
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5832439",
+      "review_seq": 5832439,
+      "article_seq": 5832669,
+      "is_editable": false,
+      "reg_date_raw": 1772172673000,
+      "created_at": "2026-02-27T15:11:13+09:00",
+      "writer": {
+        "user_identifier": "38fHc39KEkMpV3tFwi4--Q",
+        "display_name": "kfantasy",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "kfantasy",
+      "author_id": "38fHc39KEkMpV3tFwi4--Q",
+      "author_profile_thumb_url": null,
+      "rating": 4.0,
+      "food_score": 4.0,
+      "ambience_score": 4.0,
+      "service_score": 4.0,
+      "content": "가격대비 괜찮은 레스토랑이었어요",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "4484643",
+      "review_seq": 4484643,
+      "article_seq": 4484873,
+      "is_editable": false,
+      "reg_date_raw": 1753459262000,
+      "created_at": "2025-07-26T01:01:02+09:00",
+      "writer": {
+        "user_identifier": "s_6_Qyy--M_3IkBk0S8rIA",
+        "display_name": "이사덕",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "이사덕",
+      "author_id": "s_6_Qyy--M_3IkBk0S8rIA",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "모임 목적으로 예약했는데, 친절하게 응대해주시고 무엇보다 음식이 너무 맛있었어요! 시끄럽지 않아서 모임하기도 좋았구요. 좋은 기회 얻으면 또 방문하고 싶은 곳입니다!",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "GROUP_MEETING",
+          "label": "단체모임"
+        },
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "3363959",
+      "review_seq": 3363959,
+      "article_seq": 3364189,
+      "is_editable": false,
+      "reg_date_raw": 1734779099000,
+      "created_at": "2024-12-21T20:04:59+09:00",
+      "writer": {
+        "user_identifier": "Hb24RQHgilUPtnxNSM1MeQ",
+        "display_name": "경쾌한 식도락가_37339",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "경쾌한 식도락가_37339",
+      "author_id": "Hb24RQHgilUPtnxNSM1MeQ",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "친구들과 예약 후 방문하였습니다.\n\n예약석으로 미리 세팅해주셔서 바로 이용가능했습니다.\n\n메뉴는 종류별로 시켜봤는데\n그 중에서 뇨끼가 제일 맛있었답니다.\n느끼하지 않은 크림 소스가 정말 맛있었어요.\n\n배부르고 기분 좋게 잘 먹고 갑니가!",
+      "review_comment": "",
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "eef3f702dda24d34adcfdedb5d7dcbad",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/eef3f702dda24d34adcfdedb5d7dcbad",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 1
+        },
+        {
+          "file_id": "7e9b83c7e2ff42d18650131794f1b8a5",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/7e9b83c7e2ff42d18650131794f1b8a5",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 2
+        },
+        {
+          "file_id": "ebc5b7e6f333479cb71aec5adfd8b067",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/ebc5b7e6f333479cb71aec5adfd8b067",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 3
+        },
+        {
+          "file_id": "3af08fbcf9bf4541880343ca228677af",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/3af08fbcf9bf4541880343ca228677af",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 4
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/eef3f702dda24d34adcfdedb5d7dcbad",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/7e9b83c7e2ff42d18650131794f1b8a5",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/ebc5b7e6f333479cb71aec5adfd8b067",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/3af08fbcf9bf4541880343ca228677af"
+      ]
+    },
+    {
+      "review_id": "4906259",
+      "review_seq": 4906259,
+      "article_seq": 4906489,
+      "is_editable": false,
+      "reg_date_raw": 1759639340000,
+      "created_at": "2025-10-05T13:42:20+09:00",
+      "writer": {
+        "user_identifier": "oM4KwnTsgiOYkadF3sg4pg",
+        "display_name": "인영^^",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "인영^^",
+      "author_id": "oM4KwnTsgiOYkadF3sg4pg",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "아늑하고 조용한 분위기에요. 친구와 같이 담소나누며 맛있는 뇨끼와 파스타를 먹었어요. 음식이 깔끔하고 맛있었어요. ^^",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "3894911",
+      "review_seq": 3894911,
+      "article_seq": 3895141,
+      "is_editable": false,
+      "reg_date_raw": 1744288970000,
+      "created_at": "2025-04-10T21:42:50+09:00",
+      "writer": {
+        "user_identifier": "GOKmTEILtMJVx-tvYOn-SA",
+        "display_name": "특별한 셀럽_2352",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/cqjfOx/btsAaZL2kVl/5vNPXlDsUDh0iaFFBcalI0/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "특별한 셀럽_2352",
+      "author_id": "GOKmTEILtMJVx-tvYOn-SA",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/cqjfOx/btsAaZL2kVl/5vNPXlDsUDh0iaFFBcalI0/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "저번에 점심에갔는데 너무 맛있어서 저녁에도 하이볼먹으러갔어요! 역쉬느 음식 다다다 너무 맛있구요 수비드스테이크 진짜 연하고 맛있었어요! 호텔스테이크보다 맛있어요! 하이볼도 종류별로 먹어봤는데 다 맛있네요~ ",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "afa38ebf9f0e4780ad3e45cf0bfc3986",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/afa38ebf9f0e4780ad3e45cf0bfc3986",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 1
+        },
+        {
+          "file_id": "0d98a21c0aa641bcb39e500069ce80f1",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/0d98a21c0aa641bcb39e500069ce80f1",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 2
+        },
+        {
+          "file_id": "386bcbb6a01f4a61a7b7abe570b84278",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/386bcbb6a01f4a61a7b7abe570b84278",
+          "width": 1544,
+          "height": 1158,
+          "ordering": 3
+        },
+        {
+          "file_id": "ca982a03457940859a0d7ee6edcb05a0",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/ca982a03457940859a0d7ee6edcb05a0",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 4
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/afa38ebf9f0e4780ad3e45cf0bfc3986",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/0d98a21c0aa641bcb39e500069ce80f1",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/386bcbb6a01f4a61a7b7abe570b84278",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/ca982a03457940859a0d7ee6edcb05a0"
+      ]
+    },
+    {
+      "review_id": "3774462",
+      "review_seq": 3774462,
+      "article_seq": 3774692,
+      "is_editable": false,
+      "reg_date_raw": 1742017517000,
+      "created_at": "2025-03-15T14:45:17+09:00",
+      "writer": {
+        "user_identifier": "nX9fFs1snupcru_5-h77gg",
+        "display_name": "쾌활한 미식가_11993",
+        "profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2025/02/edaf6aeb89c74b63a7c592058f9601a9?userProfileThumb",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "쾌활한 미식가_11993",
+      "author_id": "nX9fFs1snupcru_5-h77gg",
+      "author_profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2025/02/edaf6aeb89c74b63a7c592058f9601a9?userProfileThumb",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "오늘은 뇨끼가 더 맛있는 날이네요\n미리 예약한 스테이크에  포테이토와 와사비, 소금 약간 올려 먹으니 와~ 진짜 맛있어요 퀄리티 높은 호텔 스테이크보다 맛있어요 ",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 2,
+        "is_liked": false
+      },
+      "like_count": 2,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "d1bd4f387ef245818e08e691c5e7e097",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d1bd4f387ef245818e08e691c5e7e097",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 1
+        },
+        {
+          "file_id": "9b51a1a43907432c9a99f6cd32622fc9",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/9b51a1a43907432c9a99f6cd32622fc9",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 2
+        },
+        {
+          "file_id": "5d79ee2c4a96462bbde91a59f2efd631",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/5d79ee2c4a96462bbde91a59f2efd631",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 3
+        },
+        {
+          "file_id": "23e8d67e7e5f409cb9fcd9862935eaf4",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/23e8d67e7e5f409cb9fcd9862935eaf4",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 4
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d1bd4f387ef245818e08e691c5e7e097",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/9b51a1a43907432c9a99f6cd32622fc9",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/5d79ee2c4a96462bbde91a59f2efd631",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/23e8d67e7e5f409cb9fcd9862935eaf4"
+      ]
+    },
+    {
+      "review_id": "4151221",
+      "review_seq": 4151221,
+      "article_seq": 4151451,
+      "is_editable": false,
+      "reg_date_raw": 1748263476000,
+      "created_at": "2025-05-26T21:44:36+09:00",
+      "writer": {
+        "user_identifier": "jkoz3SBgEgvB5cSZagSkgg",
+        "display_name": "__금요일",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "__금요일",
+      "author_id": "jkoz3SBgEgvB5cSZagSkgg",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "홀이여도 너무시끄럽지않고, 음식도 괜찮았어요",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "3306370",
+      "review_seq": 3306370,
+      "article_seq": 3306600,
+      "is_editable": false,
+      "reg_date_raw": 1733626688000,
+      "created_at": "2024-12-08T11:58:08+09:00",
+      "writer": {
+        "user_identifier": "OKww1Sj4S9Liim-J6_vU3g",
+        "display_name": "채연아잉",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "채연아잉",
+      "author_id": "OKww1Sj4S9Liim-J6_vU3g",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "분위기 최고에 맛도 최고에욘 ㅠㅠㅠ 특히 뇨끼 맛잇엇어욤>_<",
+      "review_comment": "",
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "d299421e4c8748bc8f35d0b97eab3ba6",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d299421e4c8748bc8f35d0b97eab3ba6",
+          "width": 640,
+          "height": 480,
+          "ordering": 1
+        },
+        {
+          "file_id": "d52244b74e0b4f26b3677d306fb6849f",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d52244b74e0b4f26b3677d306fb6849f",
+          "width": 640,
+          "height": 480,
+          "ordering": 2
+        },
+        {
+          "file_id": "bbdc7389ecd74e58ade280a985fdd7e4",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/bbdc7389ecd74e58ade280a985fdd7e4",
+          "width": 640,
+          "height": 480,
+          "ordering": 3
+        },
+        {
+          "file_id": "20b7b958be51487ca997801f2f7af610",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/20b7b958be51487ca997801f2f7af610",
+          "width": 640,
+          "height": 480,
+          "ordering": 4
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d299421e4c8748bc8f35d0b97eab3ba6",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/d52244b74e0b4f26b3677d306fb6849f",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/bbdc7389ecd74e58ade280a985fdd7e4",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/20b7b958be51487ca997801f2f7af610"
+      ]
+    },
+    {
+      "review_id": "4951642",
+      "review_seq": 4951642,
+      "article_seq": 4951872,
+      "is_editable": false,
+      "reg_date_raw": 1760173218000,
+      "created_at": "2025-10-11T18:00:18+09:00",
+      "writer": {
+        "user_identifier": "obnOVacYxoNw7wtNB51huQ",
+        "display_name": "짜리12",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "짜리12",
+      "author_id": "obnOVacYxoNw7wtNB51huQ",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "4879454",
+      "review_seq": 4879454,
+      "article_seq": 4879684,
+      "is_editable": false,
+      "reg_date_raw": 1759155840000,
+      "created_at": "2025-09-29T23:24:00+09:00",
+      "writer": {
+        "user_identifier": "_qPchMCcJV1AUn2M6KeufA",
+        "display_name": "최고의 미식가_66241",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "최고의 미식가_66241",
+      "author_id": "_qPchMCcJV1AUn2M6KeufA",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "4557112",
+      "review_seq": 4557112,
+      "article_seq": 4557342,
+      "is_editable": false,
+      "reg_date_raw": 1754310833000,
+      "created_at": "2025-08-04T21:33:53+09:00",
+      "writer": {
+        "user_identifier": "os7qTIcnaGoCkKG3NQCgpg",
+        "display_name": "고독한 개척가_66125",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/dDLuBL/btsIWRsQK72/akkhEVuC5reoRKZDADJYbK/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "고독한 개척가_66125",
+      "author_id": "os7qTIcnaGoCkKG3NQCgpg",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/dDLuBL/btsIWRsQK72/akkhEVuC5reoRKZDADJYbK/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "BLIND_DATE",
+          "label": "소개팅"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "4444772",
+      "review_seq": 4444772,
+      "article_seq": 4445002,
+      "is_editable": false,
+      "reg_date_raw": 1752852884000,
+      "created_at": "2025-07-19T00:34:44+09:00",
+      "writer": {
+        "user_identifier": "M0caxDMVwWmg8yEft_ZxCg",
+        "display_name": "도도한 식객_54439",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "도도한 식객_54439",
+      "author_id": "M0caxDMVwWmg8yEft_ZxCg",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5170390",
+      "review_seq": 5170390,
+      "article_seq": 5170620,
+      "is_editable": false,
+      "reg_date_raw": 1763868610000,
+      "created_at": "2025-11-23T12:30:10+09:00",
+      "writer": {
+        "user_identifier": "QN6PNlJNbg83f4DJLNfJbA",
+        "display_name": "성공한 식객_34331",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/b62aoQ/btqCE8A5A8F/APWqXDYjEMKzyBm7M73P8K/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "성공한 식객_34331",
+      "author_id": "QN6PNlJNbg83f4DJLNfJbA",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/b62aoQ/btqCE8A5A8F/APWqXDYjEMKzyBm7M73P8K/img_640x640.jpg",
+      "rating": 4.5,
+      "food_score": 4.5,
+      "ambience_score": 4.5,
+      "service_score": 4.5,
+      "content": "뇨끼 먹었는데 너무 맛있었어요~\n분위기도 좋고 또 방문 할 예정입니다~",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "EAT_ALONE",
+          "label": "혼밥"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "3396931",
+      "review_seq": 3396931,
+      "article_seq": 3397161,
+      "is_editable": false,
+      "reg_date_raw": 1735139672000,
+      "created_at": "2024-12-26T00:14:32+09:00",
+      "writer": {
+        "user_identifier": "Ian0vCwIJbyY7KrE_5wSfA",
+        "display_name": "개구진 맛사냥꾼_6271",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/wfruk/btsJg8ASZ5v/vzDpuwunNZqRB5nc3ytyKK/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "개구진 맛사냥꾼_6271",
+      "author_id": "Ian0vCwIJbyY7KrE_5wSfA",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/wfruk/btsJg8ASZ5v/vzDpuwunNZqRB5nc3ytyKK/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "너무 맛있었고 분위기도 좋았어요!! 특히 뇨끼가 정말 맛있었어요!!! 매장도 넓직해서 쾌적했습니다..! 디저트로 쿠기도 주셨는데 달콤했습니당 다음에도 데이트하러 올게요~~",
+      "review_comment": "",
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "b57af44ea5b44571b7e48c529629595a",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/b57af44ea5b44571b7e48c529629595a",
+          "width": 360,
+          "height": 640,
+          "ordering": 1
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/b57af44ea5b44571b7e48c529629595a"
+      ]
+    },
+    {
+      "review_id": "3424292",
+      "review_seq": 3424292,
+      "article_seq": 3424522,
+      "is_editable": false,
+      "reg_date_raw": 1735479905000,
+      "created_at": "2024-12-29T22:45:05+09:00",
+      "writer": {
+        "user_identifier": "1mJpa0R5gaK8iz396Slh7A",
+        "display_name": "2뜬미",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "2뜬미",
+      "author_id": "1mJpa0R5gaK8iz396Slh7A",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "음식 전부 다 맛있었어요! 🖤 가운데 앉았는데 조명이 없어서 메뉴판이 잘 안보였어요 그거 말고는 다 좋았어요! 서비스두 친절하고 좋았어요 ☺️☺️",
+      "review_comment": "",
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "473a14f122b04c64b1c3c185d78ea569",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/473a14f122b04c64b1c3c185d78ea569",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 1
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/473a14f122b04c64b1c3c185d78ea569"
+      ]
+    },
+    {
+      "review_id": "3694461",
+      "review_seq": 3694461,
+      "article_seq": 3694691,
+      "is_editable": false,
+      "reg_date_raw": 1740548429000,
+      "created_at": "2025-02-26T14:40:29+09:00",
+      "writer": {
+        "user_identifier": "nX9fFs1snupcru_5-h77gg",
+        "display_name": "쾌활한 미식가_11993",
+        "profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2025/02/edaf6aeb89c74b63a7c592058f9601a9?userProfileThumb",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "쾌활한 미식가_11993",
+      "author_id": "nX9fFs1snupcru_5-h77gg",
+      "author_profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2025/02/edaf6aeb89c74b63a7c592058f9601a9?userProfileThumb",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "뇨끼!!!! 역시 실망시키지 않네요\n너무 맛있어요\n샐러드도 신선 ~\n스파게티면의 고급짐이 느껴져요\n잘생긴 젊은 사장님의 친절함도 한몪…",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "BUSINESS_MEETING",
+          "label": "비즈니스미팅"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 2,
+        "is_liked": false
+      },
+      "like_count": 2,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "46452d82ba254f1aa5794644dcc4f3a0",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/46452d82ba254f1aa5794644dcc4f3a0",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 1
+        },
+        {
+          "file_id": "50cba6b9fef740c9b776d3364aa48310",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/50cba6b9fef740c9b776d3364aa48310",
+          "width": 1152,
+          "height": 1536,
+          "ordering": 2
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/46452d82ba254f1aa5794644dcc4f3a0",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/50cba6b9fef740c9b776d3364aa48310"
+      ]
+    },
+    {
+      "review_id": "3449604",
+      "review_seq": 3449604,
+      "article_seq": 3449834,
+      "is_editable": false,
+      "reg_date_raw": 1735951443000,
+      "created_at": "2025-01-04T09:44:03+09:00",
+      "writer": {
+        "user_identifier": "3zdp-hO5zy_1p2DXUu1Umg",
+        "display_name": "루이27세",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "루이27세",
+      "author_id": "3zdp-hO5zy_1p2DXUu1Umg",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "사장님이 너무 친절하시고 테이블마다 충전도 되고 좋았어요!!..하이볼과 음식도 훌륭했습니다~~ 분위기 넘 좋아요",
+      "review_comment": "",
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "13c2e1f271c84096aadaf864ee4d7d7d",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/13c2e1f271c84096aadaf864ee4d7d7d",
+          "width": 360,
+          "height": 640,
+          "ordering": 1
+        },
+        {
+          "file_id": "9219b1dbf8ca439591071db3e2cdbb43",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/9219b1dbf8ca439591071db3e2cdbb43",
+          "width": 480,
+          "height": 640,
+          "ordering": 2
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/13c2e1f271c84096aadaf864ee4d7d7d",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/9219b1dbf8ca439591071db3e2cdbb43"
+      ]
+    },
+    {
+      "review_id": "3461039",
+      "review_seq": 3461039,
+      "article_seq": 3461269,
+      "is_editable": false,
+      "reg_date_raw": 1736156106000,
+      "created_at": "2025-01-06T18:35:06+09:00",
+      "writer": {
+        "user_identifier": "pqNS7yNm3gx_YioyN3_5FA",
+        "display_name": "비니이콩",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "비니이콩",
+      "author_id": "pqNS7yNm3gx_YioyN3_5FA",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "분위기도 너무 좋고, 맛도 너무 좋아서 기분 좋은 날이었어요!",
+      "review_comment": "",
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "BIRTHDAY",
+          "label": "생일"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "9eb71822a0ff4a179a285c5ef950febb",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/9eb71822a0ff4a179a285c5ef950febb",
+          "width": 864,
+          "height": 1536,
+          "ordering": 1
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/9eb71822a0ff4a179a285c5ef950febb"
+      ]
+    },
+    {
+      "review_id": "3637428",
+      "review_seq": 3637428,
+      "article_seq": 3637658,
+      "is_editable": false,
+      "reg_date_raw": 1739595639000,
+      "created_at": "2025-02-15T14:00:39+09:00",
+      "writer": {
+        "user_identifier": "7LLXZTDv2vocleLgHeGcdg",
+        "display_name": "베이크드비프",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "베이크드비프",
+      "author_id": "7LLXZTDv2vocleLgHeGcdg",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "아주 ~~~~~~~ 맛있어요!!!!\n라구랑 뇨끼 강추!!!",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [
+        {
+          "file_id": "b060b3b5477240988a1b4ec3d538b2d9",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/b060b3b5477240988a1b4ec3d538b2d9",
+          "width": 1536,
+          "height": 1152,
+          "ordering": 1
+        },
+        {
+          "file_id": "bf26af452c104c82ab4c940e7a554a14",
+          "original_url": "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/bf26af452c104c82ab4c940e7a554a14",
+          "width": 1536,
+          "height": 1152,
+          "ordering": 2
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/b060b3b5477240988a1b4ec3d538b2d9",
+        "https://ugc-images.catchtable.co.kr/rv/s-7bGSd4QLHh1HN8s3MM79w/bf26af452c104c82ab4c940e7a554a14"
+      ]
+    },
+    {
+      "review_id": "3800707",
+      "review_seq": 3800707,
+      "article_seq": 3800937,
+      "is_editable": false,
+      "reg_date_raw": 1742479706000,
+      "created_at": "2025-03-20T23:08:26+09:00",
+      "writer": {
+        "user_identifier": "fY3_FaX3TtJ64NPQceFcpQ",
+        "display_name": "예은LUCIA",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "예은LUCIA",
+      "author_id": "fY3_FaX3TtJ64NPQceFcpQ",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "청모 장소로 지인 추천받아 방문했는데\n분위기도 좋고 조용한 것도 좋았으나 정말 기대 이상이었던건 미친 음식 맛과 친철함이었어요....뇨끼도 맛있었고 초리조 레몬파스타 레몬 반개 통째로 올라가있는거 보고 재방문 확신했네요. 가성비도 너무 좋아요. 다음 청모도 여기서 하려고 바로 예약했습니다ㅋㅋㅋㅋㅋ",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "ANNIVERSARY",
+          "label": "기념일"
+        },
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "3650048",
+      "review_seq": 3650048,
+      "article_seq": 3650278,
+      "is_editable": false,
+      "reg_date_raw": 1739756809000,
+      "created_at": "2025-02-17T10:46:49+09:00",
+      "writer": {
+        "user_identifier": "W_JEmg3wfuqlz268_gjGfA",
+        "display_name": "유명한 식객_36209",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "유명한 식객_36209",
+      "author_id": "W_JEmg3wfuqlz268_gjGfA",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "파스타와 뇨끼를 주문해서 먹었다.\n뇨끼가 아주 맛있었다.\n파스타도 맛있었다.👍",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "ANNIVERSARY",
+          "label": "기념일"
+        },
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": 1,
+        "is_liked": false
+      },
+      "like_count": 1,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "4306605",
+      "review_seq": 4306605,
+      "article_seq": 4306835,
+      "is_editable": false,
+      "reg_date_raw": 1750686999000,
+      "created_at": "2025-06-23T22:56:39+09:00",
+      "writer": {
+        "user_identifier": "jjiMZW_oWLwSOcsOhBftmQ",
+        "display_name": "맛집사냥_김맹구",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "맛집사냥_김맹구",
+      "author_id": "jjiMZW_oWLwSOcsOhBftmQ",
+      "author_profile_thumb_url": null,
+      "rating": 4.699999809265137,
+      "food_score": 4.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "4373084",
+      "review_seq": 4373084,
+      "article_seq": 4373314,
+      "is_editable": false,
+      "reg_date_raw": 1751765472000,
+      "created_at": "2025-07-06T10:31:12+09:00",
+      "writer": {
+        "user_identifier": "IUvIoAXrlwT0OiyHMd7C0A",
+        "display_name": "후니쩝쩝",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "후니쩝쩝",
+      "author_id": "IUvIoAXrlwT0OiyHMd7C0A",
+      "author_profile_thumb_url": null,
+      "rating": 4.0,
+      "food_score": 4.0,
+      "ambience_score": 4.0,
+      "service_score": 4.0,
+      "content": "친구와 방문했습니다. 무난한 맛이에요",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "3403136",
+      "review_seq": 3403136,
+      "article_seq": 3403366,
+      "is_editable": false,
+      "reg_date_raw": 1735213044000,
+      "created_at": "2024-12-26T20:37:24+09:00",
+      "writer": {
+        "user_identifier": "BbtxmbI8YkQDVosv6HigCQ",
+        "display_name": "강직한 마스터_8416",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "강직한 마스터_8416",
+      "author_id": "BbtxmbI8YkQDVosv6HigCQ",
+      "author_profile_thumb_url": null,
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": "굿",
+      "review_comment": "",
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "DATE",
+          "label": "데이트"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "3660861",
+      "review_seq": 3660861,
+      "article_seq": 3661091,
+      "is_editable": false,
+      "reg_date_raw": 1739955938000,
+      "created_at": "2025-02-19T18:05:38+09:00",
+      "writer": {
+        "user_identifier": "WDi4zJTXTEnrtdIJsS9UwA",
+        "display_name": "재미있는 맛사냥꾼_14037",
+        "profile_thumb_url": "http://k.kakaocdn.net/dn/n88sO/btsLUC0sLut/Lq0jqGzJ9fjb5VmUOwjMX0/img_640x640.jpg",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "재미있는 맛사냥꾼_14037",
+      "author_id": "WDi4zJTXTEnrtdIJsS9UwA",
+      "author_profile_thumb_url": "http://k.kakaocdn.net/dn/n88sO/btsLUC0sLut/Lq0jqGzJ9fjb5VmUOwjMX0/img_640x640.jpg",
+      "rating": 5.0,
+      "food_score": 5.0,
+      "ambience_score": 5.0,
+      "service_score": 5.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "3836717",
+      "review_seq": 3836717,
+      "article_seq": 3836947,
+      "is_editable": false,
+      "reg_date_raw": 1743169042000,
+      "created_at": "2025-03-28T22:37:22+09:00",
+      "writer": {
+        "user_identifier": "7AGipBEnIzdk3NCyiVUwPw",
+        "display_name": "윤형lee",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "윤형lee",
+      "author_id": "7AGipBEnIzdk3NCyiVUwPw",
+      "author_profile_thumb_url": null,
+      "rating": 4.5,
+      "food_score": 4.5,
+      "ambience_score": 4.5,
+      "service_score": 4.5,
+      "content": "맛있어서 정신없이 먹었어요!",
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5425139",
+      "review_seq": 5425139,
+      "article_seq": 5425369,
+      "is_editable": false,
+      "reg_date_raw": 1766995535000,
+      "created_at": "2025-12-29T17:05:35+09:00",
+      "writer": {
+        "user_identifier": "y93df-W3AGTT-0_Qjqw13w",
+        "display_name": "아앜으악",
+        "profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2023/11/ffec24ae83c6445b92074bf80c37aad0?userProfileThumb",
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "아앜으악",
+      "author_id": "y93df-W3AGTT-0_Qjqw13w",
+      "author_profile_thumb_url": "https://ugc-images.catchtable.co.kr/profile/2023/11/ffec24ae83c6445b92074bf80c37aad0?userProfileThumb",
+      "rating": 3.5,
+      "food_score": 3.5,
+      "ambience_score": 4.0,
+      "service_score": 3.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "DINNER",
+          "label": "저녁"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "DINNER",
+      "meal_time_label": "저녁",
+      "visit_purpose": [
+        {
+          "code": "SOCIAL_GATHERING",
+          "label": "친목"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    },
+    {
+      "review_id": "5954300",
+      "review_seq": 5954300,
+      "article_seq": 5954530,
+      "is_editable": false,
+      "reg_date_raw": 1773991290000,
+      "created_at": "2026-03-20T16:21:30+09:00",
+      "writer": {
+        "user_identifier": "BOwyYK96iEvaNbokOjC93A",
+        "display_name": "꿈꾸는 미식가_24557",
+        "profile_thumb_url": null,
+        "grade": null,
+        "total_review_count": null,
+        "total_avg_score": null
+      },
+      "author": "꿈꾸는 미식가_24557",
+      "author_id": "BOwyYK96iEvaNbokOjC93A",
+      "author_profile_thumb_url": null,
+      "rating": 3.0,
+      "food_score": 3.0,
+      "ambience_score": 3.0,
+      "service_score": 3.0,
+      "content": null,
+      "review_comment": null,
+      "reservation": {
+        "reservation_type": "DINING",
+        "is_takeout": false,
+        "food_type": {
+          "code": "LUNCH",
+          "label": "점심"
+        }
+      },
+      "reservation_type": "DINING",
+      "is_takeout": false,
+      "meal_time_code": "LUNCH",
+      "meal_time_label": "점심",
+      "visit_purpose": [
+        {
+          "code": "ANNIVERSARY",
+          "label": "기념일"
+        }
+      ],
+      "engagement": {
+        "reply_count": null,
+        "like_count": null,
+        "is_liked": false
+      },
+      "like_count": null,
+      "reply_count": null,
+      "boss_reply": null,
+      "blinded": false,
+      "photos": [],
+      "videos": [],
+      "images": []
+    }
+  ],
+  "summary": {
+    "total_reviews_collected": 74,
+    "reviews_with_visit_purpose": 74,
+    "reviews_with_meal_time": 74,
+    "crawl_duration_seconds": 1.9
+  }
+}
