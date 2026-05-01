@@ -1,4 +1,5 @@
-About this class\n
+About this class
+
 • This course provides students with the background necessary to
 acquire, load, and transform data to support data analysis or
 modeling.
@@ -8,6 +9,7 @@ data platforms, crawling, and annotation.
 enhance the skills required for real-world application
 
 Couse objectives
+
 1. Articulation of fundamental data engineering concepts.
 2. Ability to acquire and utilize the latest related technologies.
 3. Construction of a data engineering pipeline for real-world
