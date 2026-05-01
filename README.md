@@ -1,4 +1,4 @@
-About this class
+About this class\n
 • This course provides students with the background necessary to
 acquire, load, and transform data to support data analysis or
 modeling.
