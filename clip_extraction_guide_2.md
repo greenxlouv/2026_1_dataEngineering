@@ -3,6 +3,7 @@
 ## 개요
 
 영화 프레임에서 CNN(ResNet50) 피처를 추출해서 4프레임 클립으로 묶고 HuggingFace에 업로드하는 파이프라인.
+violence와 neg_easy 클립 수 1:1.5로 조정된 ver
 
 ---
 
