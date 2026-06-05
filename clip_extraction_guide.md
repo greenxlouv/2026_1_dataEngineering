@@ -6,7 +6,7 @@
 
 ---
 
-## A. 로컬 - 맥북
+## A. 로컬 버전 (맥북)
 
 ### 조건
 - 로컬에 프레임이 이미 있는 경우
@@ -164,6 +164,142 @@ huggingface-cli upload DEteam4/datasetVer3 /경로/clips_이름_movie_ids.npy cl
 ```
 
 ---
+
+## A-2. 로컬 버전 (윈도우)
+
+### 조건
+- 로컬에 프레임이 이미 있는 경우
+- `violence_annotator\images\{영화이름}\frame_XXXXXX.jpg` 형태로 저장된 경우
+
+### 1단계: 패키지 설치
+
+```bash
+pip install torch torchvision numpy
+```
+
+### 2단계: 스크립트 작성
+
+아래 내용을 `build_clips.py`로 저장:
+
+```python
+import re
+import numpy as np
+import torch
+import torchvision.models as models
+import torchvision.transforms as transforms
+from PIL import Image
+import os
+
+# ========================================
+# ⚠️ 여기만 수정
+BASE_PATH = r'C:\Users\본인이름\Documents\경로\pj2\violence_annotator'  # 본인 경로로 변경
+SAVE_PATH = r'C:\Users\본인이름\Documents\경로\pj2'                      # npy 저장 경로
+SAVE_NAME = 'clips_이름'                                                  # 본인 이름으로 변경
+MY_MOVIES = ['영화1', '영화2', '영화3']                                    # 본인 담당 영화
+# ========================================
+
+device = 'cuda' if torch.cuda.is_available() else 'cpu'  # GPU 있으면 자동으로 cuda 사용
+print(f'디바이스: {device}')
+
+resnet = models.resnet50(weights='IMAGENET1K_V1')
+resnet = torch.nn.Sequential(*list(resnet.children())[:-1])
+resnet.eval().to(device)
+
+transform = transforms.Compose([
+    transforms.Resize((224, 224)),
+    transforms.ToTensor(),
+    transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
+])
+
+def extract_cnn_feature(image_path):
+    img = Image.open(image_path).convert('RGB')
+    x = transform(img).unsqueeze(0).to(device)
+    with torch.no_grad():
+        feat = resnet(x).squeeze().cpu().numpy()
+    return feat
+
+def build_clips_local(movie_id, clip_len=4, stride=2, max_neg_clips=100):
+    txt_path = os.path.join(BASE_PATH, 'output', f'{movie_id}.txt')
+    frames_dir = os.path.join(BASE_PATH, 'images', movie_id)
+
+    scenes = []
+    with open(txt_path, 'r') as f:
+        for line in f:
+            match = re.match(r'\[(.+),\s*(\d+),\s*(\d+),\s*(\d+),\s*(\w+)\]', line.strip())
+            if match:
+                start, end, label = int(match.group(3)), int(match.group(4)), match.group(5)
+                if label in ['violence', 'neg_easy']:
+                    scenes.append((start, end, label))
+
+    vio_clips, vio_labels = [], []
+    neg_clips, neg_labels = [], []
+
+    for (start, end, label) in scenes:
+        frames = list(range(start, end+1))
+        for i in range(0, len(frames) - clip_len + 1, stride):
+            clip_frames = frames[i:i+clip_len]
+            clip_feats = []
+            for f in clip_frames:
+                img_path = os.path.join(frames_dir, f'frame_{f:06d}.jpg')
+                if os.path.exists(img_path):
+                    clip_feats.append(extract_cnn_feature(img_path))
+                else:
+                    clip_feats.append(np.zeros(2048))
+            if len(clip_feats) == clip_len:
+                if label == 'violence':
+                    vio_clips.append(clip_feats)
+                    vio_labels.append(label)
+                else:
+                    neg_clips.append(clip_feats)
+                    neg_labels.append(label)
+
+    if len(neg_clips) > max_neg_clips:
+        idx = np.random.choice(len(neg_clips), max_neg_clips, replace=False)
+        neg_clips = [neg_clips[i] for i in idx]
+        neg_labels = [neg_labels[i] for i in idx]
+
+    return vio_clips + neg_clips, vio_labels + neg_labels
+
+X_clips, y_clips, movie_ids = [], [], []
+for movie in MY_MOVIES:
+    print(f'{movie} 처리 중...')
+    clips, labels = build_clips_local(movie)
+    X_clips.extend(clips)
+    y_clips.extend(labels)
+    movie_ids.extend([movie] * len(clips))
+    print(f'{movie} 완료: {len(clips)}개 | 누적: {len(X_clips)}개')
+    np.save(os.path.join(SAVE_PATH, f'{SAVE_NAME}_X.npy'), np.array(X_clips, dtype=np.float32))
+    np.save(os.path.join(SAVE_PATH, f'{SAVE_NAME}_y.npy'), np.array(y_clips))
+    np.save(os.path.join(SAVE_PATH, f'{SAVE_NAME}_movie_ids.npy'), np.array(movie_ids))
+    print('저장 완료')
+
+print(f'\n총 클립: {len(X_clips)}개')
+print(f'violence: {y_clips.count("violence")}개')
+print(f'neg_easy: {y_clips.count("neg_easy")}개')
+print(f'파일 위치: {SAVE_PATH}')
+print(f'이 파일들을 Jen에게 전달해주세요:')
+print(f'  {SAVE_NAME}_X.npy')
+print(f'  {SAVE_NAME}_y.npy')
+print(f'  {SAVE_NAME}_movie_ids.npy')
+```
+
+### 3단계: 실행
+
+명령 프롬프트(cmd) 또는 Anaconda Prompt에서:
+
+```bash
+cd C:\Users\본인이름\Documents\경로\pj2
+python build_clips.py
+```
+
+진행 상황 확인 (새 cmd 창에서):
+
+```bash
+python -c "import numpy as np; y = np.load('C:\\Users\\본인이름\\경로\\clips_이름_y.npy'); print(f'총 클립: {len(y)}개 | violence: {sum(y==\"violence\")}개 | neg_easy: {sum(y==\"neg_easy\")}개')"
+```
+
+---
+
 
 ## B. Colab 버전 (로컬 프레임 없는 경우)
 
