@@ -37,7 +37,7 @@ import os
 BASE_PATH = '/Users/본인이름/Documents/경로/pj2/violence_annotator'  # 본인 경로로 변경
 SAVE_PATH = '/Users/본인이름/Documents/경로/pj2'                      # npy 저장 경로
 SAVE_NAME = 'clips_이름'                                               # 본인 이름으로 변경
-MY_MOVIES = ['영화1', '영화2', '영화3']                                 # 본인 담당 영화
+MY_MOVIES = ['영화1', '영화2', '영화3']                                 # 본인 담당 영화 파일 이름
 # ========================================
 
 device = 'cpu'  # M1이면 'mps' 로 바꿔도 됨 (백그라운드 실행시 cpu 권장)
@@ -198,7 +198,7 @@ import os
 BASE_PATH = r'C:\Users\본인이름\Documents\경로\pj2\violence_annotator'  # 본인 경로로 변경
 SAVE_PATH = r'C:\Users\본인이름\Documents\경로\pj2'                      # npy 저장 경로
 SAVE_NAME = 'clips_이름'                                                  # 본인 이름으로 변경
-MY_MOVIES = ['영화1', '영화2', '영화3']                                    # 본인 담당 영화
+MY_MOVIES = ['영화1', '영화2', '영화3']                                    # 본인 담당 영화 파일 이름
 # ========================================
 
 device = 'cuda' if torch.cuda.is_available() else 'cpu'  # GPU 있으면 자동으로 cuda 사용
@@ -327,7 +327,7 @@ Colab 왼쪽 🔑 아이콘 → Add new secret
 ```python
 # ========================================
 # ⚠️ 여기만 수정
-MY_MOVIES = ['영화1', '영화2', '영화3']   # 본인 담당 영화 목록
+MY_MOVIES = ['영화1', '영화2', '영화3']   # 본인 담당 영화 파일 이름
 SAVE_NAME = 'clips_이름'                  # 본인 이름으로 변경
 DRIVE_PATH = ' Drive 경로'  #저장할 드라이브 경로
 # ========================================
