@@ -123,14 +123,16 @@ print(f'neg_easy: {y_clips.count("neg_easy")}개')
 ### 3단계: 실행
 
 ```bash
-cd /Users/본인이름/Documents/경로/pj2
-/opt/anaconda3/bin/python build_clips.py
+cd [build_clips.py 있는 파일 경로]
+[본인 가상환경, torch torchvision numpy 이거 설치된걸로] build_clips.py
+ex) /opt/anaconda3/bin/python build_clips.py
 ```
 
 백그라운드로 돌리려면:
 
 ```bash
-/opt/anaconda3/bin/python build_clips.py &
+[본인 가상환경, torch torchvision numpy 이거 설치된걸로] build_clips.py &
+ex) /opt/anaconda3/bin/python build_clips.py &
 disown %1
 ```
 
@@ -141,14 +143,14 @@ disown %1
 ps aux | grep build_clips | grep -v grep
 
 # 클립 쌓인 개수 확인
-/opt/anaconda3/bin/python -c "
+[본인 가상환경, torch torchvision numpy 이거 설치된걸로 ex)/opt/anaconda3/bin/python] -c "
 import numpy as np
 y = np.load('/Users/본인이름/경로/clips_이름_y.npy')
 print(f'총 클립: {len(y)}개 | violence: {sum(y==\"violence\")}개 | neg_easy: {sum(y==\"neg_easy\")}개')
 "
 ```
 
-### 4단계: HuggingFace 업로드
+### 4단계: HuggingFace 업로드(안해도 됨)
 
 ```bash
 # 로그인 (최초 1번)
@@ -167,11 +169,11 @@ huggingface-cli upload DEteam4/datasetVer3 /경로/clips_이름_movie_ids.npy cl
 
 ### 조건
 - 로컬에 프레임 없고 HuggingFace에 올라간 프레임 사용
-- Google Colab Pro 권장 (T4 GPU)
+- CPU, GPU 크게 상관 없음
 
 ### 1단계: Colab 설정
 
-런타임 → 런타임 유형 변경 → **T4 GPU** 선택
+런타임 → 런타임 유형 변경 → 마음에 드는 자원으로..
 
 ### 2단계: HuggingFace 토큰 등록 (최초 1번)
 
@@ -186,7 +188,7 @@ Colab 왼쪽 🔑 아이콘 → Add new secret
 # ⚠️ 여기만 수정
 MY_MOVIES = ['영화1', '영화2', '영화3']   # 본인 담당 영화 목록
 SAVE_NAME = 'clips_이름'                  # 본인 이름으로 변경
-DRIVE_PATH = '/content/drive/MyDrive/ColabNotebooks/dataEng/DE_PJ2'  # Drive 경로
+DRIVE_PATH = ' Drive 경로'  #저장할 드라이브 경로
 # ========================================
 
 # 설치
@@ -296,16 +298,8 @@ print(f'\n총 클립: {len(X_clips)}개')
 print(f'violence: {y_clips.count("violence")}개')
 print(f'neg_easy: {y_clips.count("neg_easy")}개')
 
-# HuggingFace 업로드
-api = HfApi()
-for suffix in ['X', 'y', 'movie_ids']:
-    api.upload_file(
-        path_or_fileobj=f'{DRIVE_PATH}/{SAVE_NAME}_{suffix}.npy',
-        path_in_repo=f'clips/{SAVE_NAME}_{suffix}.npy',
-        repo_id='DEteam4/datasetVer3',
-        repo_type='dataset'
-    )
-print('HuggingFace 업로드 완료')
+print(f'저장 완료!')
+print(f'파일 위치: {DRIVE_PATH}/{SAVE_NAME}_X.npy')
 ```
 
 ---
