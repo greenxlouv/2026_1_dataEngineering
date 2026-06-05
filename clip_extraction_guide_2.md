@@ -70,7 +70,7 @@ def build_clips_local(movie_id, clip_len=4, stride=2, neg_ratio=1.5):
             match = re.match(r'\[(.+),\s*(\d+),\s*(\d+),\s*(\d+),\s*(\w+)\]', line.strip())
             if match:
                 start, end, label = int(match.group(3)), int(match.group(4)), match.group(5)
-                if label in ['violence', 'neg_easy']:
+                if label in ['violence', 'neg_easy', 'neg_hard']:  # neg_hard 추가
                     scenes.append((start, end, label))
 
     vio_clips, vio_labels = [], []
@@ -90,10 +90,10 @@ def build_clips_local(movie_id, clip_len=4, stride=2, neg_ratio=1.5):
             if len(clip_feats) == clip_len:
                 if label == 'violence':
                     vio_clips.append(clip_feats)
-                    vio_labels.append(label)
+                    vio_labels.append('violence')
                 else:
                     neg_clips.append(clip_feats)
-                    neg_labels.append(label)
+                    neg_labels.append('neg_easy')  # neg_hard도 neg_easy로 저장
 
     # violence 클립 수 기준으로 neg_easy 자동 조정 (비율 1.5배)
     max_neg_clips = int(len(vio_clips) * neg_ratio)
@@ -231,7 +231,7 @@ def build_clips_local(movie_id, clip_len=4, stride=2, neg_ratio=1.5):
             match = re.match(r'\[(.+),\s*(\d+),\s*(\d+),\s*(\d+),\s*(\w+)\]', line.strip())
             if match:
                 start, end, label = int(match.group(3)), int(match.group(4)), match.group(5)
-                if label in ['violence', 'neg_easy']:
+                if label in ['violence', 'neg_easy', 'neg_hard']:  # neg_hard 추가
                     scenes.append((start, end, label))
 
     vio_clips, vio_labels = [], []
@@ -251,10 +251,10 @@ def build_clips_local(movie_id, clip_len=4, stride=2, neg_ratio=1.5):
             if len(clip_feats) == clip_len:
                 if label == 'violence':
                     vio_clips.append(clip_feats)
-                    vio_labels.append(label)
+                    vio_labels.append('violence')
                 else:
                     neg_clips.append(clip_feats)
-                    neg_labels.append(label)
+                    neg_labels.append('neg_easy')  # neg_hard도 neg_easy로 저장
 
     # violence 클립 수 기준으로 neg_easy 자동 조정 (비율 1.5배)
     max_neg_clips = int(len(vio_clips) * neg_ratio)
@@ -384,7 +384,7 @@ def build_clips_from_hf(movie_id, clip_len=4, stride=2, neg_ratio=1.5):
             match = re.match(r'\[(.+),\s*(\d+),\s*(\d+),\s*(\d+),\s*(\w+)\]', line.strip())
             if match:
                 start, end, label = int(match.group(3)), int(match.group(4)), match.group(5)
-                if label in ['violence', 'neg_easy']:
+                if label in ['violence', 'neg_easy', 'neg_hard']:  # neg_hard 추가
                     scenes.append((start, end, label))
 
     vio_clips, vio_labels = [], []
@@ -408,10 +408,10 @@ def build_clips_from_hf(movie_id, clip_len=4, stride=2, neg_ratio=1.5):
             if len(clip_feats) == clip_len:
                 if label == 'violence':
                     vio_clips.append(clip_feats)
-                    vio_labels.append(label)
+                    vio_labels.append('violence')
                 else:
                     neg_clips.append(clip_feats)
-                    neg_labels.append(label)
+                    neg_labels.append('neg_easy')  # neg_hard도 neg_easy로 저장
 
     # violence 클립 수 기준으로 neg_easy 자동 조정 (비율 1.5배)
     max_neg_clips = int(len(vio_clips) * neg_ratio)
