@@ -1,0 +1,7 @@
+dataset/
+__pycache__/
+*.pyc
+*.pth
+.DS_Store
+.ipynb_checkpoints/
+notebooks/
